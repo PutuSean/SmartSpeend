@@ -9,8 +9,7 @@ This scaffold includes production-ready structure, example modules, and basic te
 - `src/` modular code (OCR, data, features, models, pipeline, dashboard)
 - `models/` placeholder for saved models
 - `tests/` basic unit test templates
-- `docker/` Dockerfile and docker-compose.yml
-- `docs/` basic PRD and dataset rules placeholders
+- `docs/` ducument for capstone project and dataset rules placeholders
 - `requirements.txt` minimal deps
 
 ## How to use
