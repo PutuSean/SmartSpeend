@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+pytest
+streamlit
+opencv-python
+pillow
+pytesseract
+# Optional / recommended for better OCR performance:
+# paddlepaddle
+# paddleocr

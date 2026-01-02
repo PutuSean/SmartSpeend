@@ -1,0 +1,101 @@
+persona_id,cluster,age,city,job,marital_status,household_size,monthly_income,tech_usage,spending_style,salary_day,daily_cap,tx_mean,start_date
+P001,boros_impulsif,19,Medan,Mahasiswa,Married,2,29136029,High,Hemat,30,1500000,0.81,2020-09-09
+P002,keluarga_menengah,55,Yogyakarta,Wirausaha,Married,1,10397956,High,Boros,20,1500000,2.16,2020-02-08
+P003,keluarga_menengah,34,Yogyakarta,Freelancer,Single,2,13773144,High,Impulsif,25,200000,4.08,2021-11-23
+P004,student_hemat,23,Jakarta,Pegawai Swasta,Married,1,4862446,Medium,Sedang,20,400000,3.69,2021-01-16
+P005,pegawai_stabil,30,Semarang,Mahasiswa,Single,4,13770960,High,Hemat,25,3000000,5.31,2021-10-15
+P006,freelancer_fluktuatif,44,Yogyakarta,Mahasiswa,Single,5,13543379,High,Hemat,28,200000,5.88,2020-07-09
+P007,freelancer_fluktuatif,50,Bandung,Ibu Rumah Tangga,Married,2,19586489,Medium,Boros,25,3000000,2.14,2021-05-24
+P008,student_hemat,36,Surabaya,Mahasiswa,Single,1,10471020,Low,Boros,20,800000,4.02,2021-08-11
+P009,wirausaha,60,Denpasar,Pegawai Swasta,Single,5,29115597,High,Boros,30,800000,4.38,2020-12-13
+P010,pegawai_stabil,54,Bandung,Pegawai Swasta,Single,3,25540814,Medium,Impulsif,28,200000,0.96,2021-09-16
+P011,keluarga_menengah,48,Medan,Pegawai Swasta,Married,5,5401703,Medium,Boros,20,400000,1.38,2020-02-16
+P012,boros_impulsif,48,Denpasar,Ibu Rumah Tangga,Married,1,21939461,Medium,Hemat,25,800000,5.33,2021-10-10
+P013,wirausaha,27,Medan,Mahasiswa,Single,2,22266655,Medium,Boros,25,200000,2.5,2020-07-01
+P014,freelancer_fluktuatif,27,Denpasar,Pegawai Swasta,Single,5,19091373,Low,Boros,30,3000000,2.46,2022-05-31
+P015,freelancer_fluktuatif,37,Yogyakarta,Mahasiswa,Married,1,24271901,Low,Hemat,25,3000000,4.64,2020-11-06
+P016,wirausaha,32,Denpasar,Ibu Rumah Tangga,Married,4,15086311,High,Boros,25,200000,2.3,2022-06-01
+P017,pegawai_stabil,20,Jakarta,Wirausaha,Married,5,5070979,Medium,Hemat,25,3000000,2.04,2021-08-05
+P018,boros_impulsif,59,Jakarta,Mahasiswa,Single,2,9186514,High,Hemat,20,200000,0.84,2021-06-01
+P019,pegawai_stabil,44,Semarang,Freelancer,Single,1,10471479,High,Impulsif,25,1500000,2.7,2020-10-23
+P020,freelancer_fluktuatif,22,Bandung,Freelancer,Married,5,17360481,Low,Sedang,20,3000000,4.55,2021-05-29
+P021,tech_savvy,19,Semarang,Pegawai Swasta,Single,4,29448470,Low,Hemat,28,200000,5.21,2021-08-17
+P022,tech_savvy,23,Yogyakarta,Mahasiswa,Married,5,27713565,High,Impulsif,25,400000,4.15,2021-11-19
+P023,pegawai_stabil,40,Surabaya,Freelancer,Single,3,12324816,High,Impulsif,28,1500000,2.8,2021-08-11
+P024,student_hemat,46,Bandung,Pegawai Swasta,Married,4,22497350,Low,Boros,25,3000000,2.0,2020-11-22
+P025,keluarga_menengah,60,Yogyakarta,Mahasiswa,Single,4,11643350,Low,Sedang,20,1500000,4.45,2022-04-17
+P026,wirausaha,31,Jakarta,Mahasiswa,Single,1,7356372,High,Boros,28,200000,4.1,2020-08-16
+P027,keluarga_menengah,43,Bandung,Mahasiswa,Married,3,6590566,Medium,Hemat,30,1500000,2.45,2022-02-21
+P028,boros_impulsif,26,Semarang,Mahasiswa,Single,1,18709672,Medium,Hemat,20,3000000,4.25,2022-01-21
+P029,wirausaha,58,Medan,Ibu Rumah Tangga,Single,5,26531188,Low,Boros,20,3000000,3.61,2020-07-14
+P030,pegawai_stabil,60,Bandung,Freelancer,Married,2,10518625,Medium,Impulsif,28,3000000,3.03,2020-02-02
+P031,tech_savvy,52,Denpasar,Ibu Rumah Tangga,Single,2,2601294,Medium,Boros,25,400000,4.43,2020-07-02
+P032,freelancer_fluktuatif,51,Medan,Wirausaha,Single,5,10063280,Low,Hemat,20,1500000,2.69,2020-01-02
+P033,boros_impulsif,24,Jakarta,Wirausaha,Married,1,29893953,High,Hemat,28,400000,3.98,2021-02-27
+P034,tech_savvy,26,Surabaya,Wirausaha,Married,3,2677560,Medium,Sedang,20,3000000,1.97,2021-09-24
+P035,wirausaha,47,Denpasar,Pegawai Swasta,Single,2,18329093,Low,Boros,30,200000,4.43,2020-12-22
+P036,freelancer_fluktuatif,33,Bandung,Mahasiswa,Single,1,26555927,Medium,Boros,30,3000000,1.23,2021-12-05
+P037,pegawai_stabil,23,Jakarta,Mahasiswa,Single,4,15882195,Medium,Sedang,25,200000,2.1,2020-07-21
+P038,freelancer_fluktuatif,40,Jakarta,Freelancer,Single,4,5695459,Low,Boros,25,3000000,5.87,2022-01-10
+P039,wirausaha,50,Jakarta,Mahasiswa,Single,5,11008397,Low,Hemat,25,1500000,4.02,2022-06-13
+P040,boros_impulsif,51,Semarang,Pegawai Swasta,Single,4,26970447,Medium,Sedang,25,1500000,3.3,2022-02-26
+P041,wirausaha,18,Surabaya,Mahasiswa,Single,4,21610791,Low,Sedang,28,3000000,3.21,2020-10-11
+P042,pegawai_stabil,49,Surabaya,Ibu Rumah Tangga,Married,4,12472754,Medium,Impulsif,30,200000,2.52,2021-10-08
+P043,student_hemat,53,Denpasar,Wirausaha,Single,1,18884801,High,Hemat,20,1500000,3.66,2022-03-26
+P044,student_hemat,29,Yogyakarta,Wirausaha,Single,1,20880943,Low,Boros,28,400000,3.15,2021-08-12
+P045,freelancer_fluktuatif,56,Medan,Pegawai Swasta,Single,1,23737608,Low,Boros,20,400000,1.0,2022-04-26
+P046,keluarga_menengah,26,Semarang,Pegawai Swasta,Married,1,27655787,High,Sedang,25,200000,2.58,2021-01-18
+P047,student_hemat,56,Yogyakarta,Wirausaha,Married,3,25003171,High,Hemat,25,200000,1.05,2020-01-04
+P048,boros_impulsif,60,Bandung,Wirausaha,Single,4,23566245,High,Boros,30,3000000,0.86,2022-04-15
+P049,student_hemat,22,Bandung,Pegawai Swasta,Married,1,13009552,High,Sedang,30,3000000,3.88,2021-01-04
+P050,keluarga_menengah,53,Semarang,Ibu Rumah Tangga,Single,1,21962068,High,Impulsif,30,400000,4.41,2022-01-28
+P051,pegawai_stabil,54,Denpasar,Pegawai Swasta,Married,5,21446877,Low,Boros,28,200000,0.86,2021-07-19
+P052,tech_savvy,53,Bandung,Wirausaha,Single,2,25514464,High,Hemat,25,800000,3.21,2020-06-02
+P053,freelancer_fluktuatif,40,Bandung,Wirausaha,Married,5,25273538,High,Hemat,30,200000,1.4,2021-10-17
+P054,boros_impulsif,40,Yogyakarta,Mahasiswa,Single,5,20842323,Low,Hemat,30,800000,4.13,2020-06-07
+P055,wirausaha,47,Bandung,Mahasiswa,Single,1,23029977,Low,Impulsif,20,200000,2.75,2022-06-15
+P056,keluarga_menengah,25,Bandung,Freelancer,Single,4,23625371,High,Hemat,20,1500000,2.43,2021-03-28
+P057,tech_savvy,57,Denpasar,Wirausaha,Single,4,12044987,Medium,Sedang,30,800000,1.41,2020-07-31
+P058,freelancer_fluktuatif,28,Yogyakarta,Pegawai Swasta,Single,1,15007299,High,Sedang,20,200000,1.53,2020-09-16
+P059,student_hemat,47,Semarang,Freelancer,Single,3,10856012,Medium,Sedang,20,800000,5.76,2022-03-07
+P060,wirausaha,27,Medan,Pegawai Swasta,Married,2,10707155,Low,Sedang,25,3000000,4.63,2021-04-29
+P061,boros_impulsif,22,Surabaya,Mahasiswa,Single,5,23838678,Low,Hemat,25,3000000,0.93,2022-04-09
+P062,student_hemat,44,Yogyakarta,Wirausaha,Married,2,4451575,High,Sedang,30,200000,5.83,2020-06-18
+P063,boros_impulsif,53,Jakarta,Mahasiswa,Single,5,4333240,High,Sedang,30,400000,1.54,2020-10-22
+P064,pegawai_stabil,22,Denpasar,Ibu Rumah Tangga,Married,1,27971672,Medium,Boros,20,800000,4.63,2021-08-10
+P065,wirausaha,59,Jakarta,Pegawai Swasta,Married,5,13831628,High,Boros,30,1500000,3.38,2020-05-05
+P066,boros_impulsif,50,Bandung,Wirausaha,Single,1,13205636,Medium,Boros,20,3000000,3.86,2021-04-28
+P067,tech_savvy,38,Bandung,Freelancer,Single,3,16005072,Low,Hemat,25,200000,4.64,2020-04-20
+P068,freelancer_fluktuatif,60,Bandung,Freelancer,Single,4,12986960,Low,Impulsif,20,3000000,1.23,2021-12-25
+P069,freelancer_fluktuatif,21,Denpasar,Ibu Rumah Tangga,Married,2,4438396,High,Boros,20,400000,3.09,2021-02-25
+P070,pegawai_stabil,55,Bandung,Mahasiswa,Married,5,19859222,Low,Sedang,30,200000,4.3,2022-05-06
+P071,student_hemat,41,Medan,Pegawai Swasta,Single,1,18272647,High,Impulsif,25,800000,0.93,2020-10-03
+P072,student_hemat,33,Jakarta,Freelancer,Single,3,15966346,Low,Sedang,25,400000,2.47,2021-03-29
+P073,boros_impulsif,29,Surabaya,Pegawai Swasta,Married,5,28073513,Medium,Impulsif,30,800000,1.94,2021-03-06
+P074,freelancer_fluktuatif,22,Denpasar,Mahasiswa,Single,4,6307128,High,Sedang,30,200000,2.52,2020-02-24
+P075,keluarga_menengah,25,Medan,Mahasiswa,Married,3,20917589,Medium,Sedang,25,400000,3.66,2021-10-04
+P076,pegawai_stabil,18,Medan,Wirausaha,Single,4,25551468,Low,Sedang,25,1500000,1.25,2021-02-19
+P077,wirausaha,51,Jakarta,Freelancer,Married,1,28933794,High,Hemat,30,200000,5.01,2021-07-08
+P078,boros_impulsif,42,Denpasar,Ibu Rumah Tangga,Single,2,8761230,Low,Boros,30,200000,2.08,2021-08-29
+P079,boros_impulsif,29,Yogyakarta,Mahasiswa,Single,3,15729101,Medium,Sedang,20,200000,2.8,2020-03-30
+P080,tech_savvy,33,Surabaya,Pegawai Swasta,Married,3,29715401,High,Impulsif,30,200000,0.94,2021-04-21
+P081,student_hemat,52,Medan,Ibu Rumah Tangga,Single,3,18663568,Medium,Hemat,25,200000,2.95,2020-08-20
+P082,wirausaha,21,Denpasar,Freelancer,Married,1,24197468,High,Impulsif,28,800000,4.81,2022-02-23
+P083,wirausaha,50,Surabaya,Mahasiswa,Married,3,13585412,Low,Boros,30,1500000,2.9,2020-11-09
+P084,freelancer_fluktuatif,47,Jakarta,Pegawai Swasta,Married,1,10080776,Low,Hemat,28,200000,5.33,2021-01-08
+P085,freelancer_fluktuatif,48,Semarang,Freelancer,Married,5,13351142,Medium,Sedang,20,1500000,5.85,2021-11-11
+P086,tech_savvy,21,Bandung,Mahasiswa,Married,4,7654589,Medium,Boros,30,3000000,3.3,2020-01-31
+P087,student_hemat,20,Medan,Freelancer,Single,4,10368618,High,Impulsif,30,200000,3.85,2020-05-23
+P088,keluarga_menengah,48,Surabaya,Ibu Rumah Tangga,Single,2,21660742,Low,Hemat,30,400000,4.87,2020-07-22
+P089,pegawai_stabil,45,Denpasar,Ibu Rumah Tangga,Married,3,26853431,Low,Impulsif,20,800000,2.86,2020-05-29
+P090,student_hemat,23,Medan,Ibu Rumah Tangga,Single,2,11467632,High,Impulsif,28,1500000,5.14,2020-01-27
+P091,keluarga_menengah,34,Jakarta,Wirausaha,Single,3,21235553,Low,Sedang,30,1500000,5.5,2020-08-31
+P092,wirausaha,18,Jakarta,Mahasiswa,Married,1,9678028,Medium,Impulsif,30,400000,5.48,2020-05-02
+P093,wirausaha,50,Jakarta,Freelancer,Married,2,16429506,Medium,Boros,25,1500000,3.4,2020-03-21
+P094,pegawai_stabil,33,Medan,Mahasiswa,Married,4,22405912,Medium,Boros,30,800000,0.87,2021-12-06
+P095,keluarga_menengah,57,Surabaya,Ibu Rumah Tangga,Married,5,10441032,High,Sedang,20,3000000,4.04,2020-06-17
+P096,wirausaha,47,Jakarta,Pegawai Swasta,Single,5,27869891,Low,Hemat,25,3000000,3.98,2021-01-10
+P097,keluarga_menengah,48,Bandung,Mahasiswa,Single,4,28784803,Medium,Hemat,20,400000,1.64,2020-09-29
+P098,student_hemat,52,Bandung,Pegawai Swasta,Single,3,9670385,High,Hemat,25,800000,3.85,2021-12-07
+P099,wirausaha,18,Yogyakarta,Ibu Rumah Tangga,Married,3,15534363,High,Sedang,20,200000,4.77,2020-11-07
+P100,pegawai_stabil,33,Surabaya,Ibu Rumah Tangga,Married,1,23183371,Medium,Sedang,28,400000,2.89,2020-07-20

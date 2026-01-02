@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.DS_Store
+/models/
+/data/processed/
+/data/interim/
+.env
