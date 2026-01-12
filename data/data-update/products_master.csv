@@ -1,0 +1,1444 @@
+product_id,product_name,merchant,item_type,category,price_min,price_max
+1,MamyPoko Pants X-Tra Kering S-40,Modern Retail,Needs,Baby Care,52000,60000
+2,MamyPoko Pants X-Tra Kering M-34,Modern Retail,Needs,Baby Care,52000,60000
+3,MamyPoko Pants X-Tra Kering L-30,Modern Retail,Needs,Baby Care,52000,60000
+4,MamyPoko Pants X-Tra Kering XL-26,Modern Retail,Needs,Baby Care,52000,60000
+5,MamyPoko Pants X-Tra Kering XXL-24,Modern Retail,Needs,Baby Care,52000,60000
+6,Sweety Silver Pants M-30,Modern Retail,Needs,Baby Care,48000,55000
+7,Sweety Silver Pants L-28,Modern Retail,Needs,Baby Care,48000,55000
+8,Merries Pants Good Skin M-34,Kao Official,Needs,Baby Care,55000,65000
+9,Makuku Air Diapers Comfort Fit M-32,Modern Retail,Needs,Baby Care,50000,60000
+10,Baby Happy Body Fit Pants M-34,Wings Official,Needs,Baby Care,45000,52000
+11,Baby Happy Body Fit Pants L-30,Wings Official,Needs,Baby Care,45000,52000
+12,Fitti Pants M-32,Modern Retail,Needs,Baby Care,45000,50000
+13,Mitu Baby Wipes Ganti Popok 50 Sheets ,Modern Retail,Needs,Baby Care,14000,18000
+14,Cussons Baby Wipes Fresh & Nourish 50s,Modern Retail,Needs,Baby Care,15000,19000
+15,Promina Puffs Blueberry 15g,Modern Retail,Wants,Baby Care,28000,35000
+16,Promina Puffs Strawberry 15g,Modern Retail,Wants,Baby Care,28000,35000
+17,Promina Puffs Sweet Potato 15g,Modern Retail,Wants,Baby Care,28000,35000
+18,Promina Puffs Pisang 15g,Modern Retail,Wants,Baby Care,28000,35000
+19,Promina Baby Crunchies Keju Cheddar 20g,Modern Retail,Wants,Baby Care,12000,16000
+20,Promina Baby Crunchies Krim Ayam Brokoli 20g,Modern Retail,Wants,Baby Care,12000,16000
+21,Promina Baby Crunchies Rumput Laut 20g,Modern Retail,Wants,Baby Care,12000,16000
+22,Promina Biskuit Rusk Beras Merah 130g,Modern Retail,Wants,Baby Care,18000,24000
+23,Promina Biskuit Rusk Kacang Hijau 130g,Modern Retail,Wants,Baby Care,18000,24000
+24,Promina Biskuit Arrowroot Susu 110g,Modern Retail,Wants,Baby Care,15000,20000
+25,Promina Silky Pudding Coklat 100g,Modern Retail,Wants,Baby Care,13000,17000
+26,Promina Silky Pudding Strawberry 100g,Modern Retail,Wants,Baby Care,13000,17000
+27,Promina Sup Mi Daging Sayur 84g,Modern Retail,Needs,Baby Care,14000,18000
+28,Promina Sup Mi Ayam Sayur 84g,Modern Retail,Needs,Baby Care,14000,18000
+29,Milna Nature Puffs Organic Cheese 15g,Modern Retail,Wants,Baby Care,30000,38000
+30,Milna Nature Puffs Organic Apple Mix Berries 15g,Modern Retail,Wants,Baby Care,30000,38000
+31,Milna Nature Puffs Organic Banana 15g,Modern Retail,Wants,Baby Care,30000,38000
+32,Milna Rice Crackers Banana Berries 20g,Modern Retail,Wants,Baby Care,15000,20000
+33,Milna Rice Crackers Sweet Potato Carrot 20g,Modern Retail,Wants,Baby Care,15000,20000
+34,Milna Rice Crackers Apple Orange 20g,Modern Retail,Wants,Baby Care,15000,20000
+35,Milna Biskuit Bayi Original 130g,Modern Retail,Needs,Baby Care,16000,21000
+36,Milna Biskuit Bayi Beras Merah 130g,Modern Retail,Needs,Baby Care,16000,21000
+37,Milna Biskuit Bayi Kacang Hijau 130g,Modern Retail,Needs,Baby Care,16000,21000
+38,Milna Biskuit Bayi Pisang 130g,Modern Retail,Needs,Baby Care,16000,21000
+39,Milna Biskuit Bayi Jeruk 130g,Modern Retail,Needs,Baby Care,16000,21000
+40,Milna Kinder Biscuit Cheese 110g,Modern Retail,Wants,Baby Care,18000,23000
+41,Milna Kinder Biscuit Chocolate 110g,Modern Retail,Wants,Baby Care,18000,23000
+42,Milna Bubur Bayi WGAIN Ayam Kacang Polong 120g,Modern Retail,Needs,Baby Care,30000,38000
+43,Sun Biskuit Marie Susu 150g,Modern Retail,Wants,Baby Care,10000,14000
+44,Sun Biskuit Marie Susu & Madu 150g,Modern Retail,Wants,Baby Care,10000,14000
+45,Sun Bubur Sereal Susu Beras Merah 120g,Modern Retail,Needs,Baby Care,8000,12000
+46,Sun Bubur Sereal Susu Pisang 120g,Modern Retail,Needs,Baby Care,8000,12000
+47,Sun Bubur Sereal Susu Kacang Hijau 120g,Modern Retail,Needs,Baby Care,8000,12000
+48,Sun Bubur Sereal Susu Ayam Kampung 120g,Modern Retail,Needs,Baby Care,8000,12000
+49,Cerelac Nutripuffs Banana & Strawberry 25g,Modern Retail,Wants,Baby Care,18000,24000
+50,Cerelac Nutripuffs Spinach & Onion 25g,Modern Retail,Wants,Baby Care,18000,24000
+51,Cerelac Bubur Sereal Beras Merah 120g,Modern Retail,Needs,Baby Care,15000,19000
+52,Cerelac Bubur Sereal Wortel Bayam Labu 120g,Modern Retail,Needs,Baby Care,15000,19000
+53,Yummy Bites Rice Crackers Original 50g,Modern Retail,Wants,Baby Care,35000,45000
+54,Yummy Bites Rice Crackers Carrot 50g,Modern Retail,Wants,Baby Care,35000,45000
+55,Yummy Bites Rice Crackers Apple 50g,Modern Retail,Wants,Baby Care,35000,45000
+56,Yummy Bites Rice Crackers Banana 50g,Modern Retail,Wants,Baby Care,35000,45000
+57,Yummy Bites Rice Crackers Strawberry 50g,Modern Retail,Wants,Baby Care,35000,45000
+58,Yummy Bites Rice Crackers Vegetable 50g,Modern Retail,Wants,Baby Care,35000,45000
+59,Yummy Bites Beberoll Cheese 40g,Modern Retail,Wants,Baby Care,38000,48000
+60,Yummy Bites Beberoll Strawberry 40g,Modern Retail,Wants,Baby Care,38000,48000
+61,Yummy Bites Beberoll Chocolate 40g,Modern Retail,Wants,Baby Care,38000,48000
+62,Yummy Bites Yogurt Melts Mixed Berries 20g,Modern Retail,Wants,Baby Care,35000,45000
+63,Yummy Bites Yogurt Melts Gold Kiwi 20g,Modern Retail,Wants,Baby Care,35000,45000
+64,Gerber Teethers Wafers Strawberry Apple 48g,Premium Store,Wants,Baby Care,65000,80000
+65,Gerber Puffs Banana 42g,Premium Store,Wants,Baby Care,45000,55000
+66,Gerber Puffs Sweet Potato 42g,Premium Store,Wants,Baby Care,45000,55000
+67,Heinz Biscotti Chocolate 60g,Premium Store,Wants,Baby Care,25000,35000
+68,Farley's Biskuit Bayi Original 120g,Modern Retail,Needs,Baby Care,18000,24000
+69,Farley's Biskuit Bayi Jeruk 120g,Modern Retail,Needs,Baby Care,18000,24000
+70,Wardah Lightening Face Toner 125ml,Wardah Official,Needs,Beauty Care,24000,28000
+71,Wardah Lightening Whip Facial Foam 100ml,Indomaret,Needs,Beauty Care,28000,35000
+72,Wardah UV Shield Essential Sunscreen Gel SPF 30 40ml,Alfamart,Needs,Beauty Care,32000,38000
+73,Wardah Exclusive Matte Lip Cream 09 Mauve On,Watson,Wants,Beauty Care,58000,65000
+74,Wardah Colorfit Velvet Matte Lip Mousse 01 Brown Dreamer,Shopee - Wardah,Wants,Beauty Care,69000,75000
+75,Wardah Crystal Secret Dark Spot & Brightening Serum 20ml,Wardah Official,Wants,Beauty Care,85000,95000
+76,Wardah Acnederm Pore Blackhead Balm 20g,Guardian,Wants,Beauty Care,38000,45000
+77,Wardah Renew You Anti Aging Night Cream 30g,Wardah Official,Wants,Beauty Care,105000,115000
+78,Wardah Nature Daily Aloe Hydramild Multifunction Gel 100ml,Indomaret,Needs,Beauty Care,35000,42000
+79,Wardah C-Defense Serum 17ml,Tokopedia - Wardah,Wants,Beauty Care,78000,85000
+80,Emina Bright Stuff Face Wash 50ml,Indomaret,Needs,Beauty Care,16000,20000
+81,Emina Sun Battle SPF 30 PA+++ 60ml,Alfamart,Needs,Beauty Care,28000,33000
+82,Emina Ms. Pimple Acne Solution Moisturizing Gel 20ml,Guardian,Needs,Beauty Care,26000,30000
+83,Emina Glossy Stain 01 Autumn Bell,Shopee - Emina,Wants,Beauty Care,45000,50000
+84,Emina Cheeklit Cream Blush Pink,Watson,Wants,Beauty Care,38000,44000
+85,Emina Bright Stuff Tone Up Cream 20ml,Indomaret,Wants,Beauty Care,24000,28000
+86,Emina Apricot Jam Face Scrub 60ml,Emina Official,Wants,Beauty Care,28000,34000
+87,Emina Creamatte Lip Cream 15 Choco Puff,Tokopedia - Emina,Wants,Beauty Care,42000,49000
+88,Emina Sebum Fighter Loose Powder 8g,Guardian,Wants,Beauty Care,55000,62000
+89,Emina Skin Buddy Micellar Water 100ml,Alfamart,Needs,Beauty Care,27000,32000
+90,Make Over Powerstay Demi-Matte Cover Cushion N30,Make Over Official,Wants,Beauty Care,195000,215000
+91,Make Over Intense Matte Lip Cream 004 Vanity,Shopee - Make Over,Wants,Beauty Care,105000,119000
+92,Make Over Silky Smooth Translucent Powder,Watson,Wants,Beauty Care,120000,135000
+93,Make Over Hyperblack Superstay Liner,Guardian,Wants,Beauty Care,115000,129000
+94,Make Over Hydrastay Lite Glow Cushion W22,Make Over Official,Wants,Beauty Care,205000,225000
+95,Make Over Powerstay Transferproof Matte Lip Cream B03,Tokopedia - Make Over,Wants,Beauty Care,125000,135000
+96,Make Over Multifix Matte Blusher 03 Rose Hour,Make Over Official,Wants,Beauty Care,118000,128000
+97,Somethinc 5% Niacinamide + Moisture Sabi Beet Serum 20ml,Somethinc Official,Wants,Beauty Care,89000,99000
+98,Somethinc Low pH Gentle Jelly Cleanser 100ml,Somethinc Official,Needs,Beauty Care,99000,109000
+99,Somethinc Ceramic Skin Saviour Moisturizer Gel 25ml,Shopee - Somethinc,Wants,Beauty Care,169000,189000
+100,Somethinc Holyshield! UV Watery Sunscreen Gel SPF 50 15g,Tokopedia - Somethinc,Needs,Beauty Care,49000,59000
+101,Somethinc AHA BHA PHA Peeling Solution 20ml,Somethinc Official,Wants,Beauty Care,115000,125000
+102,Somethinc Game Changer Tripeptide Eye Concentrate 20ml,Somethinc Official,Wants,Beauty Care,145000,165000
+103,Somethinc Hooman Breathable UV Cushion Cover SPF 35,Somethinc Official,Wants,Beauty Care,185000,209000
+104,Somethinc Copy Paste Breathable Mesh Cushion,Shopee - Somethinc,Wants,Beauty Care,185000,209000
+105,Somethinc Bee Power Propolis & Manuka Honey Sleeping Mask,Somethinc Official,Wants,Beauty Care,129000,149000
+106,Somethinc Level 1% Retinol 20ml,Somethinc Official,Wants,Beauty Care,155000,175000
+107,Avoskin Miraculous Refining Toner 100ml,Avoskin Official,Wants,Beauty Care,169000,189000
+108,Avoskin Perfect Hydrating Treatment Essence 30ml,Shopee - Avoskin,Wants,Beauty Care,129000,149000
+109,Avoskin Your Skin Bae Salicylic Acid 2% + Zinc Serum,Avoskin Official,Wants,Beauty Care,139000,159000
+110,Avoskin Your Skin Bae Niacinamide 12% + Centella Asiatica,Tokopedia - Avoskin,Wants,Beauty Care,139000,159000
+111,Avoskin The Great Shield Sunscreen SPF 50 30ml,Avoskin Official,Needs,Beauty Care,139000,159000
+112,Avoskin Natural Sublime Facial Cleanser 100ml,Avoskin Official,Needs,Beauty Care,109000,129000
+113,Avoskin Miraculous Retinol Toner 100ml,Avoskin Official,Wants,Beauty Care,179000,199000
+114,Skintific 5X Ceramide Barrier Repair Moisture Gel 30g,Skintific Official,Wants,Beauty Care,139000,169000
+115,Skintific 5X Ceramide Low pH Cleanser 80ml,Shopee - Skintific,Needs,Beauty Care,89000,109000
+116,Skintific 2% Salicylic Acid Anti Acne Serum 20ml,Tokopedia - Skintific,Wants,Beauty Care,109000,129000
+117,Skintific 10% Niacinamide Brightening Serum 20ml,Skintific Official,Wants,Beauty Care,109000,129000
+118,Skintific 360 Crystal Massager Lifting Eye Cream,Skintific Official,Wants,Beauty Care,159000,189000
+119,Skintific Mugwort Anti Pores & Acne Clay Mask 55g,Skintific Official,Wants,Beauty Care,89000,109000
+120,Skintific Sunscreen Mist All Day Light SPF 50 50ml,Skintific Official,Needs,Beauty Care,79000,99000
+121,Skintific Truffle Biome Skin Cream Gel Moisturizer,Skintific Official,Wants,Beauty Care,149000,179000
+122,Skintific SymWhite 377 Dark Spot Eraser Serum,Skintific Official,Wants,Beauty Care,119000,139000
+123,Skintific 4D Hyaluronic Acid Barrier Essence Toner,Skintific Official,Needs,Beauty Care,99000,119000
+124,Azarine Hydrasoothe Sunscreen Gel SPF 45 50ml,Shopee - Azarine,Needs,Beauty Care,55000,65000
+125,Azarine Ceraspray Sunscreen SPF 50,Tokopedia - Azarine,Needs,Beauty Care,60000,70000
+126,Azarine Acne Spot Serum 20ml,Guardian,Wants,Beauty Care,28000,35000
+127,Azarine Cicamide Barrier Sunscreen Moisturiser 40ml,Watson,Needs,Beauty Care,35000,45000
+128,Azarine Toner Mild Purifying 90ml,Azarine Official,Needs,Beauty Care,30000,40000
+129,Azarine Serum Retinol Smooth Glowing 20ml,Shopee - Azarine,Wants,Beauty Care,55000,65000
+130,Scarlett Whitening Brightly Ever After Serum 15ml,Shopee - Scarlett,Wants,Beauty Care,60000,75000
+131,Scarlett Whitening Acne Serum 15ml,Tokopedia - Scarlett,Wants,Beauty Care,60000,75000
+132,Scarlett Whitening Body Lotion Jolly 300ml,Indomaret,Needs,Beauty Care,65000,75000
+133,Scarlett Whitening Body Lotion Charming 300ml,Alfamart,Needs,Beauty Care,65000,75000
+134,Scarlett Whitening Body Scrub Romansa 250ml,Guardian,Wants,Beauty Care,60000,70000
+135,Scarlett Whitening Facial Wash 100ml,Indomaret,Needs,Beauty Care,60000,70000
+136,Scarlett Whitening Glowtening Serum 15ml,Scarlett Official,Wants,Beauty Care,60000,75000
+137,Scarlett Whitening 7x Ceramide Moisturizer,Scarlett Official,Wants,Beauty Care,65000,75000
+138,Scarlett Whitening Sunscreen Sun Bright Daily SPF 50,Scarlett Official,Needs,Beauty Care,60000,70000
+139,Scarlett Whitening Peeling So Good 100ml,Scarlett Official,Wants,Beauty Care,60000,70000
+140,The Originote Hyalucera Moisturizer Gel 50ml,Shopee - Originote,Needs,Beauty Care,42000,50000
+141,The Originote Ceramella Sunscreen SPF 50 50g,Tokopedia - Originote,Needs,Beauty Care,42000,50000
+142,The Originote Cicamide Facial Cleanser 70g,Shopee - Originote,Needs,Beauty Care,35000,45000
+143,The Originote Ceraluronic Essence Toner 80ml,Shopee - Originote,Needs,Beauty Care,35000,45000
+144,The Originote Gluta-Bright B3 Serum 20ml,Shopee - Originote,Wants,Beauty Care,38000,48000
+145,The Originote Peeling Solution 20ml,The Originote Official,Wants,Beauty Care,38000,48000
+146,The Originote Eye Serum 15g,The Originote Official,Wants,Beauty Care,38000,48000
+147,The Originote Lash & Brow Serum,The Originote Official,Wants,Beauty Care,38000,48000
+148,The Originote Lip Oil Serum,The Originote Official,Wants,Beauty Care,35000,45000
+149,The Originote Acne B5 Serum 20ml,The Originote Official,Wants,Beauty Care,38000,48000
+150,Glad2Glow Blueberry 5% Ceramide Moisturizer 30g,Shopee - Glad2Glow,Needs,Beauty Care,39000,49000
+151,Glad2Glow Centella Allantoin Soothing Gel Moisturizer 55g,Tokopedia - Glad2Glow,Needs,Beauty Care,39000,49000
+152,Glad2Glow Pomegranate 5% Niacinamide Brightening Moisturizer,Glad2Glow Official,Wants,Beauty Care,39000,49000
+153,Glad2Glow Ultra Light Sunscreen Gel SPF 50,Glad2Glow Official,Needs,Beauty Care,35000,45000
+154,Glad2Glow Milk Amino Acid Gentle Cleanser 80ml,Glad2Glow Official,Needs,Beauty Care,35000,45000
+155,Glad2Glow Yuja Symwhite 377 Dark Spot Serum,Glad2Glow Official,Wants,Beauty Care,45000,55000
+156,Glad2Glow Real Mugwort Salicylic Acid Acne Clay Mask,Glad2Glow Official,Wants,Beauty Care,39000,49000
+157,Glad2Glow 2% Salicylic Acid Overnight Acne Spot Cream,Glad2Glow Official,Wants,Beauty Care,35000,45000
+158,Glad2Glow Berry Peptide Brightening Eye Cream,Glad2Glow Official,Wants,Beauty Care,45000,55000
+159,Glad2Glow AHA BHA PHA Intensive Peeling Solution,Glad2Glow Official,Wants,Beauty Care,45000,55000
+160,Implora Urban Lip Cream Matte 01 Dusky Nude,Indomaret,Wants,Beauty Care,18000,25000
+161,Implora Intense Matte Lipstick 05,Alfamart,Wants,Beauty Care,18000,22000
+162,Implora Eyebrow Pencil Black,Toko Kelontong,Wants,Beauty Care,6000,9000
+163,Implora Cheek & Lip Tint 01 Vampire Blood,Shopee - Implora,Wants,Beauty Care,18000,22000
+164,Implora Luminous Brightening Serum 20ml,Implora Official,Wants,Beauty Care,25000,35000
+165,Implora Acne Serum 20ml,Implora Official,Wants,Beauty Care,25000,35000
+166,Implora Peeling Serum 20ml,Implora Official,Wants,Beauty Care,25000,35000
+167,Implora Perfect Shield Sunscreen SPF 40,Implora Official,Needs,Beauty Care,30000,38000
+168,Implora Jelly Tint 03 Candy Apple,Implora Official,Wants,Beauty Care,18000,22000
+169,Implora Day To Day Two Way Cake,Implora Official,Wants,Beauty Care,55000,65000
+170,Hanasui Mattedorable Lip Cream Boba Edition,Shopee - Hanasui,Wants,Beauty Care,25000,32000
+171,Hanasui Serum Vitamin C + Collagen 20ml,Indomaret,Wants,Beauty Care,22000,28000
+172,Hanasui Power Bright Expert Serum 20ml,Hanasui Official,Wants,Beauty Care,25000,30000
+173,Hanasui Collagen Water Sunscreen SPF 50 30ml,Alfamart,Needs,Beauty Care,35000,42000
+174,Hanasui Body Lotion Milky 240ml,Indomaret,Needs,Beauty Care,18000,24000
+175,Hanasui Flawless Glow 10 Day Cream,Hanasui Official,Wants,Beauty Care,25000,30000
+176,Hanasui Flawless Glow 10 Night Cream,Hanasui Official,Wants,Beauty Care,25000,30000
+177,Hanasui Men Bright Active Serum 20ml,Hanasui Official,Wants,Beauty Care,22000,28000
+178,Hanasui Tintdorable Lip Stain 01 Cherry,Hanasui Official,Wants,Beauty Care,18000,24000
+179,Hanasui Eyebrow Pencil Black,Hanasui Official,Wants,Beauty Care,7000,10000
+180,Viva Air Mawar 100ml,Indomaret,Needs,Beauty Care,6000,8000
+181,Viva Milk Cleanser Bengkuang 100ml,Alfamart,Needs,Beauty Care,7000,9000
+182,Viva Face Tonic Bengkuang 100ml,Indomaret,Needs,Beauty Care,7000,9000
+183,Viva Face Tonic Lemon 100ml,Toko Kelontong,Needs,Beauty Care,7000,9000
+184,Viva Milk Cleanser Spirulina 100ml,Guardian,Needs,Beauty Care,8000,10000
+185,Viva Pensil Alis Hitam,Indomaret,Wants,Beauty Care,35000,40000
+186,Viva Pensil Alis Coklat,Alfamart,Wants,Beauty Care,35000,40000
+187,Viva Liquid Foundation Natural,Toko Kosmetik Pasar,Wants,Beauty Care,6000,8000
+188,Viva Bedak Tabur Sachet No 4,Toko Kelontong,Wants,Beauty Care,1500,2500
+189,Viva Queen Peeling Cream 22g,Watson,Wants,Beauty Care,8000,11000
+190,Viva White Soothing Aloe Gel 80g,Indomaret,Needs,Beauty Care,18000,23000
+191,Viva Special Day Cream 22g,Toko Kosmetik,Wants,Beauty Care,7000,9000
+192,Viva Collagen Night Cream 22g,Toko Kosmetik,Wants,Beauty Care,12000,15000
+193,Viva Red-A Matte Lipstick 801,Shopee - Viva,Wants,Beauty Care,15000,20000
+194,Viva White Waterdrop Sleeping Mask 80g,Viva Official,Wants,Beauty Care,25000,30000
+195,Sariayu Alas Bedak Kuning Langsat,Toko Kosmetik,Wants,Beauty Care,12000,16000
+196,Sariayu Bedak Tabur Energizing Aromatic,Toko Kosmetik,Wants,Beauty Care,18000,24000
+197,Sariayu Masker Beras Putih Sachet,Indomaret,Wants,Beauty Care,10000,14000
+198,Sariayu Two Way Cake 01,Watson,Wants,Beauty Care,45000,55000
+199,Sariayu Minyak Zaitun 25ml,Alfamart,Needs,Beauty Care,8000,11000
+200,Sariayu Krem Masker Jerawat 100g,Sariayu Official,Wants,Beauty Care,30000,38000
+201,Sariayu Putih Langsat Facial Foam 75g,Indomaret,Needs,Beauty Care,20000,25000
+202,Sariayu Intensive Acne Care,Sariayu Official,Wants,Beauty Care,25000,32000
+203,Sariayu Color Trend Lipstick,Sariayu Official,Wants,Beauty Care,40000,50000
+204,Sariayu Martha Tilaar Pembersih Kenanga,Toko Kosmetik,Needs,Beauty Care,15000,20000
+205,Mustika Ratu Minyak Zaitun 75ml,Indomaret,Needs,Beauty Care,22000,27000
+206,Mustika Ratu Air Sari Mawar Putih 75ml,Alfamart,Needs,Beauty Care,12000,16000
+207,Mustika Ratu Masker Bengkoang Bubuk,Indomaret,Wants,Beauty Care,9000,13000
+208,Mustika Ratu Peeling Mundisari Sachet,Toko Kelontong,Wants,Beauty Care,8000,12000
+209,Mustika Ratu Hair Tonic Penyubur Rambut 175ml,Guardian,Needs,Beauty Care,25000,32000
+210,Mustika Ratu Shampoo Bayam 175ml,Watson,Needs,Beauty Care,20000,26000
+211,Mustika Ratu Body Butter Olive 200g,Mustika Ratu Official,Needs,Beauty Care,45000,55000
+212,Mustika Ratu Hand & Body Lotion Zaitun 150ml,Indomaret,Needs,Beauty Care,18000,24000
+213,Mustika Ratu Anti Acne Facial Wash,Mustika Ratu Official,Needs,Beauty Care,28000,35000
+214,Mustika Ratu Krem Masker Bengkoang Tube,Mustika Ratu Official,Wants,Beauty Care,25000,32000
+215,Garnier Micellar Water Pink 125ml,Indomaret,Needs,Beauty Care,28000,35000
+216,Garnier Micellar Water Oil Infused 125ml,Alfamart,Wants,Beauty Care,38000,45000
+217,Garnier Light Complete Vitamin C Serum 30ml,Guardian,Wants,Beauty Care,105000,125000
+218,Garnier Bright Complete Facial Foam 100ml,Indomaret,Needs,Beauty Care,25000,32000
+219,Garnier Sakura White Day Cream 50ml,Watson,Needs,Beauty Care,55000,65000
+220,Garnier Men Acno Fight Wasabi Foam 100ml,Indomaret,Needs,Beauty Care,28000,35000
+221,Garnier Men Turbo Light Oil Control Foam 100ml,Alfamart,Needs,Beauty Care,28000,35000
+222,Garnier Serum Mask Hydra Bomb Pomegranate,Indomaret,Wants,Beauty Care,18000,24000
+223,Garnier Serum Mask Sakura White,Alfamart,Wants,Beauty Care,18000,24000
+224,Garnier Bright Complete Vitamin C Ampoule Serum,Guardian,Wants,Beauty Care,15000,20000
+225,Pond's Bright Beauty Facial Foam 100g,Indomaret,Needs,Beauty Care,25000,30000
+226,Pond's Acne Solution Facial Foam 100g,Alfamart,Needs,Beauty Care,28000,35000
+227,Pond's Age Miracle Day Cream 10g,Indomaret,Wants,Beauty Care,35000,42000
+228,Pond's White Beauty Serum Burst Cream 20g,Alfamart,Wants,Beauty Care,25000,30000
+229,Pond's Instabright Tone Up Milk Cream 20g,Guardian,Wants,Beauty Care,25000,30000
+230,Pond's Micellar Water Rose 100ml,Indomaret,Needs,Beauty Care,18000,24000
+231,Pond's Juice Collection Cleanser Watermelon 90g,Watson,Needs,Beauty Care,28000,35000
+232,Pond's Glitter Glow Peel Off Mask,Shopee - Unilever,Wants,Beauty Care,45000,55000
+233,Pond's Men Energy Charge Face Wash 100g,Indomaret,Needs,Beauty Care,30000,36000
+234,Pond's Men Lightning Oil Clear 100g,Alfamart,Needs,Beauty Care,30000,36000
+235,Citra Pearly White UV Hand & Body Lotion 230ml,Indomaret,Needs,Beauty Care,22000,27000
+236,Citra Natural Glowing White UV 230ml,Alfamart,Needs,Beauty Care,22000,27000
+237,Citra Fresh Glow Multifunction Gel Aloe Bright 180ml,Guardian,Needs,Beauty Care,25000,32000
+238,Citra Fresh Glow Multifunction Gel Tomato Bright 180ml,Watson,Needs,Beauty Care,25000,32000
+239,Citra Hazeline Pearly White UV Face Cream 40g,Toko Kosmetik,Needs,Beauty Care,28000,35000
+240,Citra Green Tea Anti Acne Face Moisturizer 40g,Indomaret,Needs,Beauty Care,28000,35000
+241,Citra Sakura Fair UV Body Lotion 230ml,Alfamart,Needs,Beauty Care,22000,27000
+242,Citra Night Whitening Body Lotion 230ml,Guardian,Needs,Beauty Care,25000,32000
+243,Citra Soap Bar Pearly White 70g,Toko Kelontong,Needs,Beauty Care,4000,6000
+244,Citra Golden Glow Mangir Jawa Body Lotion 230ml,Indomaret,Needs,Beauty Care,22000,27000
+245,Glow & Lovely Multivitamin Facial Foam 100g,Indomaret,Needs,Beauty Care,22000,28000
+246,Glow & Lovely Multivitamin Cream 25g,Alfamart,Needs,Beauty Care,18000,24000
+247,Glow & Lovely BB Cream 15g,Indomaret,Wants,Beauty Care,25000,30000
+248,Glow & Lovely 2-in-1 Powder Cream 20g,Alfamart,Wants,Beauty Care,20000,26000
+249,Glow & Lovely Masker Serum Vitamin C,Indomaret,Wants,Beauty Care,12000,16000
+250,Kelly Pearl Cream 15g,Toko Kosmetik Pasar,Needs,Beauty Care,8000,12000
+251,Kelly Lemon Soap 75g,Toko Kosmetik Pasar,Needs,Beauty Care,10000,15000
+252,Bedak Marcks Bedak Tabur Creme 40g,Apotek K-24,Wants,Beauty Care,15000,20000
+253,Bedak Marcks Bedak Tabur Rose 40g,Indomaret,Wants,Beauty Care,15000,20000
+254,Fanbo Pensil Alis Coklat,Toko Kosmetik,Wants,Beauty Care,25000,35000
+255,Purbasari Lipstick Color Matte 81 Diamond,Indomaret,Wants,Beauty Care,32000,38000
+256,Purbasari Lulur Mandi Bengkoang 235g,Alfamart,Wants,Beauty Care,18000,24000
+257,Purbasari Sabun Sirih Manjakani 60ml,Indomaret,Needs,Beauty Care,12000,16000
+258,Marina UV White Hand & Body Lotion Healthy & Glow 185ml,Indomaret,Needs,Beauty Care,10000,14000
+259,Aqua Air Mineral PET 220ml (Gelas/Cup),Grosir Sembako,Needs,Beverages,500,1000
+260,Aqua Air Mineral PET 330ml (Mini/Click),Alfamart/Indomaret,Needs,Beverages,1800,2500
+261,Aqua Air Mineral PET 450ml,Modern Retail,Needs,Beverages,2500,3200
+262,Aqua Air Mineral PET 600ml (Tanggung),Alfamart/Indomaret,Needs,Beverages,3000,4500
+263,Aqua Air Mineral PET 750ml (Click Cap),Modern Retail,Needs,Beverages,5500,6500
+264,Aqua Air Mineral PET 1500ml (1.5 Liter),Alfamart/Indomaret,Needs,Beverages,5900,7500
+265,Aqua Air Mineral Galon 19 Liter (Isi Ulang),Agen Aqua,Needs,Beverages,19000,22000
+266,Aqua Life Air Mineral PET 1100ml (Recycled),Premium Store,Needs,Beverages,6500,8000
+267,Le Minerale Air Mineral PET 330ml,Alfamart/Indomaret,Needs,Beverages,1700,2300
+268,Le Minerale Air Mineral PET 600ml,Alfamart/Indomaret,Needs,Beverages,2800,3800
+269,Le Minerale Air Mineral PET 1500ml (1.5 Liter),Alfamart/Indomaret,Needs,Beverages,5500,6900
+270,Le Minerale Galon Sekali Pakai 15 Liter,Agen Le Minerale,Needs,Beverages,18000,22000
+271,Cleo Air Murni Oxygen PET 220ml (Cup),Modern Retail,Needs,Beverages,500,900
+272,Cleo Air Murni Oxygen PET 330ml (Smart),Modern Retail,Needs,Beverages,1900,2500
+273,Cleo Air Murni Oxygen PET 550ml,Modern Retail,Needs,Beverages,2900,3900
+274,Cleo Air Murni Oxygen PET 1500ml,Modern Retail,Needs,Beverages,5500,7000
+275,Cleo Air Murni Galon Eco Shape 6 Liter,Modern Retail,Needs,Beverages,12000,15000
+276,Cleo Air Murni Galon 19 Liter,Agen Cleo,Needs,Beverages,18000,21000
+277,VIT Air Mineral PET 330ml,Modern Retail,Needs,Beverages,1500,2000
+278,VIT Air Mineral PET 550ml,Alfamart/Indomaret,Needs,Beverages,2500,3500
+279,VIT Air Mineral PET 1500ml,Modern Retail,Needs,Beverages,5000,6500
+280,VIT Air Mineral Gelas 220ml (Karton isi 48),Grosir Sembako,Needs,Beverages,22000,28000
+281,Prima Air Mineral PET 600ml,Alfamart/Indomaret,Needs,Beverages,2000,3000
+282,Crystalin Air Mineral PET 330ml,Modern Retail,Needs,Beverages,1500,2000
+283,Crystalin Air Mineral PET 600ml,Alfamart/Indomaret,Needs,Beverages,2500,3500
+284,Crystalin Air Mineral PET 1500ml,Modern Retail,Needs,Beverages,5000,6000
+285,Nestlé Pure Life Air Mineral 600ml,Modern Retail,Needs,Beverages,3200,4500
+286,Nestlé Pure Life Air Mineral 1500ml,Modern Retail,Needs,Beverages,6000,7500
+287,Evian Natural Mineral Water 330ml,Premium Supermarket,Wants,Beverages,18000,25000
+288,Evian Natural Mineral Water 500ml,Premium Supermarket,Wants,Beverages,22000,30000
+289,Evian Natural Mineral Water 1250ml,Premium Supermarket,Wants,Beverages,45000,55000
+290,Equil Natural Sparkling Water 380ml,Restaurant/Cafe,Wants,Beverages,20000,28000
+291,Mizone Mood Up Cranberry PET 500ml,Alfamart/Indomaret,Wants,Beverages,7500,9000
+292,Mizone Active Lychee Lemon PET 500ml,Alfamart/Indomaret,Wants,Beverages,7500,9000
+293,Pocari Sweat PET 350ml,Modern Retail,Needs,Beverages,6000,7500
+294,Pocari Sweat PET 500ml,Modern Retail,Needs,Beverages,8000,9500
+295,Pocari Sweat PET 2000ml (2 Liter),Modern Retail,Needs,Beverages,22000,26000
+296,Hydro Coco Original 250ml,Modern Retail,Wants,Beverages,6500,8000
+297,Hydro Coco Original 500ml,Modern Retail,Wants,Beverages,11000,14000
+298,Teh Pucuk Harum Jasmine PET 350ml,Modern Retail,Wants,Beverages,3500,4500
+299,Teh Pucuk Harum Jasmine PET 1360ml,Modern Retail,Wants,Beverages,10000,12500
+300,Teh Botol Sosro Kotak (UHT) 250ml,Modern Retail,Wants,Beverages,3500,4500
+301,Teh Botol Sosro PET 450ml,Modern Retail,Wants,Beverages,5500,7000
+302,Teh Javana Melati PET 350ml,Wings Food,Wants,Beverages,3000,4000
+303,Teh Rio Gula Batu Cup 180ml,Wings Food,Wants,Beverages,1000,1500
+304,Nu Green Tea Honey PET 450ml,Modern Retail,Wants,Beverages,6000,7500
+305,Nu Green Tea Original PET 450ml,Modern Retail,Wants,Beverages,6000,7500
+306,Ichitan Thai Milk Tea PET 310ml,Modern Retail,Wants,Beverages,8000,10000
+307,Golda Coffee Dolce Latte PET 200ml,Wings Food,Wants,Beverages,3000,4000
+308,Kopiko Lucky Day PET 180ml,Modern Retail,Wants,Beverages,4500,5500
+309,Good Day Cappuccino PET 250ml,Modern Retail,Wants,Beverages,6500,8000
+310,Nescafe Original Can 240ml,Modern Retail,Wants,Beverages,6000,7500
+311,Luwak White Coffee RTD 220ml,Modern Retail,Wants,Beverages,4000,5000
+312,Ultra Milk UHT Chocolate 200ml,Modern Retail,Needs,Beverages,5500,6500
+313,Ultra Milk UHT Full Cream 1000ml (1 Liter),Modern Retail,Needs,Beverages,18000,21000
+314,Indomilk UHT Cokelat 190ml,Modern Retail,Needs,Beverages,4500,5500
+315,Cimory Fresh Milk Chocolate 250ml,Modern Retail,Wants,Beverages,6500,8500
+316,Bear Brand Susu Steril Kaleng 189ml,Modern Retail,Needs,Beverages,9500,11000
+317,Yakult Minuman Probiotik (Pack 5x65ml),Modern Retail,Wants,Beverages,10000,12000
+318,Milku Susu Cokelat Botol 200ml,Wings Food,Needs,Beverages,3000,4000
+319,Floridina Orange Pulp PET 350ml,Wings Food,Wants,Beverages,3000,4000
+320,Ale-Ale Jeruk Cup 190ml,Wings Food,Wants,Beverages,1000,1500
+321,Isoplus Isotonic Drink PET 350ml,Wings Food,Wants,Beverages,3000,4000
+322,You C1000 Vitamin Lemon Botol Kaca 140ml,Modern Retail,Wants,Beverages,7000,8500
+323,TOKEN LISTRIK PLN 20.000,PLN / Tokopedia,Needs,Billing & Utilities,20000,22500
+324,PLN PRABAYAR 50K,PLN / Indomaret,Needs,Billing & Utilities,50000,52500
+325,STRUM TOKEN PLN 100.000,PLN / Dana,Needs,Billing & Utilities,100000,102500
+326,Token Listrik 200rb,PLN / GoPay,Needs,Billing & Utilities,200000,202500
+327,PLN PREPAID 500.000,PLN / BCA Mobile,Needs,Billing & Utilities,500000,502500
+328,TOKEN PLN 1 JUTA,PLN / Shopee,Needs,Billing & Utilities,1000000,1002500
+329,TAGIHAN LISTRIK PLN PASCABAYAR,PLN Postpaid,Needs,Billing & Utilities,150000,2500000
+330,PLN NON TAGLIS (Sambung Baru/Tambah Daya),PLN,Needs,Billing & Utilities,500000,5000000
+331,TAG PDAM AETRA JAKARTA,Aetra Air Jakarta,Needs,Billing & Utilities,75000,300000
+332,BAYAR AIR PALYJA JKT,Palyja,Needs,Billing & Utilities,80000,350000
+333,PDAM KOTA SURABAYA,PDAM Surya Sembada,Needs,Billing & Utilities,50000,200000
+334,TAGIHAN AIR PDAM BANDUNG,PDAM Tirtawening,Needs,Billing & Utilities,45000,180000
+335,PDAM KAB BOGOR,PDAM Tirta Kahuripan,Needs,Billing & Utilities,60000,250000
+336,PDAM KOTA DEPOK,PDAM Tirta Asasta,Needs,Billing & Utilities,55000,220000
+337,PEMBAYARAN PDAM TANGERANG,PDAM Tirta Benteng,Needs,Billing & Utilities,65000,280000
+338,PDAM KOTA BEKASI,PDAM Tirta Patriot,Needs,Billing & Utilities,70000,290000
+339,PDAM DELTA TIRTA SIDOARJO,PDAM Sidoarjo,Needs,Billing & Utilities,40000,150000
+340,PDAM TIRTANADI MEDAN,PDAM Tirtanadi,Needs,Billing & Utilities,50000,210000
+341,PDAM KOTA SEMARANG,PDAM Tirta Moedal,Needs,Billing & Utilities,45000,190000
+342,PDAM KOTA MAKASSAR,PDAM Makassar,Needs,Billing & Utilities,50000,200000
+343,PDAM KOTA DENPASAR,PDAM Badung,Needs,Billing & Utilities,60000,240000
+344,PDAM KOTA MALANG,PDAM Malang,Needs,Billing & Utilities,40000,160000
+345,Pulsa Telkomsel 10.000,Telkomsel,Needs,Billing & Utilities,10000,12000
+346,ISI PULSA TSEL 25K,Telkomsel,Needs,Billing & Utilities,25000,27000
+347,Pulsa Simpati 50.000,Telkomsel,Needs,Billing & Utilities,49000,52000
+348,Pulsa As/Loop 100rb,Telkomsel,Needs,Billing & Utilities,98000,102000
+349,Paket Data Telkomsel OMG! 20GB,Telkomsel,Needs,Billing & Utilities,110000,125000
+350,Paket Internet Sakti Tsel Bulanan,Telkomsel,Needs,Billing & Utilities,75000,90000
+351,Pulsa Indosat 10.000,Indosat Ooredoo,Needs,Billing & Utilities,10000,12000
+352,ISAT PULSA 25K,Indosat Ooredoo,Needs,Billing & Utilities,25000,27000
+353,Pulsa IM3 50.000,Indosat Ooredoo,Needs,Billing & Utilities,49000,52000
+354,Pulsa Indosat 100rb,Indosat Ooredoo,Needs,Billing & Utilities,98000,102000
+355,Paket Freedom Internet Indosat 30GB,Indosat Ooredoo,Needs,Billing & Utilities,90000,100000
+356,Pulsa XL 10.000,XL Axiata,Needs,Billing & Utilities,10000,12000
+357,ISI ULANG XL 25K,XL Axiata,Needs,Billing & Utilities,25000,27000
+358,Pulsa XL 50rb,XL Axiata,Needs,Billing & Utilities,49000,52000
+359,Pulsa XL 100.000,XL Axiata,Needs,Billing & Utilities,98000,102000
+360,Paket Data Xtra Combo XL,XL Axiata,Needs,Billing & Utilities,59000,129000
+361,Pulsa Tri 10.000,Tri (3),Needs,Billing & Utilities,10000,12000
+362,Pulsa Three 50.000,Tri (3),Needs,Billing & Utilities,49000,52000
+363,Paket Data Tri Happy 12GB,Tri (3),Needs,Billing & Utilities,45000,55000
+364,Pulsa Smartfren 50rb,Smartfren,Needs,Billing & Utilities,49000,52000
+365,Pulsa Axis 25.000,Axis,Needs,Billing & Utilities,25000,27000
+366,Paket Bronet Axis 24 Jam,Axis,Needs,Billing & Utilities,30000,45000
+367,TAGIHAN KARTU HALO,Telkomsel Halo,Needs,Billing & Utilities,100000,500000
+368,BAYAR INDOSAT MATRIX,Indosat Postpaid,Needs,Billing & Utilities,100000,400000
+369,TAGIHAN XL PRIORITAS,XL Postpaid,Needs,Billing & Utilities,100000,350000
+370,INDIHOME PAKET 2P (NET+PHONE),Telkom Indonesia,Needs,Billing & Utilities,280000,350000
+371,TAGIHAN INDIHOME 3P (NET+TV),Telkom Indonesia,Wants,Billing & Utilities,350000,600000
+372,FIRST MEDIA COMBO FAMILY,First Media,Wants,Billing & Utilities,300000,450000
+373,FIRST MEDIA INTERNET ONLY,First Media,Needs,Billing & Utilities,250000,350000
+374,TAGIHAN BIZNET HOME INTERNET,Biznet,Needs,Billing & Utilities,325000,500000
+375,MYREPUBLIC INTERNET,MyRepublic,Needs,Billing & Utilities,250000,450000
+376,MNC PLAY MEDIA BILL,MNC Play,Wants,Billing & Utilities,300000,500000
+377,CBN FIBER INTERNET BILL,CBN,Needs,Billing & Utilities,300000,600000
+378,OXYGEN.ID HOME,Oxygen,Needs,Billing & Utilities,200000,400000
+379,TAGIHAN TRANSVISION,Transvision,Wants,Billing & Utilities,150000,400000
+380,MNC VISION (INDOVISION),MNC Vision,Wants,Billing & Utilities,120000,300000
+381,K-VISION TOP UP SALDO,K-Vision,Wants,Billing & Utilities,50000,150000
+382,NEX PARABOLA PAKET,Nex Parabola,Wants,Billing & Utilities,40000,100000
+383,VIDIO PREMIER LEAGUE (ADD-ON),Vidio (via Pulsa),Wants,Billing & Utilities,59000,89000
+384,IURAN BPJS KESEHATAN KELAS 1,BPJS Kesehatan,Needs,Billing & Utilities,150000,150000
+385,IURAN BPJS KESEHATAN KELAS 2,BPJS Kesehatan,Needs,Billing & Utilities,100000,100000
+386,IURAN BPJS KESEHATAN KELAS 3,BPJS Kesehatan,Needs,Billing & Utilities,35000,42000
+387,BPJS KETENAGAKERJAAN (PU),BPJS TK,Needs,Billing & Utilities,16800,100000
+388,TAGIHAN GAS NEGARA (PGN),PGN,Needs,Billing & Utilities,50000,200000
+389,TOKEN GAS PERTAGAS,Pertamina Gas,Needs,Billing & Utilities,20000,100000
+390,PAJAK PBB DKI JAKARTA,Pemprov DKI,Needs,Billing & Utilities,100000,2000000
+391,PAJAK PBB KOTA BEKASI,Pemkot Bekasi,Needs,Billing & Utilities,50000,1000000
+392,PAJAK PBB KOTA DEPOK,Pemkot Depok,Needs,Billing & Utilities,50000,1000000
+393,PAJAK PBB KAB TANGERANG,Pemkab Tangerang,Needs,Billing & Utilities,50000,1000000
+394,PKB (PAJAK KENDARAAN) JABAR,Samsat Jabar,Needs,Billing & Utilities,200000,5000000
+395,PKB (PAJAK KENDARAAN) DKI,Samsat DKI,Needs,Billing & Utilities,200000,5000000
+396,ANGSURAN ADIRA FINANCE,Adira Finance,Needs,Billing & Utilities,500000,3000000
+397,CICILAN FIF GROUP,FIF Group,Needs,Billing & Utilities,400000,2000000
+398,BAYAR BAF (BUSSAN AUTO),BAF,Needs,Billing & Utilities,500000,2500000
+399,CICILAN WOM FINANCE,WOM Finance,Needs,Billing & Utilities,400000,2000000
+400,OTO KREDIT MOTOR,OTO,Needs,Billing & Utilities,500000,2500000
+401,HOME CREDIT INDONESIA,Home Credit,Needs,Billing & Utilities,200000,1500000
+402,KREDIT PLUS CICILAN,Kredit Plus,Needs,Billing & Utilities,300000,1500000
+403,AEON CREDIT SERVICE,AEON,Needs,Billing & Utilities,300000,2000000
+404,BIAYA ADMIN TOPUP GOPAY,GoPay,Needs,Billing & Utilities,1000,2000
+405,BIAYA ADMIN TOPUP OVO,OVO,Needs,Billing & Utilities,1000,1500
+406,BIAYA ADMIN TOPUP DANA,DANA,Needs,Billing & Utilities,500,1000
+407,BIAYA ADMIN TOPUP SHOPEEPAY,ShopeePay,Needs,Billing & Utilities,500,1000
+408,PEMBAYARAN KARTU KREDIT BCA,Bank BCA,Needs,Billing & Utilities,500000,10000000
+409,PEMBAYARAN KARTU KREDIT MANDIRI,Bank Mandiri,Needs,Billing & Utilities,500000,10000000
+410,PEMBAYARAN KARTU KREDIT BNI,Bank BNI,Needs,Billing & Utilities,500000,10000000
+411,IURAN IPL APARTEMEN / LINGKUNGAN,Pengelola Gedung,Needs,Billing & Utilities,200000,1500000
+412,Nasi Goreng Tek-Tek Ayam Sosis Gerobak,Street Vendor (Kaki Lima),Needs,Dining Out,15000,18000
+413,Nasi Goreng Gila Pedas Spesial Kaki Lima,Street Vendor (Kaki Lima),Wants,Dining Out,20000,25000
+414,Nasi Goreng Mawut Magelangan Warung Jawa,Warung Nasi Goreng,Needs,Dining Out,18000,22000
+415,Nasi Goreng Pete Ikan Asin Resto Solaria,Solaria,Wants,Dining Out,43000,48000
+416,Nasi Goreng Kambing Kebon Sirih Porsi Jumbo,Nasi Goreng Kambing Kebon Sirih,Wants,Dining Out,50000,60000
+417,Nasi Goreng Seafood Solaria,Solaria,Wants,Dining Out,45000,50000
+418,Nasi Goreng Oriental Bakmi GM,Bakmi GM,Wants,Dining Out,40000,45000
+419,Nasi Goreng Yang Chow Ta Wan,Ta Wan,Wants,Dining Out,48000,55000
+420,Nasi Goreng Ikan Asin Imperial Kitchen,Imperial Kitchen & Dimsum,Wants,Dining Out,42000,48000
+421,Pecel Lele Goreng + Nasi Uduk Tenda Lamongan,Pecel Lele Lamongan,Needs,Dining Out,18000,22000
+422,Pecel Ayam Goreng + Nasi Uduk Tenda Lamongan,Pecel Lele Lamongan,Needs,Dining Out,20000,25000
+423,Ayam Penyet Surabaya + Nasi + Lalapan,Ayam Penyet Surabaya,Needs,Dining Out,25000,30000
+424,Lele Bakar Penyet + Nasi Sambal Terasi,Penyet & Sambal,Needs,Dining Out,22000,26000
+425,Bebek Goreng H. Slamet Paha + Nasi,Bebek Goreng H. Slamet,Wants,Dining Out,38000,45000
+426,Bebek Kaleyo Goreng Kremes Paket Hemat,Bebek Kaleyo,Wants,Dining Out,40000,50000
+427,Ayam Bakar Wong Solo Paket Nasi,Ayam Bakar Wong Solo,Wants,Dining Out,35000,42000
+428,Nasi Uduk Betawi Komplit Ayam Goreng Kampung,Nasi Uduk Kebon Kacang,Needs,Dining Out,20000,25000
+429,Nasi Rames Warteg 2 Sayur 1 Telur Dadar,Warteg Bahari,Needs,Dining Out,12000,15000
+430,Nasi Rames Warteg Ayam Goreng + Orek Tempe,Warteg Bahari,Needs,Dining Out,18000,22000
+431,Nasi Rames Warteg Ikan Kembung + Sayur Asem,Warteg Bahari,Needs,Dining Out,18000,22000
+432,Nasi Telur Dadar Barenda Khas Padang,Rumah Makan Padang,Needs,Dining Out,15000,20000
+433,Nasi Rendang Sapi Rumah Makan Sederhana,RM Padang Sederhana,Wants,Dining Out,35000,45000
+434,Nasi Ayam Pop + Sayur Nangka RM Sederhana,RM Padang Sederhana,Wants,Dining Out,35000,40000
+435,Nasi Dendeng Balado Basah RM Pagi Sore,RM Padang Pagi Sore,Wants,Dining Out,38000,48000
+436,Nasi Gulai Tunjang Kikil RM Padang,Rumah Makan Padang,Wants,Dining Out,35000,42000
+437,Nasi Ikan Bakar Padang + Daun Singkong,Rumah Makan Padang,Needs,Dining Out,25000,30000
+438,Sate Padang Pariaman 1 Porsi + Ketupat,Sate Padang Ajo Ramon,Wants,Dining Out,25000,35000
+439,Sate Ayam Madura 10 Tusuk + Lontong,Sate Madura Gerobak,Wants,Dining Out,20000,25000
+440,Sate Kambing Muda 10 Tusuk + Nasi,Sate Kambing Tegal,Wants,Dining Out,45000,55000
+441,Sate Khas Senayan Sate Ayam Bumbu Blora,Sate Khas Senayan,Wants,Dining Out,65000,80000
+442,Soto Ayam Lamongan + Nasi Koya,Soto Lamongan Cak Har,Needs,Dining Out,18000,22000
+443,Soto Betawi Daging Sapi Santan + Nasi,Soto Betawi H. Ma'ruf,Wants,Dining Out,45000,55000
+444,Sop Buntut Sapi Borobudur + Nasi,Sop Buntut Bogor,Wants,Dining Out,90000,120000
+445,Rawon Daging Setan Surabaya + Nasi,Rawon Setan,Wants,Dining Out,35000,45000
+446,Gado-Gado Lontong Telur Boplo,Gado-Gado Boplo,Wants,Dining Out,30000,40000
+447,Ketoprak Telur Dadar Cirebon Kaki Lima,Ketoprak Gerobak,Needs,Dining Out,15000,18000
+448,Bubur Ayam Jakarta Komplit Gerobak,Bubur Ayam Gerobak,Needs,Dining Out,12000,15000
+449,Mie Ayam Bakso Ceker Wonogiri Gerobak,Mie Ayam Wonogiri,Needs,Dining Out,15000,18000
+450,Bakso Urat Besar Kuah Sapi + Mie Kuning,Bakso Malang,Needs,Dining Out,18000,22000
+451,Bakso Boedjangan Urat + Mie Yamin,Bakso Boedjangan,Wants,Dining Out,35000,45000
+452,Bakmi GM Special GM Pangsit Goreng,Bakmi GM,Wants,Dining Out,35000,40000
+453,Bakmi GM Yi Fu Mie Ni Ayam Cah Cabai,Bakmi GM,Wants,Dining Out,40000,45000
+454,Mie Gacoan Mie Setan Level 1-4,Mie Gacoan,Needs,Dining Out,10000,12000
+455,Mie Gacoan Mie Iblis Level 1-4,Mie Gacoan,Needs,Dining Out,10000,12000
+456,Mie Gacoan Udang Rambutan 3 Pcs,Mie Gacoan,Wants,Dining Out,9000,12000
+457,Mie Gacoan Udang Keju 3 Pcs,Mie Gacoan,Wants,Dining Out,9000,12000
+458,Mie Gacoan Siomay Ayam 3 Pcs,Mie Gacoan,Wants,Dining Out,9000,12000
+459,Pizza Hut Super Supreme Regular Pan Pizza,Pizza Hut,Wants,Dining Out,100000,120000
+460,Pizza Hut Meat Lovers Regular Stuffed Crust,Pizza Hut,Wants,Dining Out,110000,130000
+461,Pizza Hut American Favourite Regular Cheesy Bites,Pizza Hut,Wants,Dining Out,115000,135000
+462,Pizza Hut Tuna Melt Personal Pan Pizza,Pizza Hut,Wants,Dining Out,45000,55000
+463,Pizza Hut Beef Lasagna,Pizza Hut,Wants,Dining Out,60000,70000
+464,Pizza Hut Cheese Rolls Appetizer,Pizza Hut,Wants,Dining Out,35000,45000
+465,Pizza Hut Salad Bar Ambil Sendiri,Pizza Hut,Wants,Dining Out,45000,55000
+466,Pizza Hut Zuppa Soup Creamy Mushroom,Pizza Hut,Wants,Dining Out,35000,45000
+467,Domino's American Classic Cheeseburger Medium,Domino's Pizza,Wants,Dining Out,80000,90000
+468,Domino's Ultimate Cheese Melt Medium,Domino's Pizza,Wants,Dining Out,85000,95000
+469,Domino's Pizza Mania Chili Chicken Personal,Domino's Pizza,Needs,Dining Out,16000,20000
+470,Domino's Beef Pepperoni Feast Medium,Domino's Pizza,Wants,Dining Out,75000,85000
+471,Domino's Choco Bread Sticks,Domino's Pizza,Wants,Dining Out,25000,30000
+472,KFC Super Besar 1 (1 Ayam + Nasi + Drink),KFC,Needs,Dining Out,40000,45000
+473,KFC Super Besar 2 (2 Ayam + Nasi + Drink),KFC,Wants,Dining Out,55000,60000
+474,KFC Crispy Burger O.R.,KFC,Wants,Dining Out,15000,20000
+475,KFC Cream Soup,KFC,Wants,Dining Out,10000,15000
+476,KFC Spaghetti Deluxe,KFC,Needs,Dining Out,10000,15000
+477,KFC Winger Bucket,KFC,Wants,Dining Out,80000,90000
+478,KFC French Fries Large,KFC,Wants,Dining Out,25000,30000
+479,McD PaNas 1 (1 Ayam + Nasi + Drink),McDonald's,Needs,Dining Out,35000,40000
+480,McD Big Mac Burger A La Carte,McDonald's,Wants,Dining Out,38000,45000
+481,McD McChicken Burger,McDonald's,Wants,Dining Out,30000,35000
+482,McD McNuggets 6 pcs,McDonald's,Wants,Dining Out,25000,30000
+483,McD McFlurry Oreo,McDonald's,Wants,Dining Out,12000,15000
+484,McD Apple Pie,McDonald's,Wants,Dining Out,12000,15000
+485,McD French Fries Large,McDonald's,Wants,Dining Out,25000,30000
+486,Richeese Fire Chicken Combo 1 (1 Ayam + Nasi + Drink),Richeese Factory,Wants,Dining Out,45000,50000
+487,Richeese Fire Wings 3 pcs Level 3,Richeese Factory,Wants,Dining Out,35000,40000
+488,Richeese Fire Fries French Fries,Richeese Factory,Wants,Dining Out,20000,25000
+489,Richeese Pink Lava Drink,Richeese Factory,Wants,Dining Out,12000,15000
+490,Burger King Whopper Jr Meal,Burger King,Wants,Dining Out,45000,55000
+491,Burger King Mozzarella Cheeseburger,Burger King,Wants,Dining Out,35000,45000
+492,Burger King 1 Pc Ayam + Nasi,Burger King,Needs,Dining Out,20000,25000
+493,HokBen Bento Special 1 (Chicken Teriyaki),HokBen,Wants,Dining Out,58000,65000
+494,HokBen Hoka Hemat 1 (Egg Chicken Roll),HokBen,Needs,Dining Out,27000,32000
+495,HokBen Simple Set Teriyaki,HokBen,Wants,Dining Out,40000,45000
+496,HokBen Beef Yakiniku A La Carte,HokBen,Wants,Dining Out,45000,50000
+497,A&W Golden Aroma Chicken (2 Pcs),A&W Restaurants,Wants,Dining Out,40000,45000
+498,A&W Root Beer Float,A&W Restaurants,Wants,Dining Out,15000,20000
+499,Starbucks Caffe Latte Tall,Starbucks,Wants,Dining Out,48000,53000
+500,Starbucks Caramel Macchiato Grande,Starbucks,Wants,Dining Out,60000,70000
+501,Starbucks Java Chip Frappuccino Tall,Starbucks,Wants,Dining Out,55000,60000
+502,Starbucks Americano Venti,Starbucks,Wants,Dining Out,40000,45000
+503,Starbucks Croissant Butter,Starbucks,Wants,Dining Out,25000,30000
+504,Starbucks Asian Dolce Latte Tall,Starbucks,Wants,Dining Out,52000,56000
+505,Starbucks Green Tea Cream Frappuccino Tall,Starbucks,Wants,Dining Out,58000,63000
+506,Starbucks Signature Chocolate Grande,Starbucks,Wants,Dining Out,55000,60000
+507,Starbucks Vanilla Sweet Cream Cold Brew Tall,Starbucks,Wants,Dining Out,50000,55000
+508,Starbucks Tuna Puff,Starbucks,Wants,Dining Out,35000,40000
+509,Kopi Kenangan Mantan (Kopi Susu Gula Aren) Regular,Kopi Kenangan,Needs,Dining Out,18000,22000
+510,Kopi Kenangan Avocado Coffee,Kopi Kenangan,Wants,Dining Out,24000,28000
+511,Kopi Kenangan Sultan Boba,Kopi Kenangan,Wants,Dining Out,20000,25000
+512,Kopi Kenangan Roti Coklat Klasik,Kopi Kenangan,Wants,Dining Out,10000,15000
+513,Kopi Kenangan Dua Shot Iced Shaken,Kopi Kenangan,Wants,Dining Out,24000,28000
+514,Kopi Kenangan Salted Caramel Macchiato,Kopi Kenangan,Wants,Dining Out,28000,32000
+515,Kopi Kenangan Hojicha Latte,Kopi Kenangan,Wants,Dining Out,22000,26000
+516,Janji Jiwa Kopi Susu (Es Kopi Pokat),Janji Jiwa,Wants,Dining Out,20000,25000
+517,Janji Jiwa Soy Coffee Latte,Janji Jiwa,Wants,Dining Out,25000,30000
+518,Janji Jiwa Toast Egg and Cheese,Janji Jiwa,Wants,Dining Out,22000,25000
+519,Janji Jiwa Toast Spicy Bulgogi,Janji Jiwa,Wants,Dining Out,32000,35000
+520,Janji Jiwa Hazelnut Latte,Janji Jiwa,Wants,Dining Out,23000,28000
+521,Janji Jiwa Es Kopi Hitam,Janji Jiwa,Wants,Dining Out,15000,18000
+522,Janji Jiwa Toast Beef Truffle Mayo,Janji Jiwa,Wants,Dining Out,35000,40000
+523,Fore Coffee Aren Latte,Fore Coffee,Wants,Dining Out,25000,30000
+524,Fore Coffee Pandan Latte,Fore Coffee,Wants,Dining Out,29000,35000
+525,Fore Coffee Buttercream Latte,Fore Coffee,Wants,Dining Out,32000,36000
+526,Fore Coffee Manuka Americano,Fore Coffee,Wants,Dining Out,28000,33000
+527,Fore Coffee Choco Nutty Latte,Fore Coffee,Wants,Dining Out,35000,39000
+528,Tomoro Coffee Aren Latte,Tomoro Coffee,Wants,Dining Out,22000,25000
+529,Tomoro Coffee Manuka Oat Latte,Tomoro Coffee,Wants,Dining Out,28000,32000
+530,Tomoro Coffee Coconut Aren Latte,Tomoro Coffee,Wants,Dining Out,26000,30000
+531,Tomoro Coffee Smoked Chicken Croissant,Tomoro Coffee,Wants,Dining Out,25000,30000
+532,Point Coffee Palm Sugar Latte Iced,Point Coffee,Needs,Dining Out,20000,25000
+533,Point Coffee Cafe Dolce,Point Coffee,Wants,Dining Out,25000,30000
+534,Point Coffee Cold Brew Black,Point Coffee,Wants,Dining Out,25000,30000
+535,Point Coffee Signature Chocolate,Point Coffee,Wants,Dining Out,28000,33000
+536,Chatime Milk Tea Pearl Regular,Chatime,Wants,Dining Out,25000,30000
+537,Chatime Mango Green Tea,Chatime,Wants,Dining Out,24000,28000
+538,Chatime Roasted Milk Tea,Chatime,Wants,Dining Out,23000,28000
+539,Chatime Hazelnut Chocolate Milk Tea,Chatime,Wants,Dining Out,28000,33000
+540,Mixue Boba Sundae,Mixue,Wants,Dining Out,16000,18000
+541,Mixue Fresh Squeezed Lemonade,Mixue,Needs,Dining Out,10000,12000
+542,Mixue Miaow Miaow Ice Cream Cone,Mixue,Wants,Dining Out,8000,10000
+543,Mixue Peach Earl Grey Tea,Mixue,Wants,Dining Out,16000,20000
+544,Es Teh Indonesia Chizu Red Velvet,Es Teh Indonesia,Wants,Dining Out,18000,22000
+545,Es Teh Indonesia Es Teh Susu Nusantara,Es Teh Indonesia,Wants,Dining Out,12000,15000
+546,Haus! Thai Tea Large,Haus!,Needs,Dining Out,10000,15000
+547,J.CO Donuts 1/2 Dozen (6 Pcs),J.CO Donuts & Coffee,Wants,Dining Out,55000,62000
+548,J.CO J.Club Burger Donut Sandwich,J.CO Donuts & Coffee,Wants,Dining Out,16000,20000
+549,J.CO Iced Jcoccino Regular,J.CO Donuts & Coffee,Wants,Dining Out,35000,40000
+550,Dunkin Donuts Classic 6 Pcs,Dunkin' Donuts,Wants,Dining Out,60000,70000
+551,Roti'O Coffee Bun,Roti'O,Wants,Dining Out,13000,15000
+552,Roti'O Iced Hazelnut,Roti'O,Wants,Dining Out,25000,30000
+553,Holland Bakery Lemper Ayam,Holland Bakery,Needs,Dining Out,10000,12000
+554,Holland Bakery Roti Tawar Kupas,Holland Bakery,Needs,Dining Out,18000,22000
+555,BreadTalk MAKO Floss Roll,MAKO Cake & Bakery,Wants,Dining Out,12000,15000
+556,BreadTalk MAKO Fire Floss,MAKO Cake & Bakery,Wants,Dining Out,12000,15000
+557,Auntie Anne's Almond Cream Cheese Pretzel,Auntie Anne's,Wants,Dining Out,35000,40000
+558,Auntie Anne's Cinnamon Sugar Pretzel,Auntie Anne's,Wants,Dining Out,25000,30000
+559,Shihlin XXL Crispy Chicken,Shihlin Taiwan Snacks,Wants,Dining Out,45000,55000
+560,Marugame Udon Niku Udon Regular,Marugame Udon,Wants,Dining Out,60000,70000
+561,Marugame Udon Kake Udon,Marugame Udon,Wants,Dining Out,40000,45000
+562,Marugame Udon Beef Curry Udon,Marugame Udon,Wants,Dining Out,65000,75000
+563,Marugame Udon Tempura Ebi,Marugame Udon,Wants,Dining Out,15000,20000
+564,Imperial Kitchen Xiao Long Bao,Imperial Kitchen & Dimsum,Wants,Dining Out,35000,40000
+565,Imperial Kitchen Bebek Panggang Quarter,Imperial Kitchen & Dimsum,Wants,Dining Out,70000,85000
+566,Dimsum 9 Ayam Siomay Hakau per porsi,Dimsum 9 Ayam,Wants,Dining Out,20000,25000
+567,Sayur Asem Warteg,Warteg Bahari,Needs,Dining Out,10000,15000
+568,Sayur Lodeh Warteg,Warteg Bahari,Needs,Dining Out,10000,15000
+569,Perkedel Kentang Side Dish,Warteg Bahari,Needs,Dining Out,3000,5000
+570,Tempe Mendoan Side Dish,Warteg Bahari,Needs,Dining Out,3000,5000
+571,Nasi Rawon Daging Jawa Timur,Rawon Nguling,Wants,Dining Out,35000,45000
+572,Tahu Tek Telur Surabaya,Tahu Tek Cak Kahar,Needs,Dining Out,18000,22000
+573,Gado-Gado Siram Resto,Gado-Gado Boplo,Wants,Dining Out,30000,40000
+574,Sop Buntut Resto Hotel,Hotel Borobudur,Wants,Dining Out,80000,120000
+575,Iga Bakar Penyet Tekko Leko,Warung Leko,Wants,Dining Out,50000,65000
+576,Ayam Goreng Kremes Mbok Berek Quarter,Ayam Goreng Mbok Berek,Wants,Dining Out,35000,45000
+577,Kopi Tuku Es Kopi Susu Tetangga,Toko Kopi Tuku,Wants,Dining Out,20000,25000
+578,Kopi Soe Goela Merah,Kopi Soe,Wants,Dining Out,20000,25000
+579,FamilyMart Kopi Susu Keluarga,FamilyMart,Needs,Dining Out,12000,15000
+580,FamilyMart Crispy Chicken Sofa,FamilyMart,Needs,Dining Out,15000,18000
+581,Lawson Oden per item,Lawson,Wants,Dining Out,5000,10000
+582,Lawson Onigiri Salmon Tuna,Lawson,Needs,Dining Out,12000,15000
+583,Circle K Hot Dog,Circle K,Wants,Dining Out,20000,25000
+584,Sour Sally Black Sakura Regular,Sour Sally,Wants,Dining Out,50000,60000
+585,Baskin Robbins Single Scoop,Baskin Robbins,Wants,Dining Out,60000,70000
+586,Martabak Manis Coklat Kacang Keju Bangka,Martabak Bangka,Wants,Dining Out,45000,55000
+587,Martabak Telur Bebek 3 Telur Kubang,Martabak Kubang,Wants,Dining Out,35000,45000
+588,Solaria Chicken Cordon Bleu + Fries,Solaria,Wants,Dining Out,55000,65000
+589,Solaria I Fu Mie,Solaria,Wants,Dining Out,40000,45000
+590,Bakmi GM Nasi Capcay,Bakmi GM,Wants,Dining Out,45000,50000
+591,Mie Gacoan Lumpia Udang,Mie Gacoan,Wants,Dining Out,9000,12000
+592,Mie Gacoan Es Genderuwo,Mie Gacoan,Wants,Dining Out,9000,12000
+593,Kentang Goreng (French Fries),Cafe Lokal / Coffee Shop,Wants,Dining Out,25000,35000
+594,Onion Rings Goreng Tepung,Cafe Lokal / Coffee Shop,Wants,Dining Out,25000,32000
+595,Cireng Rujak,Cafe Lokal / Coffee Shop,Wants,Dining Out,20000,28000
+596,Pisang Goreng Keju Coklat,Cafe Lokal / Coffee Shop,Wants,Dining Out,22000,30000
+597,Roti Bakar Coklat Keju,Cafe Lokal / Coffee Shop,Wants,Dining Out,25000,35000
+598,Nachos dengan Saus Salsa/Keju,Cafe Lokal / Coffee Shop,Wants,Dining Out,30000,45000
+599,Chicken Wings BBQ/Spicy (6 pcs),Cafe Lokal / Coffee Shop,Wants,Dining Out,35000,50000
+600,Tahu Walik Crispy,Cafe Lokal / Coffee Shop,Wants,Dining Out,20000,28000
+601,Singkong Goreng Keju,Cafe Lokal / Coffee Shop,Wants,Dining Out,20000,28000
+602,"Mix Platter (Sosis, Kentang, Nugget)",Cafe Lokal / Coffee Shop,Wants,Dining Out,45000,65000
+603,Netflix Mobile Plan 1 Bulan,Netflix,Wants,Entertainment,54000,56000
+604,Netflix Basic Plan Monthly,Netflix,Wants,Entertainment,65000,67000
+605,Netflix Standard Plan HD,Netflix,Wants,Entertainment,120000,122000
+606,NETFLIX PREMIUM UHD 4K,Netflix,Wants,Entertainment,186000,190000
+607,Spotify Premium Individual 1 Bulan,Spotify,Wants,Entertainment,54990,59000
+608,Spotify Family Plan (6 Akun),Spotify,Wants,Entertainment,86900,90000
+609,Spotify Duo Premium,Spotify,Wants,Entertainment,71490,75000
+610,SPOTIFY MINI HARIAN,Spotify,Wants,Entertainment,2500,3000
+611,Youtube Premium Individual,Google YouTube,Wants,Entertainment,59000,65000
+612,Youtube Premium Family,Google YouTube,Wants,Entertainment,99000,105000
+613,Disney+ Hotstar Basic Bulanan,Disney+ Hotstar,Wants,Entertainment,65000,70000
+614,Disney+ Hotstar Premium Tahunan,Disney+ Hotstar,Wants,Entertainment,799000,850000
+615,Vidio Platinum 30 Hari,Vidio.com,Wants,Entertainment,39000,45000
+616,Vidio Diamond Mobile (EPL) 1 Bulan,Vidio.com,Wants,Entertainment,79000,90000
+617,Viu Premium 1 Bulan,Viu,Wants,Entertainment,33000,39000
+618,VIU Premium 6 Bulan,Viu,Wants,Entertainment,100000,120000
+619,Tiket Bioskop Reguler Weekday,Cinema XXI,Wants,Entertainment,35000,50000
+620,Tiket Bioskop Reguler Weekend,Cinema XXI,Wants,Entertainment,50000,75000
+621,TIKET PREMIERE XXI WEEKEND,Cinema XXI,Wants,Entertainment,100000,150000
+622,Tiket IMAX 3D Weekend,Cinema XXI,Wants,Entertainment,85000,100000
+623,XXI Java Tea Special Large,Cinema XXI (F&B),Wants,Entertainment,25000,30000
+624,XXI Popcorn Salt Small,Cinema XXI (F&B),Wants,Entertainment,35000,45000
+625,XXI Popcorn Caramel Medium,Cinema XXI (F&B),Wants,Entertainment,55000,65000
+626,Paket Combo 1 (Popcorn + Minum),Cinema XXI (F&B),Wants,Entertainment,70000,90000
+627,Tiket CGV Regular 2D,CGV Cinemas,Wants,Entertainment,40000,55000
+628,Tiket CGV Gold Class,CGV Cinemas,Wants,Entertainment,100000,150000
+629,Tiket CGV Velvet Class (Bed),CGV Cinemas,Wants,Entertainment,150000,250000
+630,CGV Fried Siomay,CGV Cinemas (F&B),Wants,Entertainment,35000,45000
+631,Tiket Cinepolis Regular,Cinepolis,Wants,Entertainment,35000,55000
+632,Tiket Cinepolis VIP,Cinepolis,Wants,Entertainment,80000,120000
+633,Top Up Steam Wallet IDR 12.000,Steam / Tokopedia,Wants,Entertainment,12000,15000
+634,Top Up Steam Wallet IDR 45.000,Steam / Unipin,Wants,Entertainment,45000,50000
+635,Top Up Steam Wallet IDR 90.000,Steam / Codashop,Wants,Entertainment,90000,95000
+636,Top Up Steam Wallet IDR 250.000,Steam / Gopay,Wants,Entertainment,250000,260000
+637,Voucher Google Play IDR 20.000,Google Play,Wants,Entertainment,20000,22000
+638,Voucher Google Play IDR 50.000,Google Play,Wants,Entertainment,50000,55000
+639,Voucher Google Play IDR 100.000,Google Play,Wants,Entertainment,100000,110000
+640,Mobile Legends 86 Diamonds,Codashop / MLBB,Wants,Entertainment,20000,25000
+641,Mobile Legends 257 Diamonds,Unipin / MLBB,Wants,Entertainment,60000,70000
+642,Mobile Legends Starlight Member,In-Game Purchase,Wants,Entertainment,150000,165000
+643,Mobile Legends Weekly Diamond Pass,In-Game Purchase,Wants,Entertainment,28000,33000
+644,Free Fire 140 Diamonds,Garena / Shopee,Wants,Entertainment,20000,25000
+645,Free Fire 720 Diamonds,Garena / Tokopedia,Wants,Entertainment,95000,105000
+646,Free Fire Member Mingguan,Garena,Wants,Entertainment,30000,35000
+647,PUBG Mobile 60 UC,PUBG Mobile,Wants,Entertainment,14000,16000
+648,PUBG Mobile 325 UC,PUBG Mobile,Wants,Entertainment,70000,80000
+649,PUBG Mobile Royale Pass,PUBG Mobile,Wants,Entertainment,150000,160000
+650,Valorant 300 Points,Riot Games,Wants,Entertainment,35000,40000
+651,Valorant 1125 Points,Riot Games,Wants,Entertainment,120000,130000
+652,Genshin Impact Welkin Moon,HoYoverse,Wants,Entertainment,79000,85000
+653,Genshin Impact Genesis 300,HoYoverse,Wants,Entertainment,59000,65000
+654,Roblox 400 Robux,Roblox,Wants,Entertainment,65000,80000
+655,Roblox 800 Robux,Roblox,Wants,Entertainment,130000,150000
+656,PlayStation Store Gift Card IDR 100k,PlayStation,Wants,Entertainment,100000,110000
+657,PlayStation Plus Essential 1 Month,PlayStation,Wants,Entertainment,89000,95000
+658,Nintendo eShop Card USD 10,Nintendo,Wants,Entertainment,160000,170000
+659,Game PC: FIFA / EA FC 25 Standard,Steam / EA App,Wants,Entertainment,759000,800000
+660,Game PC: Football Manager 2025,Steam,Wants,Entertainment,650000,700000
+661,Game PC: GTA V Premium,Steam,Wants,Entertainment,150000,300000
+662,Minecraft Java & Bedrock Edition,Microsoft Store,Wants,Entertainment,400000,450000
+663,Saldo Timezone 100 Tizo,Timezone,Wants,Entertainment,100000,100000
+664,Saldo Timezone 200 Tizo + Bonus,Timezone,Wants,Entertainment,200000,250000
+665,Kartu Funworld Top Up 150k,Funworld,Wants,Entertainment,150000,160000
+666,Tiket Masuk Ancol Individu,Taman Impian Jaya Ancol,Wants,Entertainment,30000,35000
+667,Tiket Masuk Mobil Ancol,Taman Impian Jaya Ancol,Wants,Entertainment,30000,35000
+668,Tiket Dufan Regular Weekday,Dufan Ancol,Wants,Entertainment,250000,275000
+669,Tiket Dufan Regular Weekend,Dufan Ancol,Wants,Entertainment,325000,375000
+670,Tiket Dufan Annual Pass (1 Tahun),Dufan Ancol,Wants,Entertainment,350000,400000
+671,Tiket Sea World Ancol Weekday,Sea World,Wants,Entertainment,110000,120000
+672,Tiket Sea World Ancol Weekend,Sea World,Wants,Entertainment,130000,150000
+673,Tiket Atlantis Water Adventure,Atlantis Ancol,Wants,Entertainment,85000,110000
+674,Tiket Jakarta Bird Land,Jakarta Bird Land,Wants,Entertainment,75000,95000
+675,Tiket Taman Safari Bogor Weekday,Taman Safari,Wants,Entertainment,230000,240000
+676,Tiket Taman Safari Bogor Weekend,Taman Safari,Wants,Entertainment,255000,275000
+677,Tiket Masuk Ragunan Dewasa,Ragunan Zoo,Wants,Entertainment,4000,5000
+678,Top Up Kartu Jakcard (untuk Ragunan),Bank DKI,Wants,Entertainment,20000,50000
+679,Tiket Trans Studio Cibubur/Bandung,Trans Studio,Wants,Entertainment,250000,325000
+680,Karaoke Happy Puppy 1 Jam (Small),Happy Puppy,Wants,Entertainment,60000,80000
+681,Karaoke Happy Puppy 2 Jam (Medium),Happy Puppy,Wants,Entertainment,150000,200000
+682,Karaoke Inul Vizta 1 Jam,Inul Vizta,Wants,Entertainment,75000,100000
+683,Snack & Drink Karaoke Pitcher,Inul Vizta (F&B),Wants,Entertainment,100000,150000
+684,Tiket Konser Musik (Festival),Tiket.com / Loket,Wants,Entertainment,150000,300000
+685,Tiket Konser Internasional (Cat 5),Tiket.com,Wants,Entertainment,800000,1200000
+686,Tiket Konser Internasional (VIP),Tiket.com,Wants,Entertainment,3500000,5000000
+687,Tiket Event Jejepangan / Cosplay,Loket.com,Wants,Entertainment,50000,100000
+688,Tiket Pameran GIIAS (Otomotif),Auto360,Wants,Entertainment,50000,75000
+689,Tiket Masuk Museum Macan,Museum Macan,Wants,Entertainment,100000,120000
+690,Tiket Jakarta Aquarium Regular,Jakarta Aquarium,Wants,Entertainment,150000,175000
+691,Tiket Jakarta Aquarium Premium,Jakarta Aquarium,Wants,Entertainment,200000,225000
+692,Sewa Lapangan Badminton 1 Jam,Gelanggang Olahraga,Wants,Entertainment,40000,75000
+693,Sewa Lapangan Futsal 1 Jam,Futsal Center,Wants,Entertainment,100000,150000
+694,Tiket Nonton Timnas Indonesia (Garuda),PSSI / KitaGaruda,Wants,Entertainment,150000,250000
+695,Novel Fiksi Gramedia,Gramedia,Wants,Entertainment,85000,120000
+696,Komik Manga Elex Media,Gramedia,Wants,Entertainment,45000,55000
+697,Mainan Hot Wheels Basic Car,Kidz Station / Indomaret,Wants,Entertainment,30000,40000
+698,Mainan Lego Classic Box,Lego Store,Wants,Entertainment,300000,500000
+699,Gundam HG Model Kit,Multi Toys,Wants,Entertainment,250000,350000
+700,Board Game Uno Card,Toys Kingdom,Wants,Entertainment,80000,100000
+701,Sewa Sepeda Listrik (Beam/Gowes),Beam / Apps,Wants,Entertainment,15000,30000
+702,Tiket Masuk Night Market / Pasar Malam,Lokal,Wants,Entertainment,10000,25000
+703,Fiesta Chicken Nugget 500g,Modern Retail,Wants,Frozen Food,50000,60000
+704,Fiesta Spicy Wing 500g,Modern Retail,Wants,Frozen Food,55000,65000
+705,Fiesta Chicken Stikie 500g,Modern Retail,Wants,Frozen Food,48000,58000
+706,Champ Chicken Nugget 500g,Modern Retail,Wants,Frozen Food,35000,45000
+707,Champ Chicken Sausage (Sosis Ayam) 375g,Modern Retail,Wants,Frozen Food,25000,32000
+708,Belfoods Favorite Chicken Nugget 500g,Modern Retail,Wants,Frozen Food,35000,45000
+709,Belfoods Favorite Chicken Nugget Ceria (Huruf) 500g,Modern Retail,Wants,Frozen Food,35000,45000
+710,So Good Chicken Nugget Original 400g,Modern Retail,Wants,Frozen Food,40000,50000
+711,Kimbo Sosis Sapi Goreng 12pcs,Modern Retail,Wants,Frozen Food,25000,32000
+712,Kanzler Sosis Beef Cocktail 500g,Modern Retail,Wants,Frozen Food,55000,65000
+713,Kanzler Singles Sosis Sapi Keju 65g (Siap Makan),Modern Retail,Wants,Frozen Food,8000,10000
+714,Kanzler Singles Sosis Sapi Original 65g,Modern Retail,Wants,Frozen Food,8000,10000
+715,Kanzler Singles Sosis Sapi Keju 65g,Kanzler,Wants,Frozen Food,8000,10000
+716,Kanzler Crispy Chicken Nugget 450g,Kanzler,Wants,Frozen Food,43000,55000
+717,Kanzler Singles Sosis Ayam Gochujang 65g,Kanzler,Wants,Frozen Food,8000,10000
+718,Kanzler Singles Bakso Keju 65g,Kanzler,Wants,Frozen Food,8500,11000
+719,Kanzler Sosis Frankfurter Garlic 300g,Kanzler,Wants,Frozen Food,45000,55000
+720,Kanzler Sosis Beef Wiener 360g,Kanzler,Wants,Frozen Food,48000,58000
+721,Fiesta Karage 500g,Fiesta,Wants,Frozen Food,58000,68000
+722,Fiesta Schnitzel 500g,Fiesta,Wants,Frozen Food,55000,65000
+723,Fiesta Chicken Tofu 500g,Fiesta,Wants,Frozen Food,45000,55000
+724,Fiesta Cheesy Lover 500g,Fiesta,Wants,Frozen Food,58000,68000
+725,Fiesta Bakso Ayam 500g,Fiesta,Wants,Frozen Food,35000,45000
+726,Fiesta Siomay Ayam 180g,Fiesta,Wants,Frozen Food,25000,30000
+727,So Good Spicy Chicken Wing 400g,So Good,Wants,Frozen Food,48000,58000
+728,So Good Chicken Stick Premium 400g,So Good,Wants,Frozen Food,42000,52000
+729,So Good Nugget Dino 400g,So Good,Wants,Frozen Food,42000,52000
+730,So Good Bakso Kuah Sapi 120g,So Good,Wants,Frozen Food,15000,20000
+731,Champ Chicken Ball (Bakso Ayam) 500g,Champ,Wants,Frozen Food,28000,35000
+732,Champ Burger Grill 315g,Champ,Wants,Frozen Food,25000,32000
+733,Champ Sosis Sapi Serbaguna 375g,Champ,Wants,Frozen Food,30000,38000
+734,Champ Nugget Coin 500g,Champ,Wants,Frozen Food,35000,45000
+735,Belfoods Royal Chicken Nugget 500g,Belfoods,Wants,Frozen Food,45000,55000
+736,Belfoods Uenaaak Sosis Ayam 500g,Belfoods,Wants,Frozen Food,22000,28000
+737,Belfoods Crispy Fried Chicken 500g,Belfoods,Wants,Frozen Food,45000,55000
+738,Cedea Fish Dumpling Cheese 500g,Cedea,Wants,Frozen Food,35000,45000
+739,Cedea Fish Dumpling Chicken 500g,Cedea,Wants,Frozen Food,32000,40000
+740,Cedea Fish Roll 500g,Cedea,Wants,Frozen Food,30000,38000
+741,Cedea Chikuwa 500g,Cedea,Wants,Frozen Food,32000,40000
+742,Cedea Crab Stick 500g,Cedea,Wants,Frozen Food,30000,38000
+743,Cedea Steamboat Set 300g,Cedea,Wants,Frozen Food,35000,45000
+744,Cedea Baso Ikan Besar 500g,Cedea,Wants,Frozen Food,30000,38000
+745,Sunny Gold Chicken Nugget 500g,Sunny Gold,Wants,Frozen Food,38000,48000
+746,Sunny Gold Chicken Tempura 500g,Sunny Gold,Wants,Frozen Food,38000,48000
+747,Sunny Gold Tulip Wings 500g,Sunny Gold,Wants,Frozen Food,45000,55000
+748,Kimbo Sosis Sapi Serbaguna 12pcs,Kimbo,Wants,Frozen Food,30000,38000
+749,Kimbo Reddi Sosis Ikan Siap Makan (Toples),Kimbo,Wants,Frozen Food,18000,25000
+750,Kimbo Bratwurst Lada Hitam 500g,Kimbo,Wants,Frozen Food,45000,55000
+751,Bernardi Sosis Sapi Goreng 500g,Bernardi,Wants,Frozen Food,65000,80000
+752,Bernardi Bakso Sapi 500g,Bernardi,Wants,Frozen Food,55000,70000
+753,Bernardi Horeca Pack Sosis Sapi 1kg,Bernardi,Wants,Frozen Food,110000,130000
+754,Akumo Chicken Nugget 500g,Akumo,Wants,Frozen Food,25000,30000
+755,Okey Sosis Ayam 500g,Okey,Wants,Frozen Food,20000,25000
+756,Okey Chicken Nugget 500g,Okey,Wants,Frozen Food,22000,28000
+757,Vigo Sosis Ayam 500g,Vigo,Wants,Frozen Food,18000,23000
+758,Goldstar Chicken Nugget 500g,Goldstar,Wants,Frozen Food,35000,42000
+759,Goldstar Chicken Katsu 500g,Goldstar,Wants,Frozen Food,38000,45000
+760,Fronte Beef Sausage 500g,Fronte,Wants,Frozen Food,45000,55000
+761,Umami Dimsum Ayam Mix 12pcs,Umami,Wants,Frozen Food,35000,45000
+762,Daun Kangkung Segar Hydroponic 1 Ikat 200g,Sayurbox,Needs,Groceries,3500,5000
+763,Bayam Hijau Segar 1 Ikat 200g,Tukang Sayur Keliling,Needs,Groceries,4000,6000
+764,Pakcoy Bok Choy Konvensional Pack 250g,Superindo,Needs,Groceries,4500,6500
+765,Pakcoy Organik Premium Pack 200g,Ranch Market,Wants,Groceries,14500,14900
+766,Cabe Merah Besar Segar 1 Kg,Pasar Tradisional,Needs,Groceries,40000,60000
+767,Cabe Rawit Merah Pedas 1 Kg,Pasar Tradisional,Needs,Groceries,60000,80000
+768,Cabe Rawit Hijau Segar 1 Kg,Pasar Tradisional,Needs,Groceries,40000,50000
+769,Bawang Putih Kating Import 1 Kg,Pasar Tradisional,Needs,Groceries,36000,40000
+770,Bawang Merah Brebes Lokal 1 Kg,Pasar Tradisional,Needs,Groceries,30000,45000
+771,Daging Ayam Broiler Karkas Utuh 1 Kg,Prima Freshmart,Needs,Groceries,40000,42000
+772,Daging Ayam Fillet Dada Boneless 500g,Prima Freshmart,Needs,Groceries,26500,30000
+773,Ayam Kampung Utuh Free Range 1 Ekor 800g,Pasar Tradisional,Wants,Groceries,60000,75000
+774,Ayam Kampung Organik Premium 1 Ekor 900g,Ranch Market,Wants,Groceries,110000,130000
+775,Daging Sapi Rendang Segar 1 Kg,Pasar Tradisional,Needs,Groceries,130000,140000
+776,Daging Sapi Slice Shortplate US Frozen 500g,Frozen Food Store,Wants,Groceries,65000,75000
+777,Daging Sapi Saikoro Cubes Frozen 500g,Frozen Food Store,Wants,Groceries,70000,85000
+778,Buntut Sapi Oxtail Segar 1 Kg,Meat Shop,Wants,Groceries,150000,180000
+779,Telur Ayam Negeri Curah Brown Egg 1 Kg,Agen Telur & Sembako,Needs,Groceries,28000,32000
+780,Telur Ayam Omega 3 Ayyomi Premium 10 Pcs,Superindo,Wants,Groceries,33500,35900
+781,Telur Ayam Kampung Omega Premium 6 Pcs,Ranch Market,Wants,Groceries,33500,35000
+782,Telur Ayam Kampung Curah Per Butir,Warung Kelontong,Needs,Groceries,2500,3000
+783,So Good Telur Omega Premium 10 Pcs,Alfamidi,Wants,Groceries,35500,45000
+784,Ikan Cakalang Fufu Asap Per Ekor,Pasar Tradisional,Needs,Groceries,25000,35000
+785,Ikan Bawal Laut Hitam Segar 1 Kg,Pasar Ikan Modern,Wants,Groceries,60000,75000
+786,Cumi Ring Calamari Frozen 500g,Frozen Food Store,Wants,Groceries,40000,50000
+787,Udang Vaname Size 40-50 Segar 1 Kg,Pasar Ikan Modern,Wants,Groceries,80000,95000
+788,Jeruk Shantang Madu Import 500g,Toko Buah Segar,Wants,Groceries,19900,25000
+789,Jeruk Wogan Premium 600g,Ranch Market,Wants,Groceries,32500,44400
+790,Apel Envy Premium USA 500g,Total Buah Segar,Wants,Groceries,38900,45000
+791,Pear Packham Premium 500g,Superindo,Wants,Groceries,29900,35000
+792,Semangka Merah Inul Lokal 1.5 - 2 Kg,Pasar Tradisional,Needs,Groceries,36400,45500
+793,Alpukat Mentega Premium 1 Kg,Sayurbox,Wants,Groceries,41300,45400
+794,Nanas Honi Sunpride Per Pcs,Superindo,Needs,Groceries,20000,25000
+795,Pisang Cavendish Sunpride 1 Kg,Indomaret Fresh,Needs,Groceries,18000,22000
+796,Jagung Manis Kupas Segar Pack 3s,Superindo,Needs,Groceries,10000,12000
+797,Wortel Brastagi Lokal Premium 500g,Sayurbox,Needs,Groceries,8000,10000
+798,Kentang Dieng Lokal 1 Kg,Pasar Tradisional,Needs,Groceries,18000,22000
+799,Tomat Merah Lokal 1 Kg,Tukang Sayur Keliling,Needs,Groceries,12000,18000
+800,Timun Kyuri Jepang Hydroponic 500g,Papaya Fresh Gallery,Wants,Groceries,10000,12000
+801,Selada Keriting Lettuce Hydroponic 200g,Sayurbox,Needs,Groceries,5000,7000
+802,Brokoli Segar Highland 1 Kg,Pasar Tradisional,Needs,Groceries,30000,40000
+803,Kembang Kol Segar Highland 1 Kg,Pasar Tradisional,Needs,Groceries,25000,30000
+804,Jamur Enoki Import Pack 100g,Lotte Mart,Needs,Groceries,5000,7000
+805,Jamur Tiram Oyster Lokal 250g,Tukang Sayur Keliling,Needs,Groceries,10000,12000
+806,Tempe Papan Soybean 1 Papan,Tukang Sayur Keliling,Needs,Groceries,5000,7000
+807,Tahu Putih Kuning Soybean Pack 5-10s,Tukang Sayur Keliling,Needs,Groceries,5000,8000
+808,Ikan Lele Hidup Air Tawar 1 Kg,Pasar Tradisional,Needs,Groceries,25000,30000
+809,Ikan Mas Air Tawar 1 Kg,Pasar Tradisional,Needs,Groceries,35000,40000
+810,Ikan Gurame Air Tawar 1 Kg,Pasar Tradisional,Wants,Groceries,55000,65000
+811,Ikan Salmon Fillet Trout Import Frozen 200g,Fish Streat Store,Wants,Groceries,75000,90000
+812,Daging Giling Sapi Minced Beef Fresh 500g,Meat Shop,Needs,Groceries,60000,70000
+813,Ati Ampela Ayam Segar 500g,Pasar Tradisional,Needs,Groceries,20000,25000
+814,Ceker Ayam Bersih Segar 500g,Pasar Tradisional,Needs,Groceries,20000,25000
+815,Kulit Ayam Segar 500g,Pasar Tradisional,Needs,Groceries,25000,30000
+816,Sayap Ayam Wings Segar 500g,Prima Freshmart,Needs,Groceries,25000,30000
+817,Paha Ayam Bawah Drumstick Segar 500g,Prima Freshmart,Needs,Groceries,25000,30000
+818,Ikan Kembung Banjar Segar 1 Kg,Pasar Tradisional,Needs,Groceries,35000,40000
+819,Ikan Tongkol Iris Segar 500g,Pasar Tradisional,Needs,Groceries,25000,30000
+820,Cumi Asin Kering Dried Salted 100g,Pasar Tradisional,Needs,Groceries,20900,25000
+821,Ikan Teri Medan Dried 100g,Pasar Tradisional,Needs,Groceries,15000,20000
+822,Labu Siam Lokal 1 Kg,Tukang Sayur Keliling,Needs,Groceries,8000,10000
+823,Terong Ungu Lokal 1 Kg,Tukang Sayur Keliling,Needs,Groceries,10000,12000
+824,Kacang Panjang Lokal 1 Ikat,Tukang Sayur Keliling,Needs,Groceries,5000,7000
+825,Buncis Lokal 250g,Tukang Sayur Keliling,Needs,Groceries,6000,8000
+826,Sawi Hijau Caisim Lokal 1 Ikat,Tukang Sayur Keliling,Needs,Groceries,3000,5000
+827,Sawi Putih Lokal 1 Kg,Tukang Sayur Keliling,Needs,Groceries,10000,12000
+828,Kubis Kol Lokal 1 Kg,Tukang Sayur Keliling,Needs,Groceries,8000,12000
+829,Daun Bawang Segar 1 Ikat 250g,Tukang Sayur Keliling,Needs,Groceries,5000,8000
+830,Seledri Segar 1 Ikat,Tukang Sayur Keliling,Needs,Groceries,4000,6000
+831,Jahe Merah Root 1 Kg,Pasar Tradisional,Needs,Groceries,30000,40000
+832,Lengkuas Root 250g,Pasar Tradisional,Needs,Groceries,5000,8000
+833,Kunyit Segar Root 250g,Pasar Tradisional,Needs,Groceries,5000,7000
+834,Sereh Lemongrass Stalk 1 Ikat,Pasar Tradisional,Needs,Groceries,3000,5000
+835,Jeruk Nipis Buah 1 Kg,Pasar Tradisional,Needs,Groceries,15000,20000
+836,Lemon Lokal Buah 1 Kg,Superindo,Needs,Groceries,20000,25000
+837,Ubi Cilembu Tuber 1 Kg,Pasar Tradisional,Needs,Groceries,15000,20000
+838,Singkong Tuber 1 Kg,Pasar Tradisional,Needs,Groceries,5000,7000
+839,Melon Sky Rocket Buah 1 Kg,Total Buah Segar,Wants,Groceries,15000,20000
+840,Pepaya California Buah 1 Kg,Tukang Sayur Keliling,Needs,Groceries,8000,12000
+841,Salak Pondoh Buah 1 Kg,Toko Buah Segar,Needs,Groceries,10000,15000
+842,Kecap Bango Manis Refill Pouch 550ml,Indomaret,Needs,Groceries,19800,25000
+843,Kecap Bango Manis Botol 135ml,Warung Kelontong,Needs,Groceries,11250,14500
+844,Kecap ABC Manis Refill Pouch 600ml,Alfamart,Needs,Groceries,17500,20000
+845,Kecap Sedaap Manis Kedelai Hitam Pouch 550ml,Alfamidi,Needs,Groceries,13500,16000
+846,Kecap Asin Cap Hati Angsa Botol 600ml,Lotte Mart,Needs,Groceries,27500,32000
+847,Kecap Asin Kikkoman All Purpose Soy Sauce 150ml,Superindo,Wants,Groceries,21000,25000
+848,Kecap Ikan Djoe Hoa Botol 650ml,Superindo,Wants,Groceries,35000,45000
+849,Kecap Inggris Worcestershire Sauce Asia Arum 150ml,Superindo,Wants,Groceries,12000,18000
+850,Saus Sambal ABC Asli Ekstra Pedas Botol 135ml,Indomaret,Needs,Groceries,9300,11000
+851,Saus Sambal ABC Asli Pouch 1kg,Lotte Grosir,Needs,Groceries,25000,30000
+852,Saus Sambal Dua Belibis Botol 535ml,Superindo,Wants,Groceries,26000,32000
+853,Saus Sambal Jawara Extra Hot Pouch 120ml,Alfamart,Needs,Groceries,7500,10000
+854,Saus Tomat Del Monte Pouch 1kg,Lotte Grosir,Needs,Groceries,22500,26000
+855,Saus Tomat ABC Botol 135ml,Indomaret,Needs,Groceries,6000,8000
+856,Saus Tiram Saori Sachet 23ml,Warung Kelontong,Needs,Groceries,3000,4500
+857,Saus Tiram Lee Kum Kee Panda Botol 255g,Grand Lucky,Wants,Groceries,28000,35000
+858,Saus Tiram Royco Botol 270ml,Alfamart,Needs,Groceries,21000,24000
+859,Mayonnaise Maestro Sachet 100g,Indomaret,Needs,Groceries,8000,11000
+860,Mayonnaise Kewpie Original Bottle 150g,Superindo,Wants,Groceries,28000,35000
+861,Kewpie Salad Dressing Wijen Sangrai 200ml,Superindo,Wants,Groceries,37000,45000
+862,Minyak Wijen Oh Guan Hing Botol 100ml,Pasar Tradisional,Wants,Groceries,15000,20000
+863,Minyak Wijen Lee Kum Kee Pure Sesame Oil 115ml,Grand Lucky,Wants,Groceries,44000,55000
+864,Terasi Udang ABC Sachet Isi 20 Pcs,Pasar Tradisional,Needs,Groceries,9000,12000
+865,Sambal Terasi Uleg Finna Sachet 20g,Indomaret,Wants,Groceries,1500,2500
+866,Sambal Ijo Padang Indofood Botol 180g,Alfamart,Wants,Groceries,15000,20000
+867,BonCabe Sambal Tabur Level 15 Botol 45g,Indomaret,Wants,Groceries,11000,15000
+868,BonCabe Sambal Tabur Level 30 Botol 40g,Indomaret,Wants,Groceries,23000,28000
+869,Bumbu Racik Indofood Nasi Goreng Sachet 20g,Warung Kelontong,Needs,Groceries,2500,3500
+870,Bumbu Racik Indofood Sayur Asem Sachet 33g,Warung Kelontong,Needs,Groceries,2500,3500
+871,Bumbu Racik Indofood Ikan Goreng Sachet 20g,Warung Kelontong,Needs,Groceries,2500,3500
+872,Bumbu Racik Indofood Ayam Goreng Sachet 26g,Warung Kelontong,Needs,Groceries,2500,3500
+873,Royco Bumbu Pelezat Rasa Ayam Sachet 230g,Indomaret,Needs,Groceries,9500,12000
+874,Royco Bumbu Pelezat Rasa Sapi Sachet 230g,Indomaret,Needs,Groceries,9500,12000
+875,Masako Penyedap Rasa Ayam Sachet 250g,Alfamart,Needs,Groceries,10000,13000
+876,Totole Kaldu Jamur Granule 200g,Superindo,Wants,Groceries,25000,32000
+877,Ladaku Merica Bubuk Sachet 4g Renceng Isi 12,Warung Kelontong,Needs,Groceries,11000,14000
+878,Ladaku Merica Bubuk Botol 65g,Alfamart,Needs,Groceries,18000,22000
+879,Desaku Ketumbar Bubuk Sachet 12.5g,Warung Kelontong,Needs,Groceries,1000,2000
+880,Desaku Kunyit Bubuk Sachet 10g,Warung Kelontong,Needs,Groceries,1000,2000
+881,Koepoe Koepoe Bawang Putih Bubuk 130g,Superindo,Wants,Groceries,20000,25000
+882,Koepoe Koepoe Lada Hitam Bubuk 35g,Superindo,Wants,Groceries,15000,19000
+883,Koepoe Koepoe Kayu Manis Bubuk 35g,Superindo,Wants,Groceries,12000,16000
+884,Koepoe Koepoe Ngohiong Five Spice Bubuk 23g,Superindo,Wants,Groceries,10000,14000
+885,Santan Sun Kara Cair Segitiga 65ml,Warung Kelontong,Needs,Groceries,3000,5500
+886,Santan Sun Kara Cair Kotak 200ml,Alfamart,Needs,Groceries,8000,11000
+887,Santan Sasa Cair Segitiga 65ml,Warung Kelontong,Needs,Groceries,2800,5000
+888,Santan Bubuk Sasa Sachet 20g,Warung Kelontong,Needs,Groceries,1500,2500
+889,Garam Dapur Refina Halus Beryodium Pouch 500g,Alfamart,Needs,Groceries,7500,9500
+890,Garam Meja Dolphin Beryodium Pack 500g,Warung Kelontong,Needs,Groceries,7000,9000
+891,Garam Himalaya Pink Salt Pouch 500g,Ranch Market,Wants,Groceries,15000,25000
+892,Gula Merah Jawa Sisir Kualitas Super 1kg,Pasar Tradisional,Needs,Groceries,18000,25000
+893,Gula Aren Bubuk Organic Palm Sugar 250g,Superindo,Wants,Groceries,25000,35000
+894,Gula Batu Rock Sugar Kuning 500g,Pasar Tradisional,Wants,Groceries,12000,18000
+895,MSG Ajinomoto Penyedap Rasa 250g,Warung Kelontong,Needs,Groceries,12000,15000
+896,MSG Sasa Gourmet Powder 250g,Warung Kelontong,Needs,Groceries,11000,14000
+897,Cuka Dapur Dixi Botol 150ml,Indomaret,Needs,Groceries,5000,7500
+898,Asam Jawa Cap Gunung Pack 200g,Pasar Tradisional,Needs,Groceries,5000,8000
+899,Bumbu Bamboe Rawon Sachet 54g,Indomaret,Wants,Groceries,7000,9000
+900,Bumbu Bamboe Soto Ayam Sachet 40g,Indomaret,Wants,Groceries,7000,9000
+901,Bumbu Bamboe Rendang Sachet 35g,Indomaret,Wants,Groceries,7000,9000
+902,Bumbu Munik Rendang Asli Box 115g,Ranch Market,Wants,Groceries,35000,42000
+903,Bumbu Munik Kepiting Saus Padang Box,Ranch Market,Wants,Groceries,38000,45000
+904,Tepung Bumbu Sasa Serbaguna Original 225g,Indomaret,Needs,Groceries,6000,8500
+905,Tepung Bumbu Kobe Kentucky Super Crispy 210g,Alfamart,Needs,Groceries,7000,9500
+906,Tepung Bumbu Sajiku Serbaguna 240g,Alfamart,Needs,Groceries,6000,8000
+907,Tepung Maizena Maizenaku Box 150g,Indomaret,Needs,Groceries,6000,8000
+908,Tepung Roti Panir kasar Mix 250g,Toko Bahan Kue,Needs,Groceries,8000,12000
+909,Bawang Goreng Brebes Asli Toples 100g,Pasar Tradisional,Wants,Groceries,25000,35000
+910,Saus Barbeque Del Monte Pouch 250g,Superindo,Wants,Groceries,15000,20000
+911,Saus Keju Euro Gourmet Cimory Pouch 500g,Superindo,Wants,Groceries,35000,45000
+912,Saus Spaghetti La Fonte Bolognese Pouch 315g,Alfamart,Wants,Groceries,18000,23000
+913,Ragi Instan Fermipan Sachet 11g,Toko Bahan Kue,Needs,Groceries,5000,7000
+914,Soda Kue Koepoe Koepoe Botol 81g,Toko Bahan Kue,Needs,Groceries,6000,9000
+915,Baking Powder Koepoe Koepoe Botol 45g,Toko Bahan Kue,Needs,Groceries,7000,10000
+916,Pengembang Kue SP Koepoe Botol 30g,Toko Bahan Kue,Needs,Groceries,8000,11000
+917,Perisa Vanilli Bubuk Sachet,Warung Kelontong,Needs,Groceries,1000,2000
+918,Pewarna Makanan Koepoe (Merah/Kuning/Hijau) 30ml,Toko Bahan Kue,Needs,Groceries,5000,8000
+919,Bumbu Pecel Karangsari Pack 200g,Superindo,Wants,Groceries,15000,18000
+920,Beras IR 64 Medium Curah 1 Kg,Agen Beras,Needs,Groceries,12847,12870
+921,Beras Premium Raja Lele 5 Kg,Agen Beras,Needs,Groceries,73000,83000
+922,Beras Maknyuss Premium 5 Kg,Lotte Mart,Needs,Groceries,47500,75000
+923,Beras Rojolele SJP Lokal 1 Kg,Pasar Tradisional,Needs,Groceries,14000,15000
+924,Beras Medium SPHP Bulog 1 Kg,Rumah Pangan Kita,Needs,Groceries,14000,14500
+925,Beras Pandan Wangi Premium 5 Kg,Superindo,Needs,Groceries,85000,95000
+926,Gula Pasir Rose Brand Putih 1 Kg,Indomaret,Needs,Groceries,17500,20800
+927,Gula Pasir Rose Brand Kuning 1 Kg,Alfamart,Needs,Groceries,17500,25000
+928,Gula Pasir Gulaku Premium 1 Kg,Superindo,Needs,Groceries,21800,22500
+929,Gula Pasir Gulaku Kuning 1 Kg,Lotte Mart,Needs,Groceries,22500,23000
+930,Gula Halus Rose Brand 500g,Toko Bahan Kue,Wants,Groceries,12500,15000
+931,Gula Aren Bubuk Palm Sugar Nutrifarm 500g,Ranch Market,Wants,Groceries,34000,40000
+932,Gula Aren Cair Organik 1 Liter,Sayurbox,Wants,Groceries,53000,60000
+933,Gula Stick Sachet Gulaku 1 Kg isi 125pcs,Lotte Grosir,Wants,Groceries,48500,60950
+934,Tepung Terigu Segitiga Biru Bogasari 1 Kg,Warung Kelontong,Needs,Groceries,13000,16500
+935,Tepung Terigu Cakra Kembar Bogasari 1 Kg,Indomaret,Needs,Groceries,16500,17200
+936,Tepung Terigu Kunci Biru Bogasari 1 Kg,Indomaret,Needs,Groceries,13000,16500
+937,Tepung Maizena Rose Brand 250g,Alfamart,Needs,Groceries,5300,6500
+938,Minyak Goreng Sania Pouch 1 Liter,Indomaret,Needs,Groceries,21000,29000
+939,Minyak Goreng Sania Pouch 2 Liter,Alfamart,Needs,Groceries,40100,41999
+940,Minyak Goreng Tropical 2 Liter,Superindo,Needs,Groceries,38000,42000
+941,Minyak Goreng SunCo 2 Liter,Lotte Mart,Needs,Groceries,40000,43000
+942,Susu Kental Manis Frisian Flag Gold Kaleng 370g,Indomaret,Needs,Groceries,18375,20000
+943,Susu Kental Manis Frisian Flag Coklat Kaleng 490g,Alfamart,Needs,Groceries,17900,19000
+944,Susu Kental Manis Frisian Flag Putih Pouch 535g,Indomaret,Needs,Groceries,19499,21300
+945,Susu Kental Manis Frisian Flag Sachet Pack 6pcs,Warung Kelontong,Needs,Groceries,9300,10650
+946,Susu Kental Manis Indomilk Coklat Kaleng 370g,Alfamart,Needs,Groceries,9000,13375
+947,Susu Kental Manis Indomilk Putih Pouch 545g,Indomaret,Needs,Groceries,16992,18700
+948,Susu Kental Manis Indomilk Sachet Pack 6pcs,Warung Kelontong,Needs,Groceries,10950,12000
+949,Krimer Kental Manis Carnation Nestle 370g,Alfamidi,Needs,Groceries,13500,14500
+950,Susu Kental Manis Cap Tiga Sapi Kaleng 490g,Lotte Mart,Needs,Groceries,16749,18000
+951,Susu Kental Manis Cap Enaak Pouch 545g,Alfamart,Needs,Groceries,18100,19000
+952,Susu Bubuk Dancow Fortigro Nestle 1 Kg,Superindo,Needs,Groceries,122900,125000
+953,Susu Bubuk Milo 3in1 Nestle Pack,Indomaret,Wants,Groceries,86900,90000
+954,Susu UHT Ultra Milk Full Cream 1 Liter,Indomaret,Needs,Groceries,18000,20000
+955,Susu Steril Bear Brand Nestle Kaleng 189ml,Alfamart,Needs,Groceries,10500,12000
+956,Tepung Beras Rose Brand 500g,Warung Kelontong,Needs,Groceries,7000,9000
+957,Tepung Tapioka Sagu Tani Liauw Tjoei 1 Kg,Toko Bahan Kue,Needs,Groceries,25000,36500
+958,Gula Batu Rock Sugar Lokal 500g,Pasar Tradisional,Wants,Groceries,15000,20000
+959,Gula Diet Diabetasol Tropicana 50 Sachet,Century Healthcare,Needs,Groceries,45000,50000
+960,Blue Band Margarine Sachet 200g,Warung Kelontong,Needs,Groceries,10000,12000
+961,Blue Band Margarine Tub 250g,Indomaret,Needs,Groceries,15000,18000
+962,Keju Cheddar Kraft 165g,Indomaret,Wants,Groceries,22000,25000
+963,Keju Cheddar Prochiz 160g,Alfamart,Wants,Groceries,12000,15000
+964,Meses Ceres Coklat Butir 90g,Indomaret,Wants,Groceries,8000,10000
+965,Kopi Kapal Api Special 165g,Warung Kelontong,Needs,Groceries,14000,16000
+966,Kopi Kapal Api Mix Renceng 10 Sachet,Warung Kelontong,Needs,Groceries,13000,15000
+967,Teh Celup Sariwangi 25 Bags,Indomaret,Needs,Groceries,6500,8000
+968,Teh Celup Sosro 30 Bags,Alfamart,Needs,Groceries,6000,7500
+969,Mie Instan Indomie Goreng 1 Pcs,Warung Kelontong,Needs,Groceries,3100,3500
+970,Mie Instan Indomie Soto 1 Pcs,Warung Kelontong,Needs,Groceries,3000,3400
+971,Mie Sedaap Goreng 1 Pcs,Warung Kelontong,Needs,Groceries,3000,3400
+972,Mie Telur Cap 3 Ayam Indofood 200g,Indomaret,Needs,Groceries,5000,7000
+973,Bihun Jagung Padamu 300g,Pasar Tradisional,Needs,Groceries,8000,10000
+974,Santan Bubuk Sasa Sachet,Warung Kelontong,Needs,Groceries,3000,4000
+975,Agar-Agar Swallow Globe Sachet,Warung Kelontong,Wants,Groceries,4000,5000
+976,Nutrijell Coklat Sachet,Indomaret,Wants,Groceries,5000,7000
+977,Pudding Susu Nutrijell Box,Alfamart,Wants,Groceries,12000,15000
+978,Sirup Marjan Cocopandan Botol 460ml,Indomaret,Wants,Groceries,20000,25000
+979,Sirup ABC Squash Delight Botol 460ml,Alfamart,Wants,Groceries,13000,15000
+980,Minyak Goreng Filma Pouch 2 Liter,Superindo,Needs,Groceries,41000,44000
+981,Tepung Bumbu Sasa Fried Chicken 225g,Indomaret,Needs,Groceries,6000,8000
+982,Tepung Bumbu Kobe 200g,Alfamart,Needs,Groceries,7000,9000
+983,Kerupuk Udang Mentah Finna 250g,Superindo,Wants,Groceries,15000,20000
+984,Macaroni La Fonte 225g,Indomaret,Wants,Groceries,9000,11000
+985,Spaghetti La Fonte 450g,Alfamart,Wants,Groceries,18000,20000
+986,Saus Pasta La Fonte Bolognese Pouch 315g,Superindo,Wants,Groceries,18000,22000
+987,Bubur Ayam Instan Super Bubur Cup,Indomaret,Needs,Groceries,5000,7000
+988,Energen Cereal Vanilla Chocolate Renceng 10s,Alfamart,Needs,Groceries,20000,22000
+989,Quaker Oats Instant 800g,Superindo,Needs,Groceries,45000,50000
+990,Madu TJ Murni Botol 150g,Indomaret,Wants,Groceries,20000,25000
+991,Madu Rasa Sachet Box 12s,Warung Kelontong,Wants,Groceries,12000,15000
+992,Meses Holland 250g,Toko Bahan Kue,Wants,Groceries,15000,18000
+993,Selai Kacang Morin 150g,Superindo,Wants,Groceries,20000,25000
+994,Selai Strawberry Morin 150g,Alfamart,Wants,Groceries,18000,22000
+995,Tepung Ketan Rose Brand 500g,Pasar Tradisional,Needs,Groceries,8000,10000
+996,Minyak Goreng Bimoli Pouch 2 Liter,Indomaret,Needs,Groceries,39000,43000
+997,Gula Halus Claris 250g,Toko Bahan Kue,Wants,Groceries,6000,8000
+998,Tepung Hunkwe Lokal Pack,Pasar Tradisional,Needs,Groceries,3000,5000
+999,Sabun Mandi Lifebuoy Total 10 Refill 400ml,Indomaret,Needs,Personal Care,21000,25000
+1000,LIFEBUOY BODY WASH LEMON FRESH 825ML,Alfamart,Needs,Personal Care,32900,38000
+1001,Sabun Cair Biore Guard Merah 450ml,Superindo,Needs,Personal Care,22500,28000
+1002,BIORE BODY FOAM RELAXING AROMATIC 800ML,Hypermart,Needs,Personal Care,38000,45000
+1003,Lux Botanicals Sabun Cair Soft Rose 400ml,Indomaret,Needs,Personal Care,20000,24000
+1004,LUX Body Wash Magical Orchid Refill 825ml,Shopee - Unilever,Needs,Personal Care,35000,42000
+1005,Dettol Body Wash Original 410g,Guardian,Needs,Personal Care,28000,35000
+1006,DETTOL SABUN MANDI CAIR COOL 800G,Watsons,Needs,Personal Care,55000,65000
+1007,Sabun Batang Lifebuoy Merah 4x110g,Alfamidi,Needs,Personal Care,18000,22000
+1008,Sabun Mandi Nuvo Family Biru 450ml,Toko Kelontong,Needs,Personal Care,16000,19000
+1009,Shinzui Body Cleanser Kirei 400ml,Indomaret,Needs,Personal Care,23000,27000
+1010,SHINZUI SKIN LIGHTENING SOAP 3X80G,Alfamart,Needs,Personal Care,13000,16000
+1011,Zen Body Wash Shiso & Sulphur 400ml,Superindo,Needs,Personal Care,24000,29000
+1012,GIV Body Wash White Flowers 450ml,Lotte Mart,Needs,Personal Care,17000,21000
+1013,Dove Body Wash Deeply Nourishing 400ml,Watsons,Wants,Personal Care,35000,45000
+1014,The Body Shop Shower Gel Moringa 250ml,The Body Shop,Wants,Personal Care,129000,149000
+1015,Original Source Shower Gel Mint 250ml,Guardian,Wants,Personal Care,38000,45000
+1016,Sabun Asepso Sulphur 80gr,Apotek K-24,Needs,Personal Care,8000,10000
+1017,JF Sulfur Sabun Mandi Anti Acne,Century,Needs,Personal Care,12000,15000
+1018,Herborist Body Wash Zaitun 250ml,Tokopedia,Wants,Personal Care,22000,28000
+1019,Shampoo Sunsilk Black Shine 170ml,Indomaret,Needs,Personal Care,21000,26000
+1020,SUNSILK SHAMPOO SOFT & SMOOTH 340ML,Alfamart,Needs,Personal Care,38000,45000
+1021,Pantene Shampoo Anti Ketombe 160ml,Indomaret,Needs,Personal Care,23000,28000
+1022,PANTENE SHAMPOO HAIR FALL 290ML,Superindo,Needs,Personal Care,42000,52000
+1023,Pantene Conditioner 3 Minute Miracle 150ml,Guardian,Wants,Personal Care,28000,35000
+1024,Clear Shampoo Ice Cool Menthol 160ml,Alfamidi,Needs,Personal Care,22000,27000
+1025,CLEAR MEN SHAMPOO COOL SPORT 300ML,Hypermart,Needs,Personal Care,45000,55000
+1026,Head & Shoulders Cool Menthol 160ml,Indomaret,Needs,Personal Care,24000,30000
+1027,H&S Shampoo Lemon Fresh 300ml,Watsons,Needs,Personal Care,48000,58000
+1028,Rejoice Shampoo Rich Soft Smooth 150ml,Toko Kelontong,Needs,Personal Care,19000,24000
+1029,Dove Shampoo Total Damage Treatment 135ml,Indomaret,Needs,Personal Care,22000,27000
+1030,Tresemme Keratin Smooth Shampoo 170ml,Guardian,Wants,Personal Care,32000,38000
+1031,Zinc Shampoo Refreshing Cool 170ml,Alfamart,Needs,Personal Care,18000,22000
+1032,Selsun Blue Shampoo 120ml,Apotek K-24,Needs,Personal Care,45000,55000
+1033,Makarizo Hair Energy Shampoo 170ml,Watsons,Wants,Personal Care,28000,35000
+1034,Serasoft Shampoo Hair Fall 170ml,Superindo,Needs,Personal Care,20000,25000
+1035,Emeron Shampoo Black Shine 170ml,Toko Kelontong,Needs,Personal Care,16000,19000
+1036,L'Oreal Paris Elseve Fall Resist Shampoo,Guardian,Wants,Personal Care,55000,65000
+1037,Pepsodent Pencegah Gigi Berlubang 190g,Indomaret,Needs,Personal Care,13000,16000
+1038,PEPSODENT WHITE 225G,Alfamart,Needs,Personal Care,16000,20000
+1039,Pepsodent Action 123 Herbal 190g,Superindo,Needs,Personal Care,18000,22000
+1040,Ciptadent Maxi 12 Plus Fresh Mint 190g,Toko Kelontong,Needs,Personal Care,10000,13000
+1041,Close Up Green Ever Fresh 160g,Indomaret,Needs,Personal Care,18000,23000
+1042,Sensodyne Pasta Gigi Rapid Relief 100g,Watsons,Needs,Personal Care,35000,45000
+1043,SENSODYNE REPAIR & PROTECT 100G,Guardian,Needs,Personal Care,42000,52000
+1044,Formula Pasta Gigi Strong Protector 160g,Alfamidi,Needs,Personal Care,12000,15000
+1045,Enzim Classic Mild Pasta Gigi 100ml,Superindo,Wants,Personal Care,30000,38000
+1046,Darlie Double Action Toothpaste 225g,Hypermart,Needs,Personal Care,28000,35000
+1047,Listerine Cool Mint Mouthwash 250ml,Indomaret,Needs,Personal Care,22000,26000
+1048,Listerine Zero Alcohol 500ml,Watsons,Needs,Personal Care,38000,48000
+1049,Betadine Obat Kumur 190ml,Apotek K-24,Needs,Personal Care,35000,42000
+1050,Sikat Gigi Formula Ripple Soft Isi 3,Alfamart,Needs,Personal Care,15000,18000
+1051,Pepsodent Sikat Gigi Double Care,Indomaret,Needs,Personal Care,10000,14000
+1052,Garnier Men Acno Fight Foam 100ml,Indomaret,Needs,Personal Care,32000,38000
+1053,GARNIER MEN TURBOLIGHT OIL CONTROL 100ML,Alfamart,Needs,Personal Care,32000,38000
+1054,Pond's Men Energy Charge Face Wash 100g,Indomaret,Needs,Personal Care,30000,36000
+1055,Kahf Oil and Acne Care Face Wash 100ml,Shopee - Kahf,Needs,Personal Care,38000,45000
+1056,Kahf Skin Energizing Face Wash 100ml,Tokopedia - Kahf,Needs,Personal Care,38000,45000
+1057,Biore Men's Double Scrub Facial Foam 100g,Alfamidi,Needs,Personal Care,28000,34000
+1058,Nivea Men Facial Foam Dark Spot 100ml,Superindo,Needs,Personal Care,30000,36000
+1059,Garnier Light Complete Foam 100ml (Wanita),Indomaret,Needs,Personal Care,28000,34000
+1060,Pond's Facial Foam White Beauty 100g,Alfamart,Needs,Personal Care,27000,33000
+1061,Senka Perfect Whip Facial Foam 120g,Watsons,Wants,Personal Care,55000,65000
+1062,Cetaphil Gentle Skin Cleanser 125ml,Guardian,Wants,Personal Care,95000,115000
+1063,Rexona Men Roll On Ice Cool 45ml,Indomaret,Needs,Personal Care,18000,22000
+1064,REXONA WOMEN DEO ROLL ON FREE SPIRIT 45ML,Alfamart,Needs,Personal Care,18000,22000
+1065,Nivea Men Black & White Deo Roll On 50ml,Superindo,Needs,Personal Care,20000,25000
+1066,Nivea Extra Brightening Deo Roll On 50ml,Indomaret,Needs,Personal Care,20000,25000
+1067,Dove Deodorant Roll On Original 40ml,Watsons,Wants,Personal Care,24000,30000
+1068,Posh Men Body Spray Cool Blue 150ml,Alfamart,Needs,Personal Care,25000,30000
+1069,AXE Deodorant Body Spray Dark Temptation,Indomaret,Wants,Personal Care,35000,42000
+1070,Gatsby Splash Cologne 175ml,Toko Kelontong,Needs,Personal Care,12000,15000
+1071,Vitalis Body Scent Blossom 100ml,Alfamidi,Wants,Personal Care,18000,23000
+1072,Laurier Relax Night Wing 35cm 12 Pads,Indomaret,Needs,Personal Care,18000,22000
+1073,LAURIER ACTIVE DAY SUPER MAXI 30P,Alfamart,Needs,Personal Care,19000,23000
+1074,Charm Body Fit Day Wing 23cm 18 Pads,Superindo,Needs,Personal Care,16000,20000
+1075,Charm Safe Night Wing 29cm 10 Pads,Indomaret,Needs,Personal Care,15000,18000
+1076,Softex Daun Sirih Slim 23cm 20 Pads,Alfamart,Needs,Personal Care,17000,21000
+1077,Softex Celana Menstruasi All Size 2s,Watsons,Wants,Personal Care,18000,24000
+1078,Hers Protex Daily Comfort 20 Pads,Toko Kelontong,Needs,Personal Care,12000,15000
+1079,Betadine Feminine Hygiene 60ml,Apotek Century,Needs,Personal Care,30000,38000
+1080,Sumber Ayu Pembersih Kewanitaan 90ml,Alfamart,Needs,Personal Care,18000,22000
+1081,My Baby Minyak Telon Plus 60ml,Indomaret,Needs,Personal Care,18000,23000
+1082,MY BABY MINYAK TELON PLUS 150ML,Alfamart,Needs,Personal Care,38000,45000
+1083,Cussons Baby Oil Soft & Smooth 100ml,Superindo,Needs,Personal Care,20000,25000
+1084,Zwitsal Baby Bath Hair & Body 450ml Refill,Hypermart,Needs,Personal Care,35000,42000
+1085,Cussons Baby Powder Mild & Gentle 350g,Indomaret,Needs,Personal Care,15000,19000
+1086,MamyPoko Pants X-tra Kering M 34,Alfamart,Needs,Personal Care,55000,65000
+1087,Sweety Silver Pants L 28,Indomaret,Needs,Personal Care,58000,68000
+1088,Merries Pants Good Skin XL 26,Superindo,Needs,Personal Care,65000,75000
+1089,Tisu Wajah Paseo Smart 250 Sheets,Indomaret,Needs,Personal Care,12000,15000
+1090,NICE FACIAL TISSUE 900 GRAM,Alfamart,Needs,Personal Care,35000,42000
+1091,Tisu Basah Mitu Baby Ganti Popok 50s,Indomaret,Needs,Personal Care,14000,18000
+1092,Kapas Selection Facial Cotton 35g,Alfamart,Needs,Personal Care,5000,7000
+1093,Kapas Selection Lapis Tipis 175s,Watsons,Needs,Personal Care,15000,19000
+1094,Cotton Buds Cussons 100s,Indomaret,Needs,Personal Care,6000,9000
+1095,Dettol Hand Sanitizer Original 50ml,Guardian,Needs,Personal Care,15000,20000
+1096,Antis Hand Sanitizer Spray Jeruk Nipis 55ml,Alfamart,Needs,Personal Care,12000,16000
+1097,Gillette Pisau Cukur Blue II Plus 2s,Indomaret,Needs,Personal Care,18000,22000
+1098,Gillette Foamy Shaving Cream Lime 175g,Watsons,Wants,Personal Care,45000,55000
+1099,Charm Body Fit Wing 23cm 20 Pads,Modern Retail,Needs,Personal Care,16000,20000
+1100,Charm Body Fit Non-Wing 23cm 20 Pads,Modern Retail,Needs,Personal Care,14000,18000
+1101,Charm Night Wing 29cm 10 Pads,Modern Retail,Needs,Personal Care,12000,15000
+1102,Laurier Relax Night Wing 30cm 16 Pads,Modern Retail,Needs,Personal Care,18000,23000
+1103,Laurier Active Day Super Maxi 30 Pads,Modern Retail,Needs,Personal Care,19000,24000
+1104,Softex Daun Sirih Wing 23cm 20 Pads,Modern Retail,Needs,Personal Care,15000,19000
+1105,Softex Daun Sirih Non-Wing 23cm 20 Pads,Modern Retail,Needs,Personal Care,13000,17000
+1106,Khong Guan Biskuit Merah Kaleng 1600g,Khong Guan,Wants,Snacks,95000,110000
+1107,Roma Kelapa Biskuit 300g,Mayora,Wants,Snacks,10000,13000
+1108,Roma Malkist Crackers 135g,Mayora,Wants,Snacks,6000,8000
+1109,Oreo Vanilla Roll 133g,Mondelez,Wants,Snacks,8000,10000
+1110,Oreo Chocolate Roll 133g,Mondelez,Wants,Snacks,8000,10000
+1111,Beng Beng Wafer Coklat 20g (Box isi 20),Mayora,Wants,Snacks,30000,35000
+1112,Nabati Wafer Richeese Keju 132g,Nabati,Wants,Snacks,8000,11000
+1113,Qtela Keripik Singkong Balado 60g,Indofood,Wants,Snacks,5500,7000
+1114,Chitato Sapi Panggang 68g,Indofood,Wants,Snacks,10000,13000
+1115,Potabee Potato Chips Seaweed 68g,Wings Food,Wants,Snacks,9000,12000
+1116,Japota Potato Chips Honey Butter 68g,Wings Food,Wants,Snacks,9000,12000
+1117,Silverqueen Cashew 62g,Delfi,Wants,Snacks,14000,18000
+1118,Silverqueen Almond 62g,Delfi,Wants,Snacks,14000,18000
+1119,Cadbury Dairy Milk 62g,Mondelez,Wants,Snacks,15000,19000
+1120,Kinder Joy Boy 20g,Ferrero,Wants,Snacks,12000,15000
+1121,Kinder Joy Girl 20g,Ferrero,Wants,Snacks,12000,15000
+1122,Kopiko Candy Sachet (Pack 150g),Mayora,Wants,Snacks,7000,9000
+1123,Relaxa Candy Barley Mint (Pack 125g),Mayora,Wants,Snacks,7000,9000
+1124,Chitato Lite Nori Seaweed 68g,Indofood,Wants,Snacks,10000,12500
+1125,Chitato Ayam Bumbu 68g,Indofood,Wants,Snacks,10000,13000
+1126,Pringles Potato Crisps Original 102g,Kellogg's,Wants,Snacks,23000,26000
+1127,Pringles Potato Crisps Sour Cream 102g,Kellogg's,Wants,Snacks,23000,26000
+1128,Kusuka Keripik Singkong Original 180g,Arnotts,Wants,Snacks,14000,17000
+1129,Happytos Tortilla Chips Merah 140g,Modern Retail,Wants,Snacks,10000,12500
+1130,Piattos Snack Kentang Sapi Panggang 75g,URC Indonesia,Wants,Snacks,10000,12500
+1131,Taro Net Seaweed 65g,Tiga Pilar,Wants,Snacks,6000,8000
+1132,Chiki Balls Keju 55g,Indofood,Wants,Snacks,6500,8500
+1133,French Fries 2000 Premium 62g,Siantar Top,Wants,Snacks,7500,9500
+1134,Twistko Jagung Bakar 70g,Siantar Top,Wants,Snacks,7500,9500
+1135,Tango Wafer Coklat 130g,Orang Tua,Wants,Snacks,8500,11000
+1136,Tango Wafer Vanilla 130g,Orang Tua,Wants,Snacks,8500,11000
+1137,Selamat Wafer Chocolate 145g,Delfi,Wants,Snacks,15000,18000
+1138,Nabati Richoco Wafer Coklat 132g,Nabati,Wants,Snacks,8000,11000
+1139,Beng Beng Share It Pouch 95g,Mayora,Wants,Snacks,13000,16000
+1140,Gery Saluut Malkist Coklat 110g,GarudaFood,Wants,Snacks,7000,9000
+1141,Roma Malkist Abon 135g,Mayora,Wants,Snacks,8500,11000
+1142,Roma Sari Gandum 115g,Mayora,Wants,Snacks,7500,9500
+1143,Slai Olai Strawberry 128g,Mayora,Wants,Snacks,8000,10000
+1144,Good Time Chocochip Cookies 72g,Arnotts,Wants,Snacks,7500,9500
+1145,Nextar Brownies Choco Delight 106g,Nabati,Wants,Snacks,8000,10000
+1146,Regal Marie Biscuits 230g,Regal,Wants,Snacks,22000,26000
+1147,Tim Tam Chocolate Biscuit 81g,Arnotts,Wants,Snacks,9500,12000
+1148,Astor Wafer Stick Coklat 150g,Mayora,Wants,Snacks,14000,17000
+1149,Hello Panda Chocolate 45g,Meiji,Wants,Snacks,8500,10500
+1150,Pocky Chocolate Stick 47g,Glico,Wants,Snacks,8500,10500
+1151,Pocky Strawberry Stick 45g,Glico,Wants,Snacks,8500,10500
+1152,Lotte Choco Pie 168g (Isi 6),Lotte,Wants,Snacks,17000,21000
+1153,Delfi Dairy Milk Chocolate 60g,Delfi,Wants,Snacks,13000,16000
+1154,Delfi Cashew Chocolate 60g,Delfi,Wants,Snacks,15000,18000
+1155,Silverqueen Chunky Bar Cashew 95g,Delfi,Wants,Snacks,23000,28000
+1156,KitKat 4 Fingers 35g,Nestle,Wants,Snacks,9000,11000
+1157,Cadbury Cashew Nut 62g,Mondelez,Wants,Snacks,15000,19000
+1158,Yupi Gummy Burger 100g,Yupi,Wants,Snacks,11000,14000
+1159,Yupi Strawberry Kiss 120g,Yupi,Wants,Snacks,11000,14000
+1160,Mentos Mint Roll 37g,Perfetti Van Melle,Wants,Snacks,4000,6000
+1161,Foxs Crystal Clear Berries 90g,Nestle,Wants,Snacks,8500,11000
+1162,Fishermans Friend Original 25g,Modern Retail,Wants,Snacks,16000,20000
+1163,Sugus Stick Permen Lunak,Wrigley,Wants,Snacks,5000,7000
+1164,Nano Nano Kulit Jeruk 10g,Konimex,Wants,Snacks,3000,5000
+1165,Garuda Kacang Kulit 375g,GarudaFood,Wants,Snacks,32000,38000
+1166,Garuda Kacang Atom 130g,GarudaFood,Wants,Snacks,9500,12000
+1167,Dua Kelinci Sukro Original 130g,Dua Kelinci,Wants,Snacks,9500,12000
+1168,Dua Kelinci TicTac Sapi Panggang 90g,Dua Kelinci,Wants,Snacks,7000,9000
+1169,Mister Potato Crisps Original 85g,Modern Retail,Wants,Snacks,14000,17000
+1170,Tao Kae Noi Crispy Seaweed 32g,Tao Kae Noi,Wants,Snacks,38000,45000
+1171,Momogi Stick Jagung Bakar (Box isi 20),Sari Murni,Wants,Snacks,10000,13000
+1172,Sponge Crunch Coklat 120g,Oishi,Wants,Snacks,13000,16000
+1173,Oishi Pillows Coklat 110g,Oishi,Wants,Snacks,11000,14000
+1174,Soyjoy Almond Chocolate 30g,Otsuka,Wants,Snacks,10000,12500
+1175,Fitbar Chocolate 22g,Kalbe,Wants,Snacks,5500,7500
+1176,Roma Sandwich Coklat 189g,Mayora,Wants,Snacks,9000,12000
+1177,Gery Chocolatos Wafer Stick (Box isi 24),GarudaFood,Wants,Snacks,19000,23000
+1178,Nyam Nyam Rice Crispy 45g,Arnotts,Wants,Snacks,5000,7000
+1179,Better Sandwich Biscuit (Pack isi 10),Mayora,Wants,Snacks,16000,20000
+1180,Kalpa Wafer Coklat Kelapa (Pack isi 12),Mayora,Wants,Snacks,22000,26000
+1181,Superstar Wafer Coklat (Box isi 12),Mayora,Wants,Snacks,12000,15000
+1182,Top Sereal Bar Coklat 24g,Delfi,Wants,Snacks,2000,3000
+1183,Roma Wafello Coklat 117g,Mayora,Wants,Snacks,7500,9500
+1184,Nissin Crispy Crackers 225g,Nissin,Wants,Snacks,14000,17000
+1185,Uniqlo Men Oxford Shirt Short Sleeve,Uniqlo Indonesia,Needs,Fashion,349000,349000
+1186,Uniqlo Washable Milano Ribbed Crew Neck Sweater,Uniqlo Indonesia,Wants,Fashion,499000,499000
+1187,Uniqlo Airism Cotton Oversized T-Shirt,Uniqlo Indonesia,Needs,Fashion,199000,199000
+1188,Uniqlo Women Rayon Blouse,Uniqlo Indonesia,Needs,Fashion,399000,399000
+1189,Uniqlo Smart Ankle Pants,Uniqlo Indonesia,Needs,Fashion,499000,499000
+1190,Uniqlo Leggings Pants,Uniqlo Indonesia,Needs,Fashion,299000,299000
+1191,Uniqlo Ultra Light Down Jacket,Uniqlo Indonesia,Need,Fashion,899000,899000
+1192,Uniqlo Reversible Parka,Uniqlo Indonesia,Need,Fashion,499000,499000
+1193,Uniqlo Canvas Sneakers,Uniqlo Indonesia,Need,Fashion,399000,399000
+1194,Uniqlo UV Protection Hat,Uniqlo Indonesia,Want,Fashion,299000,299000
+1195,H&M T-shirt Oversized,H&M Indonesia,Want,Fashion,499900,499900
+1196,H&M Atasan Jersey Lengan Panjang Oversized,H&M Indonesia,Want,Fashion,299900,299900
+1197,H&M Kemeja Luar Flanel Regular Fit,H&M Indonesia,Want,Fashion,499900,499900
+1198,H&M Kaos Krah-Leher Longgar Cetakan,H&M Indonesia,Want,Fashion,199900,199900
+1199,H&M Kemeja Katun Fit Santai,H&M Indonesia,Needs,Fashion,349900,349900
+1200,H&M Kaos Polo Rajut Kabel,H&M Indonesia,Want,Fashion,249900,249900
+1201,H&M Jeans Regular Lurus,H&M Indonesia,Needs,Fashion,499900,499900
+1202,H&M Jeans Bootcut Santai,H&M Indonesia,Want,Fashion,599900,599900
+1203,H&M Jeans Santai,H&M Indonesia,Want,Fashion,499900,499900
+1204,H&M Hoodie Potongan Longgar,H&M Indonesia,Want,Fashion,399900,399900
+1205,H&M Overshirt Campuran Wol,H&M Indonesia,Want,Fashion,699900,699900
+1206,H&M Overshirt Nilon Berlapis,H&M Indonesia,Want,Fashion,599900,599900
+1207,H&M Dress Kaos Ribbed,H&M Indonesia,Want,Fashion,249900,249900
+1208,H&M Sepatu Bot Kulit (Boots),H&M Indonesia,Want,Fashion,4599000,4599000
+1209,H&M Sneakers Chunky,H&M Indonesia,Want,Fashion,599000,599000
+1210,H&M Topi Jerami (Straw Hat),H&M Indonesia,Want,Fashion,199900,199900
+1211,Zara Kemeja Linen Wanita,Zara Indonesia,Want,Fashion,599900,599900
+1212,Zara Top Corset Style,Zara Indonesia,Want,Fashion,450000,450000
+1213,Zara Celana Panjang Barrel Korduroi,Zara Indonesia,Want,Fashion,1099000,1099000
+1214,Zara Celana Panjang Lebar Pinggang Dobel,Zara Indonesia,Want,Fashion,899900,899900
+1215,Zara Celana Jogger Linen,Zara Indonesia,Want,Fashion,359900,359900
+1216,Zara Celana Panjang Pinggang Jogger,Zara Indonesia,Want,Fashion,899900,899900
+1217,Zara Blazer Oversize,Zara Indonesia,Want,Fashion,1299000,1299000
+1218,Zara Bomber Jacket,Zara Indonesia,Want,Fashion,999000,999000
+1219,Zara Dress Linen Midi,Zara Indonesia,Want,Fashion,999900,999900
+1220,Zara Dress Satin Slip,Zara Indonesia,Want,Fashion,799900,799900
+1221,Zara Sepatu Hak Tinggi (Heels),Zara Indonesia,Want,Fashion,899000,899000
+1222,Erigo T-Shirt Basic Maroon White,Erigo Store,Needs,Fashion,59999,65000
+1223,Erigo Shanghai Short Sleeve Basic Farhan Sage,Erigo Store,Needs,Fashion,113000,120000
+1224,Erigo T-Shirt Uchino White,Erigo Store,Needs,Fashion,59999,65000
+1225,Erigo Kaos Distro Summer Project,Erigo Store,Want,Fashion,59900,70000
+1226,Erigo Kaos Erigo X JKT48 Official Vol 3,Erigo Store,Want,Fashion,300000,350000
+1227,Erigo Kaos Erigo X JKT48 Official Vol 2,Erigo Store,Want,Fashion,300000,350000
+1228,Erigo Timnas Indonesia Away Jersey 2024 (Erspo),Erigo Store,Want,Fashion,1299000,1350000
+1229,Erigo Flannel Shirt Red,Erigo Store,Want,Fashion,150000,175000
+1230,Erigo Relax Chino Pants Errol Black,Erigo Store,Needs,Fashion,247000,260000
+1231,Erigo Relax Chino Pants Erven Olive,Erigo Store,Want,Fashion,247000,260000
+1232,Erigo Chino Pants Flexi Fit Elvis Beige,Erigo Store,Needs,Fashion,124999,135000
+1233,Erigo Cargo Pants Olive,Erigo Store,Want,Fashion,185000,200000
+1234,Erigo Coach Jacket (Windbreaker),Erigo Store,Want,Fashion,185000,200000
+1235,Erigo Erspo Official Timnas Jacket,Erigo Store,Want,Fashion,899000,950000
+1236,3Second Greenlight T-Shirt Regular Fit Mild Cotton,3Second Store,Needs,Fashion,99000,110000
+1237,3Second Kaos Wanita in Clear Water,3Second Store,Needs,Fashion,69750,80000
+1238,3Second Greenlight Kaos Pria 100822,3Second Store,Needs,Fashion,89500,100000
+1239,3Second Kaos Polos V-Neck,3Second Store,Needs,Fashion,89000,95000
+1240,3Second Short Pants OL-C070924,3Second Store,Want,Fashion,249000,260000
+1241,Greenlight Celana Panjang Wanita 030722,3Second Store,Needs,Fashion,159750,170000
+1242,Moutley Men's Casual Boardshort Nylon,3Second Store,Want,Fashion,167600,180000
+1243,3Second Men's Hoodie Short Sleeve,3Second Store,Want,Fashion,137400,150000
+1244,Greenlight High Collar Jacket Parachute,3Second Store,Needs,Fashion,499000,520000
+1245,Greenlight Sweater Pria 050622,3Second Store,Needs,Fashion,174750,185000
+1246,3Second Jaket Greenlight Famo Promo,3Second Store,Needs,Fashion,167310,180000
+1247,3Second Hoodie Jumper Pullover,3Second Store,Needs,Fashion,109900,120000
+1248,3Second Topi Distro,3Second Store,Want,Fashion,85000,95000
+1249,Aerostreet T-Shirt Polos Gelap,Aerostreet,Needs,Fashion,59900,65000
+1250,Aerostreet Kaos Oversize Streetwear,Aerostreet,Want,Fashion,75000,85000
+1251,Aerostreet Chinos Panjang Elvano Hitam,Aerostreet,Needs,Fashion,139900,150000
+1252,Aerostreet Chinos Panjang Elvano Krem,Aerostreet,Needs,Fashion,139900,150000
+1253,Aerostreet Hoodie Graphic,Aerostreet,Want,Fashion,119000,130000
+1254,Aerostreet Hoops Low 2.0 Putih Hitam,Aerostreet,Needs,Fashion,170905,180000
+1255,Aerostreet Brooklyn Hitam,Aerostreet,Needs,Fashion,180405,190000
+1256,Aerostreet Massive Low Hitam Natural,Aerostreet,Needs,Fashion,183104,195000
+1257,Aerostreet Sandal Eros Slip On,Aerostreet,Needs,Fashion,59900,70000
+1258,Aerostreet Livy Putih (Women),Aerostreet,Needs,Fashion,169900,180000
+1259,Aerostreet Ortiz Natural Abu,Aerostreet,Needs,Fashion,193903,200000
+1260,Aerostreet Socks Sport Levi,Aerostreet,Needs,Fashion,14900,20000
+1261,Aerostreet Topi Snapback,Aerostreet,Want,Fashion,50000,60000
+1262,Levi's Blue Tab Men's Relaxed Tee,Levi's Store,Want,Fashion,350000,400000
+1263,Levi's Men's Work Shirt,Levi's Store,Want,Fashion,750000,800000
+1264,Levi's 501 Original Fit Jeans (Men),Levi's Store,Want,Fashion,1499900,1600000
+1265,Levi's 501 '93 Straight Fit Selvedge,Levi's Store,Want,Fashion,2499900,2600000
+1266,Levi's Vintage Clothing 1955 501,Levi's Store,Want,Fashion,4499900,4600000
+1267,Levi's 501 90s Jeans (Women),Levi's Store,Want,Fashion,1580000,1700000
+1268,Levi's Ribcage Wide Leg Jeans,Levi's Store,Want,Fashion,1580000,1700000
+1269,Levi's 512 Slim Taper Jeans,Levi's Store,Want,Fashion,1499000,1600000
+1270,Levi's 578 Baggy Jeans,Levi's Store,Want,Fashion,1580000,1700000
+1271,Levi's Naval Sack Coat,Levi's Store,Want,Fashion,3799900,3900000
+1272,Levi's Fishtail Parka Jacket,Levi's Store,Want,Fashion,2500000,2600000
+1273,Levi's Scout Jacket,Levi's Store,Want,Fashion,2200000,2300000
+1274,Adidas Trefoil Essentials Tee,Adidas Store,Want,Fashion,600000,650000
+1275,Adidas Liverpool FC 25/26 Home Jersey,Adidas Store,Want,Fashion,1200000,1300000
+1276,Adidas Squadra 25 Jersey,Adidas Store,Want,Fashion,350000,400000
+1277,Adidas Germany 26 Home Jersey,Adidas Store,Want,Fashion,1200000,1300000
+1278,Adidas Brain Dead Jersey,Adidas Store,Want,Fashion,1900000,2000000
+1279,Adidas Adicolor Classics Sprinter Shorts,Adidas Store,Want,Fashion,1000000,1100000
+1280,Adidas Brain Dead Track Pant,Adidas Store,Want,Fashion,2200000,2300000
+1281,Adidas Techfit Compression Tights,Adidas Store,Need,Fashion,500000,550000
+1282,Adidas Minecraft Training Short,Adidas Store,Want,Fashion,580000,650000
+1283,Adidas Adicolor Classics SST Track Jacket,Adidas Store,Want,Fashion,1500000,1600000
+1284,Adidas Brain Dead Noragi Jacket,Adidas Store,Want,Fashion,3000000,3200000
+1285,Adidas Anthem Jacket,Adidas Store,Want,Fashion,1100000,1200000
+1286,Adidas Dropset 4 Training Shoes,Adidas Store,Want,Fashion,2400000,2500000
+1287,Adidas Dropset Control,Adidas Store,Want,Fashion,1400000,1500000
+1288,Adidas Adicolor Classics Sneakers,Adidas Store,Want,Fashion,1500000,1600000
+1289,Adidas Samba OG,Adidas Store,Want,Fashion,2200000,2400000
+1290,Adidas Baseball Cap Cotton,Adidas Store,Want,Fashion,300000,350000
+1291,Nike Sportswear Tee,Nike Store,Want,Fashion,450000,500000
+1292,Nike Pro Women's Mid-Rise Biker Shorts,Nike Store,Want,Fashion,550000,600000
+1293,Nike Windrunner Jacket,Nike Store,Want,Fashion,1250000,1350000
+1294,Nike Air Max Plus III,Nike Store,Want,Fashion,2391200,2500000
+1295,NikeCourt Lite 4 (Women),Nike Store,Want,Fashion,1149000,1250000
+1296,Nike Pegasus Plus Road Running,Nike Store,Want,Fashion,2849000,3000000
+1297,Nike Free 2025 Women's Workout,Nike Store,Want,Fashion,1549000,1650000
+1298,Nike Kobe III Protro Basketball,Nike Store,Want,Fashion,3169000,3300000
+1299,Nike Air Jordan Mule Golf,Nike Store,Want,Fashion,1549000,1650000
+1300,Nike Dunk Low Retro Premium,Nike Store,Want,Fashion,2199000,2300000
+1301,Nike Alphafly 3 'Eliud Kipchoge',Nike Store,Want,Fashion,4289000,4500000
+1302,Nike Zoom Fly 6,Nike Store,Want,Fashion,2849000,3000000
+1303,Nike Vomero 18 (Women),Nike Store,Want,Fashion,2249000,2400000
+1304,Nike ReactX Rejuven8,Nike Store,Want,Fashion,1069000,1200000
+1305,Nike Gato LV8,Nike Store,Want,Fashion,1729000,1850000
+1306,Nike JA 3 'Price of Admission',Nike Store,Want,Fashion,1909000,2000000
+1307,Nike Pegasus 41 'Eliud Kipchoge',Nike Store,Want,Fashion,2199000,2300000
+1308,Nike Air Jordan 1 Low G,Nike Store,Want,Fashion,2149000,2250000
+1309,Nike Free Metcon 6,Nike Store,Want,Fashion,1909000,2000000
+1310,Nike Heritage86 Cap,Nike Store,Want,Fashion,350000,400000
+1311,Rabbani Kemko Madhava Exclusive,Rabbani,Needs,Fashion,147306,160000
+1312,Rabbani Kemko Seriza Exclusive Couple,Rabbani,Want,Fashion,216565,230000
+1313,Rabbani Kemko Ashavi Exclusive,Rabbani,Needs,Fashion,179180,190000
+1314,Rabbani Kemko Sina Original,Rabbani,Needs,Fashion,150000,165000
+1315,Rabbani Gamis Dress Limbit,Rabbani,Needs,Fashion,250000,275000
+1316,Rabbani Kerudung Sekolah Instan,Rabbani,Needs,Fashion,65000,75000
+1317,Buttonscarves Parisian Basic Shirt - Ivory,Buttonscarves,Want,Fashion,1675000,1750000
+1318,Buttonscarves Parisian Embroidery Oversized Shirt,Buttonscarves,Want,Fashion,1675000,1750000
+1319,Buttonscarves Parisian Embroidery Crop Shirt,Buttonscarves,Want,Fashion,1475000,1550000
+1320,Buttonscarves Printed Pleated Dress,Buttonscarves,Want,Fashion,2200000,2300000
+1321,Buttonscarves Satin Silk Dress,Buttonscarves,Want,Fashion,2500000,2600000
+1322,Buttonscarves Today's Scarf - Cool Gray,Buttonscarves,Want,Fashion,275000,300000
+1323,Buttonscarves Today's Scarf - Lagoon,Buttonscarves,Want,Fashion,275000,300000
+1324,Buttonscarves Today's Scarf - Jet Black,Buttonscarves,Want,Fashion,295000,320000
+1325,Buttonscarves Printed Scarf Series (Voal),Buttonscarves,Want,Fashion,495000,550000
+1326,Buttonscarves Brooch Gold,Buttonscarves,Want,Fashion,350000,400000
+1327,Buttonscarves Joy Bag Medium - Caramel,Buttonscarves,Want,Fashion,3975000,4200000
+1328,Zoya Atasan Tunik Polos,Zoya,Needs,Fashion,150000,170000
+1329,Zoya Blouse Muslimah Motif,Zoya,Want,Fashion,180000,200000
+1330,Zoya Celana Palazo,Zoya,Want,Fashion,189000,210000
+1331,Zoya Odiana Dress,Zoya,Want,Fashion,598000,650000
+1332,Zoya Haruma Dress (Motif),Zoya,Want,Fashion,488000,520000
+1333,Zoya Iva Teens Dress,Zoya,Needs,Fashion,425600,450000
+1334,Zoya Midi Dress Gamis Daily,Zoya,Needs,Fashion,135000,150000
+1335,Zoya Jeera Dress,Zoya,Want,Fashion,459000,490000
+1336,Zoya Tayla Dress (Motif),Zoya,Needs,Fashion,196000,210000
+1337,Zoya Dress Ceruty Babydoll Payet,Zoya,Want,Fashion,128900,145000
+1338,Zoya Reena Print Scarf Oyster Grey,Zoya,Want,Fashion,127484,140000
+1339,Zoya Nuwara Print Scarf Off White,Zoya,Want,Fashion,114730,130000
+1340,Zoya Venica Scarf Light Brown,Zoya,Needs,Fashion,80100,90000
+1341,Zoya Zaniah Scarf (Poly Fine),Zoya,Needs,Fashion,82770,95000
+1342,Zoya Sekala Mekar Scarf (Voal),Zoya,Want,Fashion,89000,100000
+1343,Zoya Bergo Marsha HL (Anak Sekolah),Zoya,Needs,Fashion,69900,80000
+1344,Zoya Hijab Dagu Malay,Zoya,Needs,Fashion,18900,25000
+1345,Elzatta Gamis Basic Masyitah,Elzatta,Needs,Fashion,379000,400000
+1346,Elzatta Gamis Lengan Embroidery,Elzatta,Want,Fashion,429000,450000
+1347,Elzatta Gamis Plaket Knit Plat,Elzatta,Needs,Fashion,299000,320000
+1348,Elzatta Gamis Tali Crinkle Texture,Elzatta,Want,Fashion,379000,400000
+1349,Elzatta Gamis Saffron Splatter,Elzatta,Want,Fashion,399000,420000
+1350,Elzatta Abaya Mecca Lace,Elzatta,Want,Fashion,399000,420000
+1351,Elzatta Long Dress Gamis Monogram Satin,Elzatta,Want,Fashion,399000,420000
+1352,Elzatta Celana Kulot Polos,Elzatta,Needs,Fashion,129000,150000
+1353,Elzatta Gamis Inner Sleeveless Crinkle,Elzatta,Want,Fashion,299000,320000
+1354,Elzatta Bergo Spandex Polos Zaria Citra,Elzatta,Needs,Fashion,89000,95000
+1355,Elzatta Bergo Zaria Kirana,Elzatta,Needs,Fashion,46750,55000
+1356,Elzatta Scarf Polos Premium Obelia Naima,Elzatta,Needs,Fashion,63750,70000
+1357,Elzatta Ciput S Rumana,Elzatta,Needs,Fashion,89000,95000
+1358,Elzatta Scarf Obelia Sazira (Putih),Elzatta,Needs,Fashion,19000,25000
+1359,Eiger Clement Softshell Jacket J341,Eiger Adventure,Needs,Fashion,759000,800000
+1360,Eiger Strenuous Windproof Jacket,Eiger Adventure,Needs,Fashion,970000,1000000
+1361,Eiger Aquapura Waterproof Jacket,Eiger Adventure,Want,Fashion,1649000,1750000
+1362,Eiger Wallstone Men Hoody Waterproof,Eiger Adventure,Want,Fashion,1530000,1600000
+1363,Eiger Bakumpay X28 Jacket,Eiger Adventure,Needs,Fashion,699000,750000
+1364,Eiger J-Perseverence 1.0 Jacket,Eiger Adventure,Needs,Fashion,910000,950000
+1365,Eiger Topi Rimba (Jungle Hat),Eiger Adventure,Needs,Fashion,125000,140000
+1366,Eiger Baseball Cap Eiger,Eiger Adventure,Want,Fashion,95000,110000
+1367,Eiger Visayas Men Sandals,Eiger Adventure,Needs,Fashion,169000,180000
+1368,Eiger Pacchanta Roll Sandals (Women),Eiger Adventure,Want,Fashion,299000,320000
+1369,Eiger Cruiser 3.0 Laptop Backpack,Eiger Adventure,Needs,Fashion,559000,600000
+1370,Eiger Migrates Pack 15L,Eiger Adventure,Needs,Fashion,309000,350000
+1371,GT Man Singlet Pria Dewasa 302B,GT Man Official,Needs,Fashion,27391,35000
+1372,GT Man Kaos Dalam 100% Cotton,GT Man Official,Needs,Fashion,27950,35000
+1373,GT Man Celana Dalam Pria 100% Cotton,GT Man Official,Needs,Fashion,35000,40000
+1374,Sorex Tank Top Wanita,Sorex Official,Needs,Fashion,35000,40000
+1375,Sorex Celana Dalam Wanita Basic (1257),Sorex Official,Needs,Fashion,19992,25000
+1376,Sorex Celana Dalam Midi 1239 (Isi 6),Sorex Official,Needs,Fashion,84770,95000
+1377,Sorex CD Super Soft 1238 (3 pcs),Sorex Official,Needs,Fashion,50000,60000
+1378,Sorex CD Jumbo 1229,Sorex Official,Needs,Fashion,21500,30000
+1379,Sorex Celana Dalam Anak Perempuan,Sorex Official,Needs,Fashion,19500,25000
+1380,Ventela Basic High Black/White,Ventela Official,Needs,Fashion,269800,290000
+1381,Ventela Ethnic Low Black/Natural,Ventela Official,Needs,Fashion,249800,270000
+1382,Ventela Public Low Black,Ventela Official,Want,Fashion,319800,350000
+1383,Ventela Reborn Reflective Black,Ventela Official,Want,Fashion,379800,400000
+1384,Ventela Ethnic High Black,Ventela Official,Needs,Fashion,259800,280000
+1385,Ventela Alpha Black/Natural,Ventela Official,Needs,Fashion,239800,260000
+1386,Ventela V23 Cream/Brown,Ventela Official,Want,Fashion,349800,380000
+1387,Swallow Sandal Jepit Classic (05),Swallow Official,Needs,Fashion,11456,15000
+1388,Swallow Sandal Jepit Pearl (Size 11),Swallow Official,Needs,Fashion,62230,70000
+1389,Swallow Sandal Sun Swallow Pria,Swallow Official,Needs,Fashion,16001,20000
+1390,Swallow Sandal Legian (5 Kancing),Swallow Official,Needs,Fashion,15904,20000
+1391,Casio General MQ-24-9ELDF,Casio Official,Needs,Fashion,127000,150000
+1392,Casio General W-737H-1AVDF,Casio Official,Needs,Fashion,173000,200000
+1393,Casio G-Shock GM-2110SH-2AJF (2025),Casio Official,Want,Fashion,3687000,4000000
+1394,Casio G-Shock x I.C.E.R.C 2025,Casio Official,Want,Fashion,5302000,5800000
+1395,Alexandre Christie AC 6687 MD BIPBA,Alexandre Christie,Want,Fashion,900000,1100000
+1396,Alexandre Christie AC 6619 MC BEPBA,Alexandre Christie,Want,Fashion,1485000,1600000
+1397,Exsport Everyday Laptop Bag 14 Inch,Exsport Bags,Needs,Fashion,329000,350000
+1398,Exsport Daily Casual Totepack,Exsport Bags,Want,Fashion,649000,700000
+1399,Elizabeth Tote Bag 0706-2108,Elizabeth,Want,Fashion,430000,480000
+1400,Seragam Baju Putih SMP Lengan Panjang,Toko Seragam,Needs,Fashion,45105,55000
+1401,Seragam Baju Putih SMP Lengan Pendek,Toko Seragam,Needs,Fashion,46500,55000
+1402,Seragam Baju Pramuka SD/SMP Lengan Panjang,Toko Seragam,Needs,Fashion,35630,45000
+1403,Seragam Kemeja Putih SD Kelas 1-6,Toko Seragam,Needs,Fashion,58500,70000
+1404,Seragam Batik Sekolah SD/SMP,Toko Seragam,Needs,Fashion,60000,75000
+1405,Seragam Kaos Olahraga Sekolah,Toko Seragam,Needs,Fashion,75000,90000
+1406,Seragam Celana Merah SD Panjang,Toko Seragam,Needs,Fashion,45000,55000
+1407,Seragam Celana Biru SMP Panjang,Toko Seragam,Needs,Fashion,55000,65000
+1408,Seragam Celana Abu SMA Panjang,Toko Seragam,Needs,Fashion,60000,70000
+1409,Seragam Rok Rempel Merah SD,Toko Seragam,Needs,Fashion,50000,60000
+1410,Seragam Rok Rempel Biru SMP,Toko Seragam,Needs,Fashion,55000,65000
+1411,Seragam Rok Rempel Abu SMA,Toko Seragam,Needs,Fashion,60000,70000
+1412,Seragam Sepatu Hitam Polos,Toko Seragam,Needs,Fashion,130000,150000
+1413,Seragam Topi SD/SMP/SMA,Toko Seragam,Needs,Fashion,20000,25000
+1414,Seragam Dasi Sekolah SD/SMP,Toko Seragam,Needs,Fashion,15000,20000
+1415,Batik Kemeja Pria Standard,Pasar Tanah Abang,Needs,Fashion,85000,100000
+1416,Batik Wanita Blouse,Pasar Tanah Abang,Needs,Fashion,90000,120000
+1417,Legging Wanita Standard,Pasar Tanah Abang,Needs,Fashion,35000,50000
+1418,Gamis Putih Polos (Umrah/Haji),Pasar Tanah Abang,Needs,Fashion,150000,200000
+1419,Peci/Kopiah Hitam Polos,Pasar Tanah Abang,Needs,Fashion,35000,50000
+1420,Jilbab Paris Polos,Pasar Tanah Abang,Needs,Fashion,25000,35000
+1421,Sepatu Pantofel Kerja,Pasar Tanah Abang,Needs,Fashion,150000,200000
+1422,Jas Hujan Poncho,Pasar Tanah Abang,Needs,Fashion,45000,60000
+1423,Vest Rompi Motor,Pasar Tanah Abang,Needs,Fashion,75000,100000
+1424,Beberosie Gamis Anak Bayi Perempuan,Beberosie,Needs,Fashion,79500,100000
+1425,My Vilova Zoya Set Syar'i Rayon Crinkle,My Vilova,Needs,Fashion,118260,150000
+1426,Kencana Ungu Daster Kalong Jumbo,Kencana Ungu,Needs,Fashion,110000,130000
+1427,Kencana Ungu Daster Lowo Cetak,Kencana Ungu,Needs,Fashion,95000,115000
+1428,Daster Kencana Ungu Label Biru,Kencana Ungu,Needs,Fashion,80500,100000
+1429,Rabbani Kemko Seriza Exclusive,Rabbani,Want,Fashion,216565,240000
+1430,Rabbani Kemko Ashavi,Rabbani,Needs,Fashion,179180,195000
+1431,Zoya Reena Print Scarf,Zoya,Want,Fashion,127484,145000
+1432,Zoya Nuwara Print Scarf,Zoya,Want,Fashion,114730,130000
+1433,Zoya Venica Scarf,Zoya,Needs,Fashion,80100,95000
+1434,Zoya Zaniah Scarf,Zoya,Needs,Fashion,82770,98000
+1435,Buttonscarves Joy Bag Medium,Buttonscarves,Want,Fashion,3975000,4500000
+1436,Buttonscarves Parisian Basic Shirt,Buttonscarves,Want,Fashion,1675000,1800000
+1437,Eiger Clement Softshell Jacket,Eiger Adventure,Needs,Fashion,759000,850000
+1438,Eiger Strenuous Windproof Jacket,Eiger Adventure,Needs,Fashion,970000,1100000
+1439,Eiger Aquapura Waterproof Jacket,Eiger Adventure,Want,Fashion,1649000,1900000
+1440,Eiger Wallstone Men Hoody,Eiger Adventure,Want,Fashion,1530000,1700000
+1441,Aerostreet Hoops Low 2.0,Aerostreet,Needs,Fashion,170905,200000
+1442,Aerostreet Brooklyn Hitam,Aerostreet,Needs,Fashion,180405,210000
+1443,Aerostreet Massive Low,Aerostreet,Needs,Fashion,183104,220000

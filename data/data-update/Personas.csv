@@ -1,0 +1,201 @@
+persona_id,cluster,age,city,job,marital_status,household_size,monthly_income,tech_usage,spending_style,salary_day,daily_cap,tx_mean,start_date
+P001,survival_spender,21,Yogyakarta,Mahasiswa,Single,1,1850000,High,Survival,1,65000,0.8,2021-02-15
+P002,survival_spender,22,Semarang,Mahasiswa,Single,1,2100000,High,Survival,1,75000,0.9,2021-03-10
+P003,survival_spender,24,Medan,Freelancer,Single,1,3200000,High,Survival,25,110000,1.1,2020-09-09
+P004,survival_spender,23,Surabaya,Pegawai Swasta,Single,1,4800000,Medium,Survival,25,155000,1.2,2021-06-12
+P005,survival_spender,20,Bandung,Mahasiswa,Single,1,1950000,High,Survival,1,70000,0.7,2022-01-20
+P006,survival_spender,28,Jakarta,Pegawai Swasta,Married,3,5500000,Medium,Survival,25,180000,1.5,2020-11-05
+P007,survival_spender,19,Yogyakarta,Mahasiswa,Single,1,1600000,High,Survival,1,55000,0.6,2021-08-14
+P008,survival_spender,25,Denpasar,Pegawai Swasta,Single,1,3400000,Low,Survival,28,120000,0.9,2021-05-30
+P009,survival_spender,31,Medan,Ibu Rumah Tangga,Married,4,4100000,Low,Survival,30,145000,1.8,2020-04-12
+P010,survival_spender,22,Jakarta,Freelancer,Single,1,4200000,High,Survival,15,145000,1.3,2022-02-11
+P011,survival_spender,26,Bandung,Pegawai Swasta,Married,2,4900000,Medium,Survival,25,160000,1.4,2021-11-01
+P012,survival_spender,21,Surabaya,Mahasiswa,Single,1,2200000,High,Survival,1,80000,1,2021-09-19
+P013,survival_spender,29,Semarang,Wirausaha,Married,3,3800000,Low,Survival,10,130000,1.6,2020-07-22
+P014,survival_spender,23,Jakarta,Mahasiswa,Single,1,3500000,High,Survival,1,125000,1.2,2021-12-05
+P015,survival_spender,35,Yogyakarta,Ibu Rumah Tangga,Married,4,2900000,Medium,Survival,30,100000,1.9,2020-03-15
+P016,survival_spender,24,Medan,Pegawai Swasta,Single,1,3900000,Medium,Survival,25,135000,1.1,2021-04-18
+P017,survival_spender,27,Denpasar,Freelancer,Single,1,3600000,High,Survival,20,125000,1,2020-10-30
+P018,survival_spender,19,Bandung,Mahasiswa,Single,1,2050000,High,Survival,1,72000,0.8,2022-03-22
+P019,survival_spender,32,Surabaya,Wirausaha,Married,4,5200000,Low,Survival,5,175000,1.7,2020-01-15
+P020,survival_spender,22,Semarang,Pegawai Swasta,Single,1,3100000,Medium,Survival,28,110000,0.9,2021-07-07
+P021,survival_spender,25,Jakarta,Freelancer,Single,1,4500000,High,Survival,15,160000,1.4,2021-02-28
+P022,survival_spender,20,Yogyakarta,Mahasiswa,Single,1,1750000,High,Survival,1,60000,0.7,2022-05-10
+P023,survival_spender,28,Medan,Pegawai Swasta,Married,2,4750000,Medium,Survival,25,165000,1.3,2020-12-12
+P024,survival_spender,30,Bandung,Ibu Rumah Tangga,Married,3,3600000,Low,Survival,30,125000,1.5,2021-01-08
+P025,survival_spender,23,Denpasar,Mahasiswa,Single,1,2400000,High,Survival,1,85000,1.1,2021-10-25
+P026,survival_spender,33,Jakarta,Wirausaha,Married,4,5800000,Low,Survival,10,195000,1.8,2020-06-05
+P027,survival_spender,21,Semarang,Mahasiswa,Single,1,2150000,High,Survival,1,78000,0.9,2022-04-14
+P028,survival_spender,26,Surabaya,Pegawai Swasta,Married,2,5100000,Medium,Survival,25,170000,1.4,2020-08-20
+P029,survival_spender,24,Yogyakarta,Freelancer,Single,1,2800000,High,Survival,20,100000,1,2021-03-03
+P030,survival_spender,31,Medan,Ibu Rumah Tangga,Married,3,4000000,Low,Survival,30,140000,1.6,2020-05-18
+P031,survival_spender,22,Bandung,Pegawai Swasta,Single,1,3500000,Medium,Survival,28,120000,1.1,2021-09-09
+P032,survival_spender,20,Jakarta,Mahasiswa,Single,1,3000000,High,Survival,1,110000,1.2,2022-06-01
+P033,survival_spender,29,Denpasar,Wirausaha,Married,2,4300000,Medium,Survival,5,150000,1.3,2020-11-15
+P034,survival_spender,25,Semarang,Pegawai Swasta,Single,1,3250000,Low,Survival,25,115000,0.9,2021-06-22
+P035,survival_spender,18,Surabaya,Mahasiswa,Single,1,2300000,High,Survival,1,82000,1,2022-02-28
+P036,survival_spender,34,Medan,Ibu Rumah Tangga,Married,4,4200000,Low,Survival,30,148000,1.9,2020-02-10
+P037,survival_spender,27,Yogyakarta,Pegawai Swasta,Married,2,3900000,Medium,Survival,25,135000,1.4,2021-01-25
+P038,survival_spender,21,Jakarta,Freelancer,Single,1,4000000,High,Survival,15,140000,1.3,2021-12-12
+P039,survival_spender,23,Bandung,Mahasiswa,Single,1,2600000,High,Survival,1,90000,1.1,2022-05-05
+P040,survival_spender,30,Denpasar,Wirausaha,Married,3,4600000,Low,Survival,10,160000,1.5,2020-09-30
+P041,survival_spender,26,Semarang,Pegawai Swasta,Married,2,3400000,Medium,Survival,25,118000,1.2,2021-07-15
+P042,survival_spender,19,Medan,Mahasiswa,Single,1,1900000,High,Survival,1,68000,0.7,2022-03-01
+P043,survival_spender,24,Surabaya,Freelancer,Single,1,3700000,High,Survival,20,130000,1.2,2021-04-10
+P044,survival_spender,28,Jakarta,Pegawai Swasta,Married,3,5600000,Medium,Survival,25,185000,1.6,2020-10-20
+P045,survival_spender,22,Yogyakarta,Mahasiswa,Single,1,1800000,High,Survival,1,62000,0.8,2021-11-20
+P046,survival_spender,32,Bandung,Ibu Rumah Tangga,Married,4,4400000,Low,Survival,30,150000,1.8,2020-05-05
+P047,survival_spender,25,Denpasar,Pegawai Swasta,Single,1,3550000,Medium,Survival,28,125000,1,2021-08-08
+P048,survival_spender,20,Semarang,Mahasiswa,Single,1,2000000,High,Survival,1,70000,0.8,2022-01-10
+P049,survival_spender,29,Surabaya,Wirausaha,Married,2,5000000,Low,Survival,5,170000,1.5,2020-12-01
+P050,survival_spender,23,Jakarta,Freelancer,Single,1,4300000,High,Survival,15,150000,1.3,2021-10-10
+P051,survival_spender,31,Medan,Pegawai Swasta,Married,3,4800000,Medium,Survival,25,165000,1.6,2020-07-07
+P052,survival_spender,21,Yogyakarta,Mahasiswa,Single,1,1700000,High,Survival,1,60000,0.7,2022-04-22
+P053,survival_spender,26,Bandung,Freelancer,Single,1,3300000,High,Survival,20,115000,1.1,2021-02-18
+P054,survival_spender,33,Jakarta,Ibu Rumah Tangga,Married,4,5700000,Low,Survival,30,190000,1.9,2020-08-15
+P055,survival_spender,24,Semarang,Pegawai Swasta,Single,1,3150000,Medium,Survival,25,110000,1,2021-05-25
+P056,survival_spender,22,Denpasar,Mahasiswa,Single,1,2500000,High,Survival,1,88000,1.1,2022-06-10
+P057,survival_spender,27,Surabaya,Pegawai Swasta,Married,2,4950000,Medium,Survival,25,168000,1.4,2020-11-30
+P058,survival_spender,19,Medan,Freelancer,Single,1,2900000,High,Survival,15,105000,0.9,2021-09-01
+P059,survival_spender,30,Yogyakarta,Wirausaha,Married,3,3700000,Low,Survival,10,128000,1.5,2020-03-20
+P060,survival_spender,25,Jakarta,Pegawai Swasta,Single,1,4600000,Medium,Survival,25,160000,1.3,2021-12-25
+P061,balanced_spender,28,Jakarta,Pegawai Swasta,Single,1,8500000,Medium,Balanced,25,280000,2.1,2020-02-10
+P062,balanced_spender,30,Surabaya,Wirausaha,Married,2,9200000,Medium,Balanced,5,310000,2.4,2020-05-15
+P063,balanced_spender,26,Bandung,Freelancer,Single,1,7000000,High,Balanced,15,240000,2.2,2021-03-20
+P064,balanced_spender,32,Medan,Pegawai Swasta,Married,3,7800000,Medium,Balanced,25,270000,2.6,2020-09-10
+P065,balanced_spender,29,Jakarta,Pegawai Swasta,Single,1,9500000,Medium,Balanced,28,320000,2.3,2021-01-05
+P066,balanced_spender,35,Semarang,Ibu Rumah Tangga,Married,4,8000000,Low,Balanced,30,280000,2.9,2020-04-25
+P067,balanced_spender,27,Denpasar,Freelancer,Single,1,6800000,High,Balanced,20,230000,2,2021-08-15
+P068,balanced_spender,31,Yogyakarta,Wirausaha,Married,2,6500000,Medium,Balanced,10,220000,2.5,2020-11-12
+P069,balanced_spender,25,Jakarta,Mahasiswa,Single,1,5500000,High,Balanced,1,180000,1.8,2022-02-20
+P070,balanced_spender,33,Bandung,Pegawai Swasta,Married,3,8800000,Medium,Balanced,25,300000,2.7,2020-07-30
+P071,balanced_spender,28,Surabaya,Pegawai Swasta,Single,1,8200000,Medium,Balanced,25,275000,2.2,2021-05-10
+P072,balanced_spender,34,Medan,Wirausaha,Married,4,9000000,Low,Balanced,5,310000,2.8,2020-03-05
+P073,balanced_spender,26,Jakarta,Freelancer,Single,1,9800000,High,Balanced,15,330000,2.4,2021-11-25
+P074,balanced_spender,30,Semarang,Pegawai Swasta,Married,2,7500000,Medium,Balanced,28,260000,2.5,2020-08-18
+P075,balanced_spender,29,Denpasar,Pegawai Swasta,Single,1,7200000,Medium,Balanced,25,250000,2.1,2021-06-30
+P076,balanced_spender,24,Yogyakarta,Mahasiswa,Single,1,5000000,High,Balanced,1,170000,1.7,2022-04-10
+P077,balanced_spender,36,Bandung,Ibu Rumah Tangga,Married,3,8500000,Low,Balanced,30,290000,2.8,2020-01-20
+P078,balanced_spender,27,Jakarta,Wirausaha,Single,1,10500000,High,Balanced,10,360000,2.3,2021-09-05
+P079,balanced_spender,32,Surabaya,Pegawai Swasta,Married,2,8900000,Medium,Balanced,25,300000,2.6,2020-10-15
+P080,balanced_spender,25,Medan,Freelancer,Single,1,6500000,High,Balanced,20,220000,2,2021-07-20
+P081,balanced_spender,31,Semarang,Pegawai Swasta,Married,3,7700000,Medium,Balanced,25,265000,2.7,2020-06-10
+P082,balanced_spender,28,Denpasar,Wirausaha,Single,1,7500000,Medium,Balanced,5,255000,2.2,2021-12-05
+P083,balanced_spender,35,Yogyakarta,Ibu Rumah Tangga,Married,4,7000000,Low,Balanced,30,240000,2.9,2020-05-25
+P084,balanced_spender,26,Jakarta,Pegawai Swasta,Single,1,9200000,Medium,Balanced,28,315000,2.2,2021-02-15
+P085,balanced_spender,30,Bandung,Freelancer,Married,2,8400000,High,Balanced,15,290000,2.5,2020-12-10
+P086,balanced_spender,23,Surabaya,Mahasiswa,Single,1,5800000,High,Balanced,1,190000,1.9,2022-01-15
+P087,balanced_spender,33,Medan,Pegawai Swasta,Married,3,8100000,Medium,Balanced,25,280000,2.6,2020-09-25
+P088,balanced_spender,29,Semarang,Wirausaha,Single,1,7400000,Medium,Balanced,10,250000,2.1,2021-04-30
+P089,balanced_spender,27,Jakarta,Pegawai Swasta,Married,2,10000000,Medium,Balanced,25,340000,2.4,2020-11-05
+P090,balanced_spender,25,Denpasar,Freelancer,Single,1,7100000,High,Balanced,20,245000,2,2021-10-20
+P091,balanced_spender,32,Yogyakarta,Pegawai Swasta,Married,3,6800000,Medium,Balanced,28,230000,2.7,2020-02-28
+P092,balanced_spender,36,Bandung,Ibu Rumah Tangga,Married,4,8600000,Low,Balanced,30,295000,2.8,2020-08-05
+P093,balanced_spender,28,Surabaya,Wirausaha,Single,1,9400000,High,Balanced,5,315000,2.3,2021-03-10
+P094,balanced_spender,30,Jakarta,Pegawai Swasta,Married,2,11000000,Medium,Balanced,25,370000,2.5,2020-06-20
+P095,balanced_spender,24,Medan,Mahasiswa,Single,1,5200000,High,Balanced,1,175000,1.8,2022-05-15
+P096,balanced_spender,31,Semarang,Freelancer,Married,3,7900000,Medium,Balanced,15,270000,2.6,2020-12-25
+P097,balanced_spender,26,Denpasar,Pegawai Swasta,Single,1,7600000,Medium,Balanced,28,260000,2.1,2021-09-15
+P098,balanced_spender,34,Yogyakarta,Wirausaha,Married,4,7200000,Low,Balanced,10,250000,2.8,2020-04-10
+P099,balanced_spender,29,Bandung,Pegawai Swasta,Single,1,8700000,Medium,Balanced,25,300000,2.2,2021-11-05
+P100,balanced_spender,25,Jakarta,Freelancer,Single,1,9600000,High,Balanced,20,325000,2.3,2021-06-05
+P101,balanced_spender,33,Surabaya,Ibu Rumah Tangga,Married,2,9100000,Low,Balanced,30,310000,2.5,2020-10-30
+P102,balanced_spender,27,Medan,Pegawai Swasta,Single,1,6900000,Medium,Balanced,25,235000,2.1,2021-08-20
+P103,balanced_spender,30,Semarang,Wirausaha,Married,3,8300000,Medium,Balanced,5,285000,2.7,2020-01-25
+P104,balanced_spender,28,Denpasar,Pegawai Swasta,Single,1,7800000,Medium,Balanced,28,265000,2.2,2021-12-15
+P105,balanced_spender,23,Yogyakarta,Mahasiswa,Single,1,4800000,High,Balanced,1,165000,1.7,2022-03-25
+P106,balanced_spender,35,Jakarta,Pegawai Swasta,Married,4,12000000,Medium,Balanced,25,400000,2.9,2020-07-05
+P107,balanced_spender,26,Bandung,Freelancer,Single,1,8000000,High,Balanced,15,275000,2.3,2021-01-30
+P108,balanced_spender,32,Surabaya,Wirausaha,Married,2,9500000,Medium,Balanced,10,320000,2.5,2020-09-15
+P109,balanced_spender,29,Medan,Ibu Rumah Tangga,Married,3,7500000,Low,Balanced,30,255000,2.8,2020-05-10
+P110,balanced_spender,25,Semarang,Pegawai Swasta,Single,1,6600000,Medium,Balanced,25,225000,2.1,2021-10-25
+P111,balanced_spender,31,Jakarta,Wirausaha,Married,2,11500000,High,Balanced,5,390000,2.6,2020-12-20
+P112,balanced_spender,27,Denpasar,Freelancer,Single,1,7300000,High,Balanced,20,250000,2.2,2021-04-15
+P113,balanced_spender,34,Yogyakarta,Pegawai Swasta,Married,3,7000000,Medium,Balanced,28,240000,2.7,2020-03-15
+P114,balanced_spender,24,Bandung,Mahasiswa,Single,1,5400000,High,Balanced,1,185000,1.8,2022-06-10
+P115,balanced_spender,30,Surabaya,Pegawai Swasta,Single,1,9000000,Medium,Balanced,25,305000,2.3,2021-07-25
+P116,balanced_spender,36,Medan,Wirausaha,Married,4,8800000,Low,Balanced,10,300000,2.8,2020-11-30
+P117,balanced_spender,28,Jakarta,Ibu Rumah Tangga,Married,2,10200000,Medium,Balanced,30,350000,2.5,2020-06-25
+P118,balanced_spender,25,Semarang,Freelancer,Single,1,6800000,High,Balanced,15,230000,2.1,2021-09-20
+P119,balanced_spender,33,Denpasar,Pegawai Swasta,Married,3,8200000,Medium,Balanced,25,280000,2.6,2020-08-30
+P120,balanced_spender,29,Yogyakarta,Wirausaha,Single,1,6700000,Medium,Balanced,5,228000,2.2,2021-12-01
+P121,lifestyle_spender,28,Jakarta,Pegawai Swasta,Single,1,18000000,High,Lifestyle,25,800000,3.5,2020-01-15
+P122,lifestyle_spender,30,Surabaya,Wirausaha,Married,2,22000000,High,Lifestyle,10,950000,4,2020-06-20
+P123,lifestyle_spender,26,Bandung,Freelancer,Single,1,15000000,Very High,Lifestyle,15,650000,3.2,2021-03-10
+P124,lifestyle_spender,32,Medan,Pegawai Swasta,Married,3,16000000,High,Lifestyle,25,700000,3.8,2020-09-05
+P125,lifestyle_spender,24,Jakarta,Mahasiswa,Single,1,12000000,Very High,Lifestyle,1,500000,3,2022-01-12
+P126,lifestyle_spender,35,Semarang,Ibu Rumah Tangga,Married,4,14000000,Medium,Lifestyle,30,600000,4.2,2020-04-18
+P127,lifestyle_spender,29,Denpasar,Wirausaha,Single,1,19000000,High,Lifestyle,5,850000,3.6,2021-08-25
+P128,lifestyle_spender,31,Yogyakarta,Pegawai Swasta,Married,2,13000000,High,Lifestyle,28,550000,3.4,2020-11-30
+P129,lifestyle_spender,27,Jakarta,Freelancer,Single,1,16500000,Very High,Lifestyle,20,720000,3.3,2021-05-05
+P130,lifestyle_spender,33,Surabaya,Pegawai Swasta,Married,3,17500000,High,Lifestyle,25,780000,3.9,2020-07-22
+P131,lifestyle_spender,25,Bandung,Mahasiswa,Single,1,11000000,Very High,Lifestyle,1,480000,3.1,2022-02-28
+P132,lifestyle_spender,34,Medan,Wirausaha,Married,4,18500000,Medium,Lifestyle,10,820000,4.1,2020-12-10
+P133,lifestyle_spender,30,Jakarta,Pegawai Swasta,Single,1,20000000,High,Lifestyle,25,900000,3.7,2021-10-15
+P134,lifestyle_spender,28,Semarang,Freelancer,Married,2,14500000,High,Lifestyle,15,630000,3.5,2021-02-18
+P135,lifestyle_spender,36,Denpasar,Ibu Rumah Tangga,Married,3,15500000,Medium,Lifestyle,30,680000,4,2020-05-01
+P136,lifestyle_spender,29,Yogyakarta,Wirausaha,Single,1,13500000,High,Lifestyle,5,580000,3.4,2021-09-09
+P137,lifestyle_spender,26,Surabaya,Pegawai Swasta,Married,2,17000000,High,Lifestyle,25,750000,3.8,2020-10-25
+P138,lifestyle_spender,32,Jakarta,Freelancer,Single,1,19500000,Very High,Lifestyle,20,880000,3.6,2021-06-12
+P139,lifestyle_spender,31,Bandung,Pegawai Swasta,Married,3,16000000,High,Lifestyle,28,710000,3.9,2020-08-08
+P140,lifestyle_spender,24,Medan,Mahasiswa,Single,1,11500000,Very High,Lifestyle,1,490000,3,2022-03-20
+P141,lifestyle_spender,27,Jakarta,Wirausaha,Single,1,21000000,High,Lifestyle,10,920000,3.7,2021-04-05
+P142,lifestyle_spender,35,Semarang,Pegawai Swasta,Married,4,15000000,Medium,Lifestyle,25,660000,4.3,2020-03-30
+P143,lifestyle_spender,30,Denpasar,Freelancer,Married,2,16800000,High,Lifestyle,15,740000,3.8,2021-11-20
+P144,lifestyle_spender,33,Yogyakarta,Ibu Rumah Tangga,Married,3,12500000,Medium,Lifestyle,30,540000,4.1,2020-06-15
+P145,lifestyle_spender,29,Surabaya,Pegawai Swasta,Single,1,18500000,High,Lifestyle,25,810000,3.6,2021-07-30
+P146,lifestyle_spender,31,Bandung,Wirausaha,Married,2,15800000,High,Lifestyle,5,690000,3.9,2020-09-18
+P147,lifestyle_spender,25,Jakarta,Mahasiswa,Single,1,12800000,Very High,Lifestyle,1,520000,3.1,2022-05-02
+P148,lifestyle_spender,34,Medan,Pegawai Swasta,Married,3,16200000,High,Lifestyle,28,715000,4,2020-12-25
+P149,lifestyle_spender,28,Semarang,Freelancer,Single,1,14800000,High,Lifestyle,20,640000,3.5,2021-12-05
+P150,lifestyle_spender,32,Denpasar,Wirausaha,Married,2,19800000,High,Lifestyle,10,870000,3.8,2020-11-10
+P151,lifestyle_spender,27,Jakarta,Pegawai Swasta,Single,1,22500000,Very High,Lifestyle,25,980000,3.7,2021-01-25
+P152,lifestyle_spender,36,Surabaya,Ibu Rumah Tangga,Married,4,17200000,Medium,Lifestyle,30,760000,4.4,2020-02-12
+P153,lifestyle_spender,30,Bandung,Freelancer,Married,2,15200000,High,Lifestyle,15,670000,3.8,2021-08-10
+P154,lifestyle_spender,33,Yogyakarta,Pegawai Swasta,Married,3,13800000,High,Lifestyle,25,600000,3.9,2020-05-20
+P155,lifestyle_spender,29,Medan,Wirausaha,Single,1,16500000,High,Lifestyle,5,730000,3.6,2021-03-15
+P156,lifestyle_spender,31,Jakarta,Mahasiswa,Single,1,13200000,Very High,Lifestyle,1,540000,3.2,2022-06-05
+P157,lifestyle_spender,25,Semarang,Pegawai Swasta,Single,1,14200000,Medium,Lifestyle,28,620000,3.5,2021-09-28
+P158,lifestyle_spender,35,Denpasar,Ibu Rumah Tangga,Married,3,15900000,High,Lifestyle,30,700000,4.2,2020-08-05
+P159,lifestyle_spender,28,Surabaya,Freelancer,Married,2,16000000,Very High,Lifestyle,20,705000,3.9,2021-10-30
+P160,lifestyle_spender,32,Bandung,Wirausaha,Single,1,17800000,High,Lifestyle,10,790000,3.7,2020-11-25
+P161,lifestyle_spender,34,Jakarta,Pegawai Swasta,Married,4,23000000,High,Lifestyle,25,1000000,4.1,2020-04-02
+P162,lifestyle_spender,26,Medan,Freelancer,Single,1,15500000,High,Lifestyle,15,680000,3.6,2021-02-08
+P163,lifestyle_spender,30,Yogyakarta,Pegawai Swasta,Married,2,14000000,Medium,Lifestyle,25,610000,3.9,2020-09-12
+P164,lifestyle_spender,27,Semarang,Wirausaha,Single,1,15000000,High,Lifestyle,5,660000,3.5,2021-11-15
+P165,lifestyle_spender,33,Denpasar,Mahasiswa,Single,1,12200000,Very High,Lifestyle,1,510000,3.1,2022-04-25
+P166,lifestyle_spender,29,Surabaya,Ibu Rumah Tangga,Married,3,16800000,High,Lifestyle,30,740000,4,2020-07-18
+P167,lifestyle_spender,31,Bandung,Pegawai Swasta,Married,2,16100000,High,Lifestyle,28,710000,3.9,2020-10-08
+P168,lifestyle_spender,25,Jakarta,Freelancer,Single,1,18800000,Very High,Lifestyle,20,830000,3.7,2021-06-22
+P169,lifestyle_spender,36,Medan,Wirausaha,Married,4,19200000,Medium,Lifestyle,10,850000,4.2,2020-12-30
+P170,lifestyle_spender,28,Yogyakarta,Pegawai Swasta,Single,1,14500000,High,Lifestyle,25,640000,3.6,2021-05-18
+P171,disciplined_saver,35,Jakarta,Pegawai Swasta,Single,1,25000000,Medium,Saver,25,350000,2.5,2020-02-15
+P172,disciplined_saver,40,Surabaya,Wirausaha,Married,3,32000000,Low,Saver,10,420000,2.8,2020-06-10
+P173,disciplined_saver,38,Bandung,Freelancer,Married,2,22000000,Medium,Saver,15,300000,2.6,2021-04-20
+P174,disciplined_saver,45,Medan,Pegawai Swasta,Married,4,28000000,Low,Saver,25,380000,3,2020-11-05
+P175,disciplined_saver,29,Jakarta,Wirausaha,Single,1,30000000,Medium,Saver,5,400000,2.4,2021-09-12
+P176,disciplined_saver,33,Semarang,Ibu Rumah Tangga,Married,3,18000000,Low,Saver,30,250000,2.7,2020-03-22
+P177,disciplined_saver,42,Denpasar,Pegawai Swasta,Married,2,26000000,Medium,Saver,28,360000,2.9,2020-08-30
+P178,disciplined_saver,36,Yogyakarta,Freelancer,Single,1,20000000,High,Saver,20,280000,2.5,2021-12-08
+P179,disciplined_saver,31,Jakarta,Pegawai Swasta,Married,2,29000000,Medium,Saver,25,390000,2.8,2020-10-14
+P180,disciplined_saver,39,Surabaya,Wirausaha,Married,4,35000000,Low,Saver,10,450000,3.1,2020-01-28
+P181,disciplined_saver,34,Bandung,Ibu Rumah Tangga,Married,2,21000000,Medium,Saver,30,290000,2.7,2020-05-09
+P182,disciplined_saver,41,Medan,Pegawai Swasta,Single,1,24000000,Low,Saver,25,330000,2.6,2021-03-18
+P183,disciplined_saver,30,Jakarta,Freelancer,Married,3,27000000,High,Saver,15,370000,2.9,2021-08-02
+P184,disciplined_saver,37,Semarang,Wirausaha,Married,2,19000000,Medium,Saver,5,260000,2.6,2020-12-12
+P185,disciplined_saver,44,Denpasar,Pegawai Swasta,Married,4,23000000,Low,Saver,25,310000,3,2020-09-20
+P186,disciplined_saver,28,Yogyakarta,Mahasiswa,Single,1,15000000,Medium,Saver,1,200000,2.2,2022-02-14
+P187,disciplined_saver,32,Jakarta,Pegawai Swasta,Married,2,31000000,Medium,Saver,28,410000,2.8,2020-07-29
+P188,disciplined_saver,46,Surabaya,Ibu Rumah Tangga,Married,3,25000000,Low,Saver,30,340000,2.9,2020-04-16
+P189,disciplined_saver,35,Bandung,Wirausaha,Single,1,28000000,Medium,Saver,10,380000,2.5,2021-10-22
+P190,disciplined_saver,39,Medan,Freelancer,Married,2,20500000,Low,Saver,20,285000,2.7,2020-11-09
+P191,disciplined_saver,43,Jakarta,Pegawai Swasta,Married,4,33000000,Medium,Saver,25,440000,3.2,2020-06-03
+P192,disciplined_saver,29,Semarang,Pegawai Swasta,Single,1,18500000,High,Saver,25,255000,2.4,2021-01-11
+P193,disciplined_saver,38,Denpasar,Wirausaha,Married,3,22500000,Medium,Saver,5,300000,2.9,2020-10-27
+P194,disciplined_saver,34,Yogyakarta,Ibu Rumah Tangga,Married,2,16500000,Low,Saver,30,230000,2.7,2020-02-22
+P195,disciplined_saver,40,Jakarta,Pegawai Swasta,Single,1,29500000,Medium,Saver,28,395000,2.6,2021-07-14
+P196,disciplined_saver,47,Surabaya,Freelancer,Married,4,26000000,Low,Saver,15,350000,3,2020-08-19
+P197,disciplined_saver,31,Bandung,Wirausaha,Married,2,24000000,High,Saver,10,320000,2.8,2020-12-05
+P198,disciplined_saver,36,Medan,Pegawai Swasta,Single,1,21500000,Medium,Saver,25,290000,2.5,2021-05-28
+P199,disciplined_saver,42,Semarang,Ibu Rumah Tangga,Married,3,19500000,Low,Saver,30,270000,2.9,2020-09-08
+P200,disciplined_saver,33,Jakarta,Pegawai Swasta,Married,2,34000000,Medium,Saver,25,460000,3,2020-11-20
