@@ -5,7 +5,8 @@ pytest
 streamlit
 opencv-python
 pillow
-pytesseract
+seaborn
+matplotlib
 # Optional / recommended for better OCR performance:
-# paddlepaddle
-# paddleocr
+paddlepaddle
+paddleocr
